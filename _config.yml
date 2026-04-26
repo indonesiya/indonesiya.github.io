@@ -16,7 +16,7 @@ authors:
   salsa:
     name: Salsabila
     display_name: Salsabila
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatar.jpg'
     email: sal@indonesiya.com
     web: https://indonesiya.com
     twitter: https://twitter.com/indonesiya
@@ -25,7 +25,7 @@ authors:
   dina:
     name: Dina Putri
     display_name: Dina
-    avatar: 'assets/images/avatar1.png'
+    avatar: 'assets/images/avatar1.jpg'
     email: dina@indonesiya.com
     web: https://indonesiya.com
     twitter: https://twitter.com/indonesiya
@@ -34,7 +34,7 @@ authors:
   arif:
     name: Arif Rahman
     display_name: Arif
-    avatar: 'assets/images/avatar2.png'
+    avatar: 'assets/images/avatar2.jpg'
     email: arif@indonesiya.com
     web: https://indonesiya.com
     twitter: https://twitter.com/indonesiya
@@ -43,7 +43,7 @@ authors:
   maya:
     name: Maya Sari
     display_name: Maya
-    avatar: 'assets/images/avatar3.png'
+    avatar: 'assets/images/avatar3.jpg'
     email: maya@indonesiya.com
     web: https://indonesiya.com
     twitter: https://twitter.com/indonesiya
@@ -52,7 +52,7 @@ authors:
   rizky:
     name: Rizky Pratama
     display_name: Rizky
-    avatar: 'assets/images/avatar4.png'
+    avatar: 'assets/images/avatar4.jpg'
     email: rizky@indonesiya.com
     web: https://indonesiya.com
     twitter: https://twitter.com/indonesiya
