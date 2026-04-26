@@ -1,17 +1,13 @@
----
-# Add a comment to make this file sass-y.
-# Change this file for any custom CSS.
----
+--- # Add a comment to make this file sass-y. # Change this file for any custom CSS. ---
 
 /* We need to add display:inline in order to align the '>>' of the 'read more' link */
 .post-excerpt p {
-	display:inline;
+    display: inline;
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-	"syntax",
-    "starsnonscss"
+@import "syntax",
+"starsnonscss"
 ;
 
 /*===== Related Posts =====*/
@@ -20,9 +16,7 @@
 }
 
 .related-posts h5 {
-    border-bottom: 3px solid #1C9963;
     display: inline-block;
-    letter-spacing: 1px;
     text-transform: capitalize;
 }
 
@@ -35,7 +29,13 @@
 }
 
 .related-item {
-    color: inherit;
+    a {
+        color: inherit;
+
+        &:hover {
+            color: #dc3545;
+        }
+    }
 }
 
 .related-item img {
@@ -57,5 +57,13 @@
 @media (max-width: 768px) {
     .related-grid {
         grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+.PageNavigation {
+    color: #1C9963;
+
+    &:hover {
+        color: #dc3545
     }
 }
