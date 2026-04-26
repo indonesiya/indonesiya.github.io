@@ -20,10 +20,10 @@
 }
 
 .related-posts h5 {
-    border-bottom: 3px solid #ffe51f;
+    border-bottom: 3px solid #1C9963;
     display: inline-block;
     letter-spacing: 1px;
-    text-transform: uppercase;
+    text-transform: capitalize;
 }
 
 /* Related Grid */
@@ -32,6 +32,10 @@
     grid-template-columns: repeat(4, 1fr);
     gap: 15px;
     margin: 20px auto;
+}
+
+.related-item {
+    color: inherit;
 }
 
 .related-item img {
