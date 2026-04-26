@@ -63,6 +63,17 @@ post_class: post-template
                 {{content}}
             </div>
 
+            <!-- Read More -->
+            <div id="readmore" class="readmore" style="display:none;">
+                {% include readmore.html %}
+            </div>
+
+
+            <!-- Ad Bottom -->
+            <div class="ad adbottom">
+                {% include adbottom.html %}
+            </div>
+
             <!-- Rating -->
             {% if page.rating %}
             <div class="rating mb-4 d-flex align-items-center">
@@ -174,6 +185,10 @@ post_class: post-template
 {% endif %}
 <!--End Comments
 ================================================== -->
+
+<!-- JavaScript -->
+<script src="{{ site.baseurl }}/assets/js/readmore.js"></script>
+<!-- End Article -->
 
 <!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
 https://search.google.com/structured-data/testing-tool/u/0/
