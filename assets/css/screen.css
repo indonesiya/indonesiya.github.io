@@ -532,13 +532,18 @@ ul.tags li a:hover {
 }
 
 .btn.follow {
-    border-color: #02B875;
-    color: #1C9963;
+    border-color: #dc3545;
+    color: #dc3545;
     padding: 3px 10px;
     text-align: center;
     border-radius: 999em;
     font-size: 0.85rem;
     display: inline-block;
+
+    &:hover {
+        background-color: #dc3545;
+        color: #fff;
+    }
 }
 
 .btn.subscribe {
@@ -555,7 +560,7 @@ ul.tags li a:hover {
 
 .post-top-meta .btn.follow {
     margin-left: 5px;
-    margin-top: -4px;
+    margin-top: -5px;
 }
 
 .alertbar {
