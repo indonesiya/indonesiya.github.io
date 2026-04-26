@@ -933,6 +933,7 @@ iframe {
 .related-item {
     a {
         color: inherit;
+        font-weight: 600;
 
         &:hover {
             color: #dc3545;
