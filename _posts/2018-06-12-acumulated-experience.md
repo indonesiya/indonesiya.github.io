@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Accumulated experience of social living"
-author: sal
+author: maya
 categories: [ Jekyll, tutorial ]
 image: assets/images/15.jpg
 ---

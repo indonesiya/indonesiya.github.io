@@ -3,21 +3,16 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+    <meta
+        content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no,shrink-to-fit=no'
+        name='viewport' />
     <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
-
     <title>{{ page.title }} | {{site.name}}</title>
-
     {% seo %}
-
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
         integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-
-    <link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
-
-    <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
-
+    <link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet"/>
+    <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet"/>
     <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 
 </head>
@@ -73,39 +68,31 @@
             <div class="collapse navbar-collapse" id="navbarMediumish">
 
                 <!-- Begin Menu -->
-
                 <ul class="navbar-nav ml-auto">
-
                     <!-- Home / Blog -->
                     <li class="nav-item {% if page.url == '/' %}active{% endif %}">
                         <a class="nav-link" href="{{ '/' | absolute_url }}">Home</a>
                     </li>
-
                     <!-- Destinations -->
                     <li class="nav-item">
                         <a class="nav-link" href="{{ '/destinations' | absolute_url }}">Destinations</a>
                     </li>
-
                     <!-- Travel Tips -->
                     <li class="nav-item">
                         <a class="nav-link" href="{{ '/travel-tips' | absolute_url }}">Travel Tips</a>
                     </li>
-
                     <!-- Culture -->
                     <li class="nav-item">
                         <a class="nav-link" href="{{ '/culture' | absolute_url }}">Culture</a>
                     </li>
-
                     <!-- About -->
                     <li class="nav-item">
                         <a class="nav-link" href="{{ '/about' | absolute_url }}">About</a>
                     </li>
-
                     <!-- Contact -->
                     <li class="nav-item">
                         <a class="nav-link" href="{{ '/contact' | absolute_url }}">Contact</a>
                     </li>
-
                     <!-- Search -->
                     {% include search-lunr.html %}
 
@@ -127,7 +114,7 @@
             <!-- Site Title
 ================================================== -->
             <div class="mainheading">
-                <h1 class="sitetitle">{{ site.name }}</h1>
+                <h1 class="sitetitle"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
                 <p class="lead">
                     {{ site.description }}
                 </p>
@@ -141,7 +128,7 @@
 
             {% if site.mailchimp-list %}
             <!-- Bottom Alert Bar
-================================================== -->
+================================================== 
             <div class="alertbar">
                 <div class="container text-center">
                     <span><img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}"> &nbsp; Never miss a
@@ -155,7 +142,7 @@
                         </div>
                     </form>
                 </div>
-            </div>
+            </div>-->
             {% endif %}
 
         </div>
@@ -216,11 +203,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"
         integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous">
     </script>
-
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
         integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous">
     </script>
-
     <script src="{{ site.baseurl }}/assets/js/mediumish.js"></script>
 
     {% if site.lazyimages == "enabled" %}

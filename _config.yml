@@ -13,7 +13,7 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  salsa:
     name: Salsabila
     display_name: Salsabila
     avatar: 'assets/images/avatar.png'
