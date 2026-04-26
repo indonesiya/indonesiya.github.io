@@ -4,20 +4,27 @@ Copyright: Sal, WowThemes.net, https://www.wowthemes.net
 License: https://www.wowthemes.net/freebies-license/ 
 */
 @media screen and (min-width:1500px) {
-    html { font-size:18px; } /* Increase the font size on higher resolutions */
-    .container {max-width:80%;}
+    html {
+        font-size: 18px;
+    }
+
+    /* Increase the font size on higher resolutions */
+    .container {
+        max-width: 80%;
+    }
 }
+
 .mainheading {
     padding: 1rem 0rem;
 }
 
 a {
-    color: #00ab6b;
+    color: #007bff;
     transition: all 0.2s;
 }
 
 a:hover {
-    color: #038252;
+    color: #dc3545;
     text-decoration: none;
 }
 
@@ -337,7 +344,7 @@ span.post-read-more a:hover {
 }
 
 blockquote {
-    border-left: 4px solid #00ab6b;
+    border-left: 4px solid #dc3545;
     padding: 0 20px;
     font-style: italic;
     color: rgba(0, 0, 0, .5);
