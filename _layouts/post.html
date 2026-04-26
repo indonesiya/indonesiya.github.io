@@ -124,7 +124,7 @@ post_class: post-template
             <!-- End Categories -->
 
             {% assign author = site.authors[page.author] %}
-            
+
             <!-- Author Box -->
             {% if page.author %}
             <div class="row post-top-meta">
@@ -144,6 +144,11 @@ post_class: post-template
                 </div>
             </div>
             {% endif %}
+
+            <!-- Related Posts -->
+            <div class="related-posts">
+                {% include relatedposts.html %}
+            </div>
 
         </div>
         <!-- End Post -->

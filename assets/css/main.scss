@@ -13,3 +13,45 @@
 	"syntax",
     "starsnonscss"
 ;
+
+/*===== Related Posts =====*/
+.related-posts {
+    margin-top: 40px;
+}
+
+.related-posts h5 {
+    border-bottom: 3px solid #ffe51f;
+    display: inline-block;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+/* Related Grid */
+.related-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+    margin: 20px auto;
+}
+
+.related-item img {
+    width: 100%;
+    object-fit: cover;
+    aspect-ratio: 16/9;
+}
+
+.related-item p {
+    font-size: 15px;
+    margin-top: 8px;
+}
+
+.related-item p:hover {
+    color: #007bff;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+    .related-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
