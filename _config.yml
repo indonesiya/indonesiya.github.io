@@ -4,7 +4,7 @@ title: "Indonesiya"
 description: "Berbagi informasi, menginspirasi dan terpopuler"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: ''
+baseurl: '/'
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -14,23 +14,49 @@ permalink: /:title/
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: Salsabila
+    display_name: Salsabila
     avatar: 'assets/images/avatar.png'
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    email: sal@indonesiya.com
+    web: https://indonesiya.com
+    twitter: https://twitter.com/indonesiya
+    description: "Traveler and storyteller sharing inspiring journeys and hidden gems across Indonesia."
+
+  dina:
+    name: Dina Putri
+    display_name: Dina
+    avatar: 'assets/images/avatar1.png'
+    email: dina@indonesiya.com
+    web: https://indonesiya.com
+    twitter: https://twitter.com/indonesiya
+    description: "A passionate explorer who loves beaches, sunsets, and discovering unique local cultures."
+
+  arif:
+    name: Arif Rahman
+    display_name: Arif
+    avatar: 'assets/images/avatar2.png'
+    email: arif@indonesiya.com
+    web: https://indonesiya.com
+    twitter: https://twitter.com/indonesiya
+    description: "Adventure seeker focusing on mountains, nature, and off-the-beaten-path destinations."
+
+  maya:
+    name: Maya Sari
+    display_name: Maya
+    avatar: 'assets/images/avatar3.png'
+    email: maya@indonesiya.com
+    web: https://indonesiya.com
+    twitter: https://twitter.com/indonesiya
+    description: "Food and culture enthusiast exploring Indonesia through its flavors and traditions."
+
+  rizky:
+    name: Rizky Pratama
+    display_name: Rizky
+    avatar: 'assets/images/avatar4.png'
+    email: rizky@indonesiya.com
+    web: https://indonesiya.com
+    twitter: https://twitter.com/indonesiya
+    description: "Travel writer sharing practical tips, budget guides, and smart travel hacks across Indonesia."
 
 # Plugins
 plugins:
