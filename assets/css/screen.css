@@ -188,6 +188,8 @@ section.recent-posts {
     height: 40px;
     margin-right: 13px;
     border-radius: 100%;
+    padding: 3px;
+    border: 1px solid #dbdfe4;
 }
 
 .post-top-meta {
@@ -927,13 +929,12 @@ iframe {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 15px;
-    margin: 20px auto;
+    margin: 1rem auto;
 }
 
 .related-item {
     a {
         color: inherit;
-        font-weight: 600;
 
         &:hover {
             color: #dc3545;
