@@ -5,7 +5,7 @@ description: "Berbagi informasi, menginspirasi dan terpopuler"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: '/'
-google_analytics: 'UA-46278016-1'
+google_analytics: 'G-4D4D0Y40BV'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
@@ -20,7 +20,7 @@ authors:
     email: sal@indonesiya.com
     web: https://indonesiya.com
     twitter: https://twitter.com/indonesiya
-    description: "Traveler and storyteller sharing inspiring journeys and hidden gems across Indonesia."
+    description: "Seorang penulis yang menjadikan kata-kata sebagai sarana untuk berbagi inspirasi. Berkomitmen untuk terus belajar dan berkembang dalam dunia penulisan."
 
   dina:
     name: Dina Putri
@@ -29,7 +29,7 @@ authors:
     email: dina@indonesiya.com
     web: https://indonesiya.com
     twitter: https://twitter.com/indonesiya
-    description: "A passionate explorer who loves beaches, sunsets, and discovering unique local cultures."
+    description: "Seorang penulis digital yang gemar membagikan informasi menarik seputar berbagai topik. Percaya bahwa tulisan sederhana bisa memberikan inspirasi dan manfaat bagi banyak orang."
 
   arif:
     name: Arif Rahman
@@ -38,7 +38,7 @@ authors:
     email: arif@indonesiya.com
     web: https://indonesiya.com
     twitter: https://twitter.com/indonesiya
-    description: "Adventure seeker focusing on mountains, nature, and off-the-beaten-path destinations."
+    description: "Penulis online yang memiliki ketertarikan pada dunia internet, tren, dan gaya hidup modern. Berkomitmen untuk menghadirkan artikel yang bermanfaat dan inspiratif."
 
   maya:
     name: Maya Sari
@@ -47,7 +47,7 @@ authors:
     email: maya@indonesiya.com
     web: https://indonesiya.com
     twitter: https://twitter.com/indonesiya
-    description: "Food and culture enthusiast exploring Indonesia through its flavors and traditions."
+    description: "Seorang perempuan yang menemukan kebahagiaan di jalanan dan tempat-tempat baru. Menulis untuk membagikan rasa, cerita, dan keindahan dunia."
 
   rizky:
     name: Rizky Pratama
@@ -56,7 +56,7 @@ authors:
     email: rizky@indonesiya.com
     web: https://indonesiya.com
     twitter: https://twitter.com/indonesiya
-    description: "Travel writer sharing practical tips, budget guides, and smart travel hacks across Indonesia."
+    description: "Kreator yang menuangkan ide melalui tulisan yang inspiratif dan menarik. Berkomitmen untuk terus menghadirkan konten berkualitas setiap waktu."
 
 # Plugins
 plugins:
@@ -90,10 +90,10 @@ kramdown:
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "enabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
+adsense-data-ad-client: "ca-pub-3956807637449855"
+adsense-data-ad-slot: "1613842065"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "enabled"
+lazyimages: "disabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
