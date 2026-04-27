@@ -859,6 +859,10 @@ iframe {
 }
 
 @media (max-width: 768px) {
+    .flex-first {
+        padding: 0;
+    }
+
     .share {
         margin-top: 30px;
     }
