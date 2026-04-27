@@ -6,7 +6,9 @@ categories: [ wisata, liburan ]
 image: assets/images/wisata/rekomendasi-tempat-camping-terbaik-di-indonesia.jpg
 ---
 
-Camping atau berkemah menjadi salah satu aktivitas wisata alam yang semakin populer di Indonesia. Dengan kekayaan alam yang luar biasa, Indonesia menawarkan berbagai tempat camping terbaik yang menyuguhkan pemandangan pegunungan, hutan, danau, hingga pantai yang memukau. Aktivitas camping tidak hanya memberikan pengalaman petualangan, tetapi juga menjadi cara terbaik untuk melepas penat dari rutinitas sehari-hari. Bagi pecinta alam, mencari rekomendasi tempat camping terbaik di Indonesia adalah langkah awal untuk merencanakan perjalanan yang menyenangkan dan penuh pengalaman berharga.
+Camping atau berkemah menjadi salah satu aktivitas wisata alam yang semakin populer di Indonesia. Dengan kekayaan alam yang luar biasa, Indonesia menawarkan berbagai tempat camping terbaik yang menyuguhkan pemandangan pegunungan, hutan, danau, hingga pantai yang memukau. 
+
+Aktivitas camping tidak hanya memberikan pengalaman petualangan, tetapi juga menjadi cara terbaik untuk melepas penat dari rutinitas sehari-hari. Bagi pecinta alam, mencari rekomendasi tempat camping terbaik di Indonesia adalah langkah awal untuk merencanakan perjalanan yang menyenangkan dan penuh pengalaman berharga.
 
 ## Mengapa Camping di Indonesia Sangat Menarik?
 

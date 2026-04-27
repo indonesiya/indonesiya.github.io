@@ -84,7 +84,7 @@ Kedua, siapkan kamera atau smartphone dengan kualitas foto yang baik. Banyak des
 
 Ketiga, selalu menjaga kebersihan dan kelestarian alam. Banyak tempat wisata populer yang rusak karena perilaku wisatawan yang tidak bertanggung jawab.
 
-### Kesimpulan
+## Kesimpulan
 
 Indonesia memiliki banyak tempat wisata hits yang lagi trending yang menawarkan keindahan alam luar biasa. Mulai dari Nusa Penida, Labuan Bajo, Gunung Bromo, Raja Ampat, hingga Kawah Ijen, semuanya memiliki daya tarik unik yang membuat wisatawan terus berdatangan.
 
