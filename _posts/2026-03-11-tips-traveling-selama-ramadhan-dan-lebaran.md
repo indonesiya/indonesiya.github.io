@@ -2,15 +2,13 @@
 layout: post
 title: "Tips Traveling Selama Ramadhan dan Lebaran"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXcQ4GM8WUibJwkgL1-lb57WOgL1VxYjYJ3HcNt7EAwYi_dggu3wXBfKKuXCFMg5VdGl91M41dSpXvn1B03mIrsm4G4-AsZwDQs2hMO7YZ5z_B16VcL2nqDDh69CxmXgoAVuf_fC4Q?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ tips, wisata, ramadhan, panduan ]
+image: assets/images/wisata/tips-traveling-selama-ramadhan-dan-lebaran.jpg
 ---
 
-## Tips Traveling Selama Ramadhan dan Lebaran
+Traveling selama Ramadhan dan Lebaran menjadi momen yang sangat dinantikan oleh banyak orang. Bagi sebagian masyarakat Indonesia, perjalanan saat bulan suci Ramadhan biasanya dilakukan untuk mudik ke kampung halaman, mengunjungi keluarga, atau sekadar berwisata setelah menjalani ibadah puasa. 
 
-### Panduan Lengkap Agar Perjalanan Tetap Nyaman dan Berkah
-
-Pengantar Traveling Saat Ramadhan dan LebaranTraveling selama Ramadhan dan Lebaran menjadi momen yang sangat dinantikan oleh banyak orang. Bagi sebagian masyarakat Indonesia, perjalanan saat bulan suci Ramadhan biasanya dilakukan untuk mudik ke kampung halaman, mengunjungi keluarga, atau sekadar berwisata setelah menjalani ibadah puasa. 
+## Panduan Lengkap Agar Perjalanan Tetap Nyaman dan Berkah
 
 Aktivitas traveling saat Ramadhan memang memiliki tantangan tersendiri karena kondisi tubuh yang sedang berpuasa, perubahan pola makan, serta jadwal ibadah yang lebih padat. Oleh karena itu, memahami tips traveling selama Ramadhan dan Lebaran sangat penting agar perjalanan tetap nyaman, aman, dan tidak mengganggu ibadah.
 
