@@ -73,17 +73,17 @@
                     <li class="nav-item {% if page.url == '/' %}active{% endif %}">
                         <a class="nav-link" href="{{ '/' | absolute_url }}">Home</a>
                     </li>
-                    <!-- Keluarga -->
+                    <!-- Kategori -->
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ '/keluarga' | absolute_url }}">Keluarga</a>
+                        <a class="nav-link" href="{{ '/categories' | absolute_url }}">Kategori</a>
                     </li>
                     <!-- Tips -->
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ '/tips' | absolute_url }}">Tips</a>
+                        <a class="nav-link" href="{{ '/categories#tips' | absolute_url }}">Tips</a>
                     </li>
-                    <!-- Budaya -->
+                    <!-- Wisata -->
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ '/budaya' | absolute_url }}">Budaya</a>
+                        <a class="nav-link" href="{{ '/categories#wisata' | absolute_url }}">Wisata</a>
                     </li>
                     <!-- About -->
                     <li class="nav-item">
@@ -91,7 +91,7 @@
                     </li>
                     <!-- Sitemap -->
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ '/sitemap' | absolute_url }}">Sitemap</a>
+                        <a class="nav-link" href="{{ '/sitemap' | absolute_url }}">Daftar Isi</a>
                     </li>
                     <!-- Search -->
                     {% include search-lunr.html %}
