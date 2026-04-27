@@ -4,6 +4,8 @@ title: "Kota di Indonesia yang Paling Nyaman untuk Liburan"
 author: dina
 categories: [ wisata, liburan ]
 image: assets/images/wisata/kota-di-indonesia-yang-paling-nyaman-untuk-liburan.jpg
+featured: true
+hidden: true
 ---
 
 Indonesia dikenal sebagai negara kepulauan dengan kekayaan alam, budaya, dan destinasi wisata yang sangat beragam. Dari pantai tropis hingga pegunungan sejuk, dari kota modern hingga kota bersejarah, semuanya dapat ditemukan di negeri ini. Tidak heran jika banyak wisatawan lokal maupun mancanegara mencari kota di Indonesia yang paling nyaman untuk liburan. Kenyamanan dalam berlibur biasanya dipengaruhi oleh banyak faktor seperti cuaca, keramahan masyarakat, fasilitas wisata, transportasi yang mudah, hingga kebersihan kota.
