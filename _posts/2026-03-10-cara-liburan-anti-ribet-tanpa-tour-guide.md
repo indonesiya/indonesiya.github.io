@@ -2,7 +2,7 @@
 layout: post
 title: "Cara Liburan Anti Ribet Tanpa Tour Guide"
 author: dina
-categories: [ tips. liburan, wisata ]
+categories: [ tips, liburan, wisata ]
 image: assets/images/wisata/cara-liburan-anti-ribet-tanpa-tour-guide.jpg
 ---
 
@@ -93,51 +93,3 @@ Pada akhirnya, cara liburan anti ribet tanpa tour guide adalah tentang menikmati
 Banyak traveler yang merasa perjalanan mandiri justru memberikan cerita dan kenangan yang lebih mendalam. Anda bisa mengatur waktu sendiri, memilih aktivitas yang benar-benar disukai, serta menikmati setiap momen perjalanan tanpa tekanan jadwal yang ketat.
 
 Dengan persiapan yang matang, liburan tanpa tour guide bukan hanya mungkin dilakukan, tetapi juga bisa menjadi pengalaman traveling yang jauh lebih seru dan berkesan. Jadi, jika Anda ingin mencoba petualangan baru, tidak ada salahnya merencanakan perjalanan mandiri dan menikmati kebebasan menjelajah destinasi impian Anda.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-label: traveling, liburan, wisata
-
-
