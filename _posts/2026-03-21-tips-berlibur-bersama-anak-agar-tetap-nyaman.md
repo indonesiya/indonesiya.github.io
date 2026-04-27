@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Berlibur Bersama Anak Agar Tetap Nyaman"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXca6hwwUSx_EF6Z384xOqKrZbHgatTPQ2B4W-gvGo-9V8fmulwKeB9NHxzx6YpTjzEb9wVzpDdAPysVNZGM8dk4yQWe4tCm3aPVqOg3N_sqVeVHA_cJnUJZLYAmFheeTc_eIMaI?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-berlibur-bersama-anak-agar-tetap-nyaman.jpg
 ---
 
 Tips Berlibur Bersama Anak Agar Tetap NyamanPanduan Lengkap Liburan Keluarga yang Seru, Aman, dan MenyenangkanBerlibur bersama anak merupakan momen berharga yang selalu dinantikan oleh setiap keluarga. Selain menjadi waktu untuk melepas penat dari rutinitas sehari-hari, liburan keluarga juga menjadi kesempatan mempererat hubungan antara orang tua dan anak. Namun, perjalanan bersama anak tentu membutuhkan persiapan yang lebih matang dibandingkan liburan biasa. Tanpa perencanaan yang baik, perjalanan bisa terasa melelahkan dan kurang menyenangkan. Oleh karena itu, penting bagi orang tua mengetahui tips berlibur bersama anak agar tetap nyaman sehingga perjalanan menjadi pengalaman yang menyenangkan bagi seluruh anggota keluarga.

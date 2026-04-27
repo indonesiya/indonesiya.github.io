@@ -2,8 +2,8 @@
 layout: post
 title: "Destinasi Wisata Dunia yang Ramah Backpacker"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXfFGPP6MZNFnCxtnMRKe1YbSf2wUe6_69kxwT4z0LpAQJjQuPVsQvQ6fOMJgkjGjeEVRZM7ihT5G80DfDmQPqic6Om__H4gffXaqOvxhp6cnQAc3Y2S541d48qcEXZL83tdqE5VRw?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/destinasi-wisata-dunia-yang-ramah-backpacker.jpg
 ---
 
 Destinasi Wisata Dunia yang Ramah BackpackerPanduan Lengkap Traveling Hemat ke Berbagai NegaraTraveling ke luar negeri sering dianggap mahal dan hanya bisa dilakukan oleh wisatawan dengan budget besar. Padahal, bagi para backpacker, dunia justru penuh dengan destinasi wisata yang ramah di kantong. Konsep backpacking memungkinkan seseorang menjelajah berbagai negara dengan biaya yang lebih hemat, fleksibel, dan penuh pengalaman autentik. Banyak destinasi wisata dunia yang ramah backpacker karena memiliki biaya hidup rendah, transportasi murah, penginapan terjangkau, serta komunitas traveler yang kuat. Dengan perencanaan yang tepat, siapa pun bisa menikmati perjalanan keliling dunia tanpa harus menguras tabungan. Artikel ini akan membahas berbagai destinasi wisata dunia yang ramah backpacker sekaligus memberikan tips penting agar perjalanan tetap hemat namun tetap menyenangkan.

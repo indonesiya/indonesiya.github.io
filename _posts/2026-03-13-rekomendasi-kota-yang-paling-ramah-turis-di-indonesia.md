@@ -2,8 +2,8 @@
 layout: post
 title: "Rekomendasi Kota yang Paling Ramah Turis di Indonesia"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXfRt5_le-sgX93Itcg6YSU89RjR6LTI0vwg8Hpt6QvoKzlVkKzDU-z9C2oU0jjQtnooHl42EtOf6HoxHVDxtAyt-dsJ8x9cca_sElbvKF0HdlIUeGlEhCurIl6X8I0PErL0WzgX?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/rekomendasi-kota-yang-paling-ramah-turis-di-indonesia.jpg
 ---
 
 Rekomendasi Kota yang Paling Ramah Turis di IndonesiaMengapa Memilih Kota yang Ramah Turis Saat Liburan di IndonesiaIndonesia dikenal sebagai negara kepulauan yang memiliki kekayaan budaya, alam, dan kuliner yang sangat beragam. Tidak heran jika banyak wisatawan lokal maupun mancanegara menjadikan Indonesia sebagai destinasi favorit untuk berlibur. Namun, ketika merencanakan perjalanan, salah satu faktor penting yang sering dipertimbangkan wisatawan adalah tingkat keramahan kota terhadap turis. Kota yang ramah turis biasanya memiliki fasilitas wisata yang lengkap, transportasi yang mudah diakses, masyarakat yang terbuka terhadap wisatawan, serta banyak pilihan destinasi menarik yang dapat dikunjungi.

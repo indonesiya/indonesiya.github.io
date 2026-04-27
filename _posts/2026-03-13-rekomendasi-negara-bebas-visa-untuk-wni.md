@@ -2,8 +2,8 @@
 layout: post
 title: "Rekomendasi Negara Bebas Visa untuk WNI"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXcRnQ2b5_Y4qME_cVbxwMQsxz41bqCRHD__zhx3JjYt9VpFuign3txHcdScS7a79UezfXR29Aj7pi2mDnb6RCYk2a1Z_2-ynSr5yl_-fhdVAM8jUxvsnERX-VgAUgzpw2sH4zF0vw?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/rekomendasi-negara-bebas-visa-untuk-wni.jpg
 ---
 
 Rekomendasi Negara Bebas Visa untuk WNIPanduan Lengkap Traveling Hemat dan PraktisTraveling ke luar negeri kini semakin mudah bagi Warga Negara Indonesia (WNI). Salah satu faktor yang membuat perjalanan internasional menjadi lebih sederhana adalah adanya kebijakan bebas visa dari berbagai negara. Dengan fasilitas ini, WNI tidak perlu mengurus visa sebelum berangkat, sehingga proses perjalanan menjadi lebih cepat, hemat biaya, dan tidak ribet. Bagi para traveler yang ingin menjelajahi dunia tanpa prosedur administrasi yang panjang, mengetahui negara bebas visa untuk WNI tentu menjadi informasi yang sangat penting.

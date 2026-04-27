@@ -2,8 +2,8 @@
 layout: post
 title: "Cara Memesan Hotel Murah dengan Strategi Tepat"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXelUEM5faYGNsbhj2ZQN6KXF-snrV6_d_TciK77fS8VwGgGhuec6bVlITphIRp-Xp6XjW1I_UekQ_5RwcMDey7-ADS_5v4ACO2eqyH7dMJD-dLlv_aL7dV6JaMBCZKvVGFA5uR8?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/cara-memesan-hotel-murah-dengan-strategi-tepat.jpg
 ---
 
 Cara Memesan Hotel Murah dengan Strategi TepatMengapa Penting Mengetahui Cara Memesan Hotel MurahSaat merencanakan perjalanan, salah satu pengeluaran terbesar biasanya adalah biaya penginapan. Banyak orang menganggap harga hotel selalu mahal, terutama jika memesan mendekati tanggal keberangkatan. Padahal, dengan memahami cara memesan hotel murah, siapa pun bisa mendapatkan penginapan yang nyaman tanpa harus menguras anggaran perjalanan.

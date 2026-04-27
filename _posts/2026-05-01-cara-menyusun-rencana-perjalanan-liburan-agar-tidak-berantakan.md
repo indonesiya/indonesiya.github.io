@@ -2,8 +2,8 @@
 layout: post
 title: "Cara Menyusun Rencana Perjalanan Liburan agar Tidak Berantakan"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXfK2k8L8iWnk6E5qSbCD-2kfZ_g8bk1wma8VqDX-cgi_x8ZuL_lt-gpzRroupp1zACbzJ_zvEkBUjJ4ZtklCDkdGJ5HK2t48sqievKS7-tl87o_PMimhZqpAb8LVMiMYOYPxtCWjA?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/cara-menyusun-rencana-perjalanan-liburan-agar-tidak-berantakan.jpg
 ---
 
 Cara Menyusun Rencana Perjalanan Liburan agar Tidak BerantakanMerencanakan perjalanan liburan mungkin terdengar sederhana, tetapi kenyataannya banyak orang merasa kebingungan saat menyusun itinerary yang efektif, hemat, dan tetap menyenangkan. Cara menyusun rencana perjalanan liburan agar tidak berantakan bukan hanya soal menentukan destinasi saja, melainkan juga tentang bagaimana mengatur waktu, budget, transportasi, akomodasi, hingga aktivitas agar liburan berjalan lancar dan tidak mengecewakan. Dengan perencanaan yang matang, kamu dapat menikmati liburan tanpa stres, terhindar dari pemborosan, dan tetap merasa nyaman selama perjalanan. Artikel ini akan membahas secara lengkap langkah-langkah menyusun rencana perjalanan yang terstruktur, detail, dan optimal untuk berbagai jenis traveler.

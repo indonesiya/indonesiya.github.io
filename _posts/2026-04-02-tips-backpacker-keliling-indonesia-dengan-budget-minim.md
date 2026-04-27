@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Backpacker Keliling Indonesia dengan Budget Minim"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXewpNvGAcLY_r-Bp1zBdQh9-OysDBxMBBLPVJ1nDkUdwvT1-9XfvtJ6sx-rkpE0ZO3ESBOXJS5djmJkgWMWJu-LWvNPtL9WHhetb2bN694KYqy-uOF33Gcia0nLYPwVcITxSZsxrg?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-backpacker-keliling-indonesia-dengan-budget-minim.jpg
 ---
 
 Tips Backpacker Keliling Indonesia dengan Budget Minim

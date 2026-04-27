@@ -2,8 +2,8 @@
 layout: post
 title: "Rekomendasi Wisata Ala Backpacker di Asia Tenggara"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXeXWc2WWzDXCxV__4mz2NJ3VXKg_9NvXMq3IdO0c63Z3cJVMtm3dbGsrRTuGc7ve1JW9f1JxE9l_olprU5iQ2fVsOevZMdPNpRt-j9JK752vElXNW2iVmFEbei3KTZ4Ld3Qw3uEyw?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/rekomendasi-wisata-ala-backpacker-di-asia-tenggara.jpg
 ---
 
 Rekomendasi Wisata Ala Backpacker di Asia TenggaraMengapa Asia Tenggara Menjadi Surga BackpackerAsia Tenggara sudah lama dikenal sebagai destinasi favorit para backpacker dari seluruh dunia. Kawasan ini menawarkan kombinasi sempurna antara biaya hidup yang terjangkau, keindahan alam yang luar biasa, budaya yang kaya, serta kemudahan transportasi antarnegara. Bagi wisatawan dengan gaya backpacker, Asia Tenggara adalah tempat ideal untuk menjelajah banyak negara hanya dengan anggaran terbatas. Tidak heran jika kata kunci seperti wisata backpacker Asia Tenggara, travel murah Asia, dan backpacker pemula sangat sering dicari di mesin pencari.

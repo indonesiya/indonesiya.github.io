@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Menghindari Drama Saat Traveling Bersama Rombongan"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXd8nk2jaOnRIvJUngZsPWU5gi18gDY4Aln5aZ7iLRHMdM2bslX4ZIW7pAT-nnHI67RPLT2InwxwhTjjixsKFvtYNkmQR3nNZbWddb_-R3QgGtqB0mGO5n7wsQOBA9VKgIr03Ihu?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-menghindari-drama-saat-traveling-bersama-rombongan.jpg
 ---
 
 Tips Menghindari Drama Saat Traveling Bersama RombonganPanduan Lengkap Liburan Tetap Seru dan HarmonisTraveling bersama rombongan sering dianggap sebagai cara terbaik untuk menciptakan kenangan indah. Liburan bersama teman, keluarga, atau rekan kerja bisa menjadi pengalaman yang menyenangkan sekaligus mempererat hubungan. Namun, di balik keseruan tersebut, tidak jarang muncul berbagai drama saat traveling yang membuat suasana menjadi kurang nyaman. Perbedaan karakter, selera, hingga kebiasaan bisa menjadi pemicu konflik jika tidak dikelola dengan baik. Oleh karena itu, memahami tips menghindari drama saat traveling bersama rombongan menjadi hal yang sangat penting agar perjalanan tetap menyenangkan bagi semua orang.

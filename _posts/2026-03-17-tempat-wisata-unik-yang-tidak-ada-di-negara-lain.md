@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata Unik yang Tidak Ada di Negara Lain"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXfoU3Xxi5SauiR1NbTHLih9fvSYqRnWKkkEvuEnJtA4OUUUDZS6xsTygLFT1xmfcSWtgkkw7k84HVLTuUBGwV-6OkYkL_-4TCSAKVwNuKjf2gYgEmEDERDDxQEaPbtfDRoFmQDZ0Q?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-unik-yang-tidak-ada-di-negara-lain.jpg
 ---
 
 Tempat Wisata Unik yang Tidak Ada di Negara Lain

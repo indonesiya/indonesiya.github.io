@@ -2,8 +2,8 @@
 layout: post
 title: "Kota di Indonesia yang Paling Nyaman untuk Liburan"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXeLoxvGghTtP_Xf83c8rD38uIwXifbONO9C3mgvJhLACLuas8W95sDcnKQ6GJoEtcZRZeYk-UNvhGvhCG0l-IBLj76bofjRTMKl5vROdjmtLLGjyKRi4IhYUj_UcM5jPr_gRcWd?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/kota-di-indonesia-yang-paling-nyaman-untuk-liburan.jpg
 ---
 
 Kota di Indonesia yang Paling Nyaman untuk Liburan

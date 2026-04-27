@@ -2,8 +2,8 @@
 layout: post
 title: "Rekomendasi Kota yang Cocok untuk Staycation"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXcHtriRDaHj8y8u9IUYptMV11RITdr37zGiyLwwo7_JFn2Lm66Siu5XAEPtoP3rZEc_7CvU3TZM-jlwuhrtrsiaSBV8Vf91C9pYjjhM8620FytN3K-fYxwgZj8AZFlkNWf0oovAxg?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/rekomendasi-kota-yang-cocok-untuk-staycation.jpg
 ---
 
 Rekomendasi Kota yang Cocok untuk Staycation

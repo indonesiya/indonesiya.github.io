@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata Terbaik untuk Honeymoon"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXeVp2PaXLs9W5iWHD1uHCbaI-Q8TVDNPOPSzgSMqV9htkxhTSp-DSyNUEx05Ph7RCpG19bh6J6Ppf305O3Z-WcQpCRjy7v_UCLXphgReNcvu7ikNroZiCkx7wYGUw7uSPGUqQT2rA?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-terbaik-untuk-honeymoon.jpg
 ---
 
 Tempat Wisata Terbaik untuk HoneymoonDestinasi Romantis untuk Bulan Madu Tak TerlupakanMengapa Memilih Tempat Wisata yang Tepat untuk Honeymoon Itu PentingHoneymoon atau bulan madu merupakan salah satu momen paling spesial bagi pasangan yang baru menikah. Setelah melalui proses persiapan pernikahan yang panjang dan melelahkan, perjalanan romantis menjadi cara sempurna untuk menikmati waktu berdua, mempererat hubungan, dan menciptakan kenangan indah yang akan dikenang seumur hidup. Oleh karena itu, memilih tempat wisata terbaik untuk honeymoon menjadi keputusan penting yang tidak boleh dilakukan secara sembarangan.

@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Aman Traveling Saat Musim Hujan"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXdOG22X_nCHIXWlbUJ8tMufT0DqvWyzqTSySRaAeA0fh2wd4VBD2-OEq2hNLqLkpHsUteguvdfTXCp0JV5SXbwTz_vcAlvOlJI9iC4RDEf4WgpovJzHrGe1x09xiaNkN5jK3dCYAQ?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-aman-traveling-saat-musim-hujan.jpg
 ---
 
 Tips Aman Traveling Saat Musim HujanPanduan Lengkap Agar Liburan Tetap Nyaman dan SelamatPentingnya Persiapan Traveling Saat Musim HujanTraveling saat musim hujan sering kali dianggap kurang ideal karena berbagai risiko seperti cuaca ekstrem, jalan licin, hingga potensi banjir. Namun, dengan persiapan yang matang dan strategi yang tepat, liburan di musim hujan tetap bisa aman, nyaman, dan menyenangkan. Tips aman traveling saat musim hujan menjadi hal penting yang wajib diketahui oleh siapa pun yang ingin bepergian, baik untuk liburan, perjalanan bisnis, maupun mudik.

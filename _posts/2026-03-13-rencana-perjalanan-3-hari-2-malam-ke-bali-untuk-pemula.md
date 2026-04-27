@@ -2,8 +2,8 @@
 layout: post
 title: "Rencana Perjalanan 3 Hari 2 Malam ke Bali untuk Pemula"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXcxe-3tbDRUDvlBtgua4W36p9pZhsNVc1W3VMDbEI-XyzK-cR3oocVWh5I03IeUrNP2itCNlWmtEd_NAtDFp_YGoHhz_luaVnN3CceHCSGh6PZPzwsPsThzx94BX_3sIZ_ufiioTA?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/rencana-perjalanan-3-hari-2-malam-ke-bali-untuk-pemula.jpg
 ---
 
 Panduan Lengkap Liburan Tanpa RibetPendahuluan: Mengapa Bali Cocok untuk Liburan Pertama?Bali merupakan destinasi wisata paling populer di Indonesia dan bahkan dunia. Keindahan alam, budaya yang kuat, kuliner khas, serta infrastruktur pariwisata yang lengkap menjadikan Bali pilihan ideal bagi wisatawan pemula. Banyak orang yang baru pertama kali bepergian memilih Bali karena aksesnya mudah, pilihan penginapan beragam, serta banyak paket wisata yang ramah pemula. Melalui artikel ini, Anda akan mendapatkan rencana perjalanan 3 hari 2 malam ke Bali yang praktis, efisien, dan tetap menyenangkan tanpa harus bingung menyusun itinerary sendiri.

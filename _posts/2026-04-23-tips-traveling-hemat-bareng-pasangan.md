@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Traveling Hemat Bareng Pasangan"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXdF9LvVHz2qllpsm6uFZRwBuk7MprFaSHGWcTZgo5D0k_PTOmmKgd7f81FMJpl8908dUQoGZWkPjhjTm-DVet4OwygQbsVZF6NWrzUh0kGZM3aHrzMvneDJKNi5TO-evmMWUchF?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-traveling-hemat-bareng-pasangan.jpg
 ---
 
 Tips Traveling Hemat Bareng PasanganCara Liburan Romantis Tanpa Menguras TabunganTraveling bersama pasangan adalah salah satu cara terbaik untuk mempererat hubungan. Banyak pasangan bermimpi menikmati perjalanan romantis, menjelajahi tempat baru, mencicipi kuliner khas, dan menciptakan kenangan indah bersama. Namun, tidak sedikit yang mengurungkan niat traveling karena khawatir biaya perjalanan akan terlalu mahal. Padahal, dengan perencanaan yang tepat dan strategi yang cerdas, traveling hemat bareng pasangan tetap bisa dilakukan tanpa harus mengorbankan kenyamanan maupun pengalaman liburan yang menyenangkan.

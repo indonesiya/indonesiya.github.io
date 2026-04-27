@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Menginap di Hostel untuk Pemula"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXeCfeAO77ltal9ehxWtJ7fK-avHKWgHXTJ_LppvfanwZFNPg7ue8KJ2p1Z7fX879GSxqPyUhy6cQkpFyptuHv3ncVO1VP77aJhxvNT3lgN810KGncXkS-3j0MnfamCUUuXshFnAwg?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-menginap-di-hostel-untuk-pemula.jpg
 ---
 
 Tips Menginap di Hostel untuk PemulaPanduan Lengkap Hemat dan NyamanMenginap di hostel semakin populer di kalangan traveler, terutama bagi mereka yang ingin melakukan perjalanan hemat tanpa mengorbankan pengalaman seru selama traveling. Hostel sering menjadi pilihan utama bagi backpacker, solo traveler, maupun wisatawan muda karena menawarkan harga yang jauh lebih terjangkau dibandingkan hotel. Namun bagi pemula, pengalaman menginap di hostel bisa terasa sedikit membingungkan karena konsepnya berbeda dengan penginapan biasa. Oleh karena itu, memahami tips menginap di hostel untuk pemula sangat penting agar perjalanan tetap nyaman, aman, dan menyenangkan.

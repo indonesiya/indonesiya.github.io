@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata Alam Terbaik untuk Healing"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXeGWdylct3YrDi8vn3gk80rcI4kym0xQ-bjV7ewAgW2FBmmBMu_I_CRb9svWPjwyYS-7sKoaUJBuxzQpAzhUzfebYUoV6SnHktdZEEGNjFCZZS1ZTKH7wXxmxOjzg58GYWfCT5Akg?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-alam-terbaik-untuk-healing.jpg
 ---
 
 Tempat Wisata Alam Terbaik untuk HealingMengapa Healing di Alam Semakin DibutuhkanDi tengah tekanan hidup modern, rutinitas kerja yang padat, serta paparan digital yang tiada henti, kebutuhan akan healing menjadi semakin relevan. Healing bukan sekadar liburan biasa, tetapi proses pemulihan mental, emosional, dan spiritual yang sering kali paling efektif dilakukan di tengah alam. Indonesia sebagai negara kepulauan memiliki kekayaan wisata alam yang luar biasa, mulai dari pegunungan, pantai, hutan tropis, danau, hingga desa wisata yang masih alami. Tempat wisata alam terbaik untuk healing di Indonesia tidak hanya menawarkan keindahan visual, tetapi juga ketenangan, udara segar, serta pengalaman menyatu dengan alam yang menenangkan jiwa.

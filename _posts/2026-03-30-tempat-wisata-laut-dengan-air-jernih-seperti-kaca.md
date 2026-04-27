@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata Laut dengan Air Jernih Seperti Kaca"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXeQ0v3Yqxf2v6XhFr3iGQkatqZcFxSNWdW1-LS400XJATWKNZVhrYDHMFSSH44ojQfx36XM63Jua4MFgZZ6_k0-06_-jmuX7QjSRyoy1p8-s4KX_eaXEwGgq_M3DQyhunXFVaeQ?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-laut-dengan-air-jernih-seperti-kaca.jpg
 ---
 
 Tempat Wisata Laut dengan Air Jernih Seperti Kaca

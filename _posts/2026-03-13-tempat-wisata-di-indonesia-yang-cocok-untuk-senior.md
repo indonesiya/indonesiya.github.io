@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata di Indonesia yang Cocok untuk Senior"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXfFeDL4WvqvAQk-NTc47sgxG66j8STI2KIg26vU7F1lHY-w0KBdv4V4Luxbca8yIYIqE_XVzIfRxElqppxRkjLpVfIAZLf_vVeoqQnh18YWAO6eBjDeGMfAHjFAFcj5jdPBXqc3-g?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-di-indonesia-yang-cocok-untuk-senior.jpg
 ---
 
 Tempat Wisata di Indonesia yang Cocok untuk SeniorDestinasi Nyaman, Aman, dan MenenangkanIndonesia dikenal sebagai negara kepulauan dengan kekayaan alam, budaya, dan destinasi wisata yang luar biasa. Dari pegunungan yang sejuk hingga pantai yang menenangkan, Indonesia memiliki banyak tempat wisata yang cocok untuk senior atau wisatawan lanjut usia yang ingin menikmati perjalanan dengan nyaman. Bagi para lansia, memilih destinasi wisata tidak hanya soal keindahan, tetapi juga faktor kenyamanan, aksesibilitas, keamanan, serta fasilitas yang ramah untuk usia lanjut. Oleh karena itu, artikel ini akan membahas berbagai tempat wisata di Indonesia yang cocok untuk senior yang dapat memberikan pengalaman liburan santai, sehat, dan menyenangkan.

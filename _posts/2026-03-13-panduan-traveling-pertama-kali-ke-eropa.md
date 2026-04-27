@@ -2,8 +2,8 @@
 layout: post
 title: "Panduan Traveling Pertama Kali ke Eropa"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXcGfLSkfvstUcEYAhSnLdFukcz9PdWq-u0aKTCMBzo8ufdNaByuAM2s7QUFtTXCacyyp7Qowgc0JLX7Ggm1EvlE4kgGW73lpkhdcBwZ2gPY9p3sRqxNo57fAbw6ekv4yeTPQmaw?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/panduan-traveling-pertama-kali-ke-eropa.jpg
 ---
 
 Panduan Traveling Pertama Kali ke EropaTips Lengkap untuk Pemula Agar Liburan Lebih Mudah dan HematTraveling ke Eropa sering menjadi impian banyak orang Indonesia. Benua ini terkenal dengan sejarah panjang, arsitektur klasik, kota romantis, serta budaya yang sangat beragam. Namun bagi traveler pemula, perjalanan pertama ke Eropa bisa terasa cukup membingungkan karena banyak hal yang harus dipersiapkan, mulai dari visa, tiket pesawat, transportasi antar negara, hingga pengaturan budget. Oleh karena itu, memiliki panduan traveling pertama kali ke Eropa sangat penting agar perjalanan berjalan lancar, aman, dan tetap hemat.

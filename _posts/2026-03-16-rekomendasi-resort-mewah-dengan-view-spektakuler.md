@@ -2,8 +2,8 @@
 layout: post
 title: "Rekomendasi Resort Mewah dengan View Spektakuler"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXd9W1XZL5MxwUWVA7zerqsCfoTCjYfdxJOwWGlmlJZiB2ijuXLI4IYTJjCn4gnot2dRjOPKAsfyZsO9vh4tzihANQMUvh4hMwPwYieCD5qJpI91HESwJOEqNb04gjNe_Ipe2hpZOw?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/rekomendasi-resort-mewah-dengan-view-spektakuler.jpg
 ---
 
 Rekomendasi Resort Mewah dengan View Spektakuler

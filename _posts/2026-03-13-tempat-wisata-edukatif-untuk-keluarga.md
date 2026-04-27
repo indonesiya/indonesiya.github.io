@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata Edukatif untuk Keluarga"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXeRPR0NmRYoXtgQOHRBwq-g5I8xJ5ame08cR0bQFmSPNTm_oL6MboHQDgyCba4xaHp3mWF7Qu5nSwGmI0uBrED4p8D77XpyCaUnvwVmul7NoVKTsgsNKikHDNJukrnhtSjBgrHnJw?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-edukatif-untuk-keluarga.jpg
 ---
 
 Tempat Wisata Edukatif untuk KeluargaLiburan Keluarga yang Lebih BermaknaLiburan keluarga tidak harus selalu tentang bersenang-senang tanpa arah. Saat ini, banyak orang tua di Indonesia mulai mencari tempat wisata edukatif untuk keluarga yang tidak hanya menghibur, tetapi juga memberikan nilai pembelajaran bagi anak-anak. Wisata edukasi keluarga menjadi pilihan tepat karena mampu menggabungkan rekreasi, pengetahuan, dan pengalaman langsung dalam satu aktivitas. Anak-anak dapat belajar sambil bermain, sementara orang tua merasa lebih tenang karena waktu liburan dimanfaatkan secara positif.

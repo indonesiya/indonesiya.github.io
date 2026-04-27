@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata Alam Terindah untuk Foto Prewedding"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXc5Lxem2EEOZTlZt0kedEsr-zICctGylkqO6oPqVZurDGPhFQ3tt4hTUKmms92lwp9vYQwRqaFQ9f05mp1CJyltDqjGFsy_KIQt5enVhnjialX4iiBhvjDkt2DZ_Cx2u08EpWtq?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-alam-terindah-untuk-foto-prewedding.jpg
 ---
 
 Tempat Wisata Alam Terindah untuk Foto Prewedding di IndonesiaFoto prewedding telah menjadi bagian penting dalam persiapan pernikahan bagi banyak pasangan di Indonesia. Selain sebagai kenang-kenangan sebelum hari bahagia, foto prewedding juga menjadi media untuk mengekspresikan kisah cinta pasangan dengan latar belakang yang indah. Tidak heran jika banyak calon pengantin mencari tempat wisata alam terindah untuk foto prewedding yang mampu memberikan nuansa romantis, estetis, dan berkesan.

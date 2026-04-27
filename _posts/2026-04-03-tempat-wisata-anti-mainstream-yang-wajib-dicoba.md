@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata Anti Mainstream yang Wajib Dicoba"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXc5K-jfFGeoioJ7RWmTTGrXj3gyavcZQtNE1A70c9Udb2vLMhT-TZWtY6J5Ld58eHHayE8U8kNPkwvCTbO8x53NO3iTlV1Bijty_uEWY6-Rg2ZWtwsyZh9bT0BbMEGmasK8DZDr0g?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-anti-mainstream-yang-wajib-dicoba.jpg
 ---
 
 Tempat Wisata Anti Mainstream yang Wajib Dicoba

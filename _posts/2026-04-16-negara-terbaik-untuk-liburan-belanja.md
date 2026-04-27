@@ -2,8 +2,8 @@
 layout: post
 title: "Negara Terbaik untuk Liburan Belanja"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXcNfHatzuzjCMQZvEgo84p-mFYYJLheQz5ZTBTjDzrR70lt0Ejftac_FFj_5eWhXhlIf3vm_eabfRWeURFd4EZYRIujQER8G8SS-RYbhOnEwQd4DtyZKum-2DOKYCH8o_ExeFdSkw?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/negara-terbaik-untuk-liburan-belanja.jpg
 ---
 
 Negara Terbaik untuk Liburan BelanjaSurga Shopping bagi WisatawanLiburan tidak selalu tentang menikmati pantai, gunung, atau wisata budaya. Bagi banyak wisatawan modern, liburan belanja atau shopping tourism menjadi salah satu alasan utama bepergian ke luar negeri. Banyak negara di dunia dikenal sebagai surga belanja internasional karena menawarkan produk berkualitas, harga yang lebih murah, pajak yang rendah, hingga diskon besar sepanjang tahun. Dari pusat fashion dunia hingga destinasi elektronik murah, setiap negara memiliki daya tarik tersendiri bagi para pecinta shopping.

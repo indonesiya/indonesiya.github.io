@@ -2,8 +2,8 @@
 layout: post
 title: "Daftar Kota Paling Romantis di Dunia untuk Liburan"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXearbHHnjoX2uRtFswhtX8EP1PecK-uNKelXiFoGkBkqbpeLQfitOhttX8SsBoj8Gvtr52r3Xs8wSiK8YB2T1kFAobDnQWxwrIJwfXPx32bUrTkE9UklX8Yu6Ee4A6vN0YDxKsWqQ?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/daftar-kota-paling-romantis-di-dunia-untuk-liburan.jpg
 ---
 
 Daftar Kota Paling Romantis di Dunia untuk LiburanMengapa Kota Romantis Selalu Menjadi Destinasi ImpianLiburan romantis selalu menjadi impian banyak pasangan di seluruh dunia. Tidak hanya sekadar bepergian, tetapi juga menciptakan momen berharga bersama orang yang dicintai. Oleh karena itu, banyak wisatawan mencari kota paling romantis di dunia untuk liburan yang mampu menghadirkan suasana penuh cinta, pemandangan indah, serta pengalaman yang tidak terlupakan. Kota-kota romantis biasanya memiliki kombinasi unik antara arsitektur klasik, suasana kota yang tenang, budaya yang kaya, dan tempat-tempat ikonik yang sering menjadi latar cerita cinta.

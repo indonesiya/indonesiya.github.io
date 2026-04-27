@@ -2,8 +2,8 @@
 layout: post
 title: "Wisata Alam Terbaik untuk Menghilangkan Stres"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXfJFN1Zr1i5mbtANQvHg17E5JgB2VY8xK3mRMlNtKv_6qZkiB9giAlMxX-5S0YBNvuwW66afho74ZDo-dhKZ4WWqkDOLlKiiqdaPkVUqPAzolFLDdy5eS4SxeNgB-c7lHPiYeSn?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/wisata-alam-terbaik-untuk-menghilangkan-stres.jpg
 ---
 
 Wisata Alam Terbaik untuk Menghilangkan Stres

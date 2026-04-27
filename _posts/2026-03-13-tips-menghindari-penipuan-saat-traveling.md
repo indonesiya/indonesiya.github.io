@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Menghindari Penipuan Saat Traveling"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXd6Tb8P2kgNYfbYmrCsmVYxPHGe10LCuJlSwv4BjssmUp8294jQlVd4qME2e5soXaljaINamM5XopjA5QLXVHlRcBN3bg52vAkLRESG_zyJUS63hYQQZnT7WVJajc5lFNcqd9B-lA?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-menghindari-penipuan-saat-traveling.jpg
 ---
 
 Tips Menghindari Penipuan Saat TravelingTraveling adalah aktivitas yang menyenangkan dan menjadi impian banyak orang. Menjelajahi tempat baru, mengenal budaya berbeda, hingga mencicipi kuliner khas daerah tujuan tentu memberikan pengalaman berharga. Namun di balik keseruan tersebut, ada satu risiko yang sering mengintai para wisatawan, yaitu penipuan saat traveling. Penipuan dapat terjadi kapan saja dan menimpa siapa pun, baik traveler pemula maupun yang sudah berpengalaman. Oleh karena itu, memahami tips menghindari penipuan saat traveling menjadi hal yang sangat penting agar liburan tetap aman dan nyaman.

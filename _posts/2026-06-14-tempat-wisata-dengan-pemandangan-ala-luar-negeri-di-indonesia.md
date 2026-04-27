@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata dengan Pemandangan Ala Luar Negeri di Indonesia"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXdyrdLWLHxpZ7mB4w2kXOQ30pNyRremwaEdnTF0orM9XHMyWal05bW2c4d-6Ryqzshv2acpz7FlgAyt4FcGQpRU93ZLw0cVCYBcGfus5cKz5o0E-pJR_QbR0bkn8syE7NKRfJ94?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-dengan-pemandangan-ala-luar-negeri-di-indonesia.jpg
 ---
 
 Tempat Wisata dengan Pemandangan Ala Luar Negeri di IndonesiaMenjelajahi Destinasi Indonesia dengan Nuansa Luar NegeriIndonesia dikenal sebagai negara kepulauan yang memiliki kekayaan alam luar biasa. Dari pegunungan, danau, pantai, hingga hutan tropis yang luas, semuanya menghadirkan panorama yang memukau. Menariknya, banyak tempat wisata di Indonesia yang memiliki pemandangan ala luar negeri sehingga sering disebut sebagai destinasi “rasa internasional”. Tempat-tempat ini menjadi favorit wisatawan karena menawarkan pengalaman liburan unik tanpa harus bepergian jauh ke luar negeri. Dengan biaya yang lebih terjangkau, wisatawan dapat menikmati suasana yang mirip dengan negara lain seperti Swiss, Jepang, hingga Selandia Baru.

@@ -2,8 +2,8 @@
 layout: post
 title: "Rekomendasi Kota dengan Akomodasi Murah"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXfn95yKYnUQJk4tWZmJyarSxilnHPGAIErQtyMn1hELetlmcLpRdeviY4kl5C1HSMeVGuju0RMEy8xILjyCaXg9iaXpwKv8xRp0gyU9aanI56csB3pnjOCT7FV7ctfiN2kX8G9m6w?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/rekomendasi-kota-dengan-akomodasi-murah.jpg
 ---
 
 Rekomendasi Kota dengan Akomodasi Murah di Indonesia untuk Liburan HematLiburan Seru Tanpa Menguras KantongBanyak orang berpikir bahwa traveling selalu membutuhkan biaya besar. Padahal, dengan memilih kota dengan akomodasi murah, liburan tetap bisa menyenangkan tanpa harus menghabiskan banyak uang. Indonesia memiliki banyak kota wisata yang menawarkan penginapan murah, mulai dari hostel, guest house, hingga hotel budget dengan fasilitas yang cukup nyaman. Bagi para backpacker, mahasiswa, maupun keluarga yang ingin berlibur hemat, memilih destinasi dengan biaya penginapan murah adalah strategi yang sangat penting.

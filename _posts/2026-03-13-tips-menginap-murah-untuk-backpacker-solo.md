@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Menginap Murah untuk Backpacker Solo"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXd6L32g1gpRhR85LI3KknXiVAYV4ieFeHrFlieUhnr2dM7LIdU1qJ-uu3cb-EZa4C6d5OfQ_n5qSwdjonG3lse9_bxpGNDy8h7d15uOMV5Fmg0cat1adcsEl41uZsZfj4vGx1bzDQ?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-menginap-murah-untuk-backpacker-solo.jpg
 ---
 
 Tips Menginap Murah untuk Backpacker SoloPanduan Lengkap Hemat Biaya Saat TravelingTraveling sendirian atau solo backpacking semakin populer di kalangan wisatawan Indonesia. Selain memberikan kebebasan dalam menentukan itinerary perjalanan, backpacker solo juga bisa mengatur anggaran perjalanan dengan lebih fleksibel. Salah satu pengeluaran terbesar saat traveling adalah biaya penginapan. Oleh karena itu, memahami tips menginap murah untuk backpacker solo menjadi hal penting agar perjalanan tetap nyaman tanpa menguras kantong.

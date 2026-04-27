@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata Desa Wisata Terbaik di Indonesia"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXfZahP4K2ugy-PE-Lln6JefjwI8H-GBLUl1LIBBkm4vJIEVgUcIWn052_ppvtX7sWkmaE61u-u0UWHlzp1rq51bLQgUzzrOn2QIU536cIXvIkUqo9-lptA0TdsFpYBu09wcoLijwQ?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-desa-wisata-terbaik-di-indonesia.jpg
 ---
 
 Tempat Wisata Desa Wisata Terbaik di IndonesiaSurga Tersembunyi yang Wajib DikunjungiIndonesia dikenal sebagai negara dengan kekayaan alam dan budaya yang luar biasa. Selain destinasi wisata populer seperti pantai dan kota besar, kini desa wisata menjadi salah satu pilihan favorit bagi wisatawan yang ingin merasakan pengalaman liburan yang lebih autentik. Tempat wisata desa wisata terbaik di Indonesia menawarkan keindahan alam, budaya lokal, kuliner tradisional, hingga aktivitas khas masyarakat desa yang tidak dapat ditemukan di kota besar. Konsep desa wisata ini juga membantu meningkatkan ekonomi masyarakat lokal sekaligus melestarikan budaya tradisional yang menjadi identitas bangsa.

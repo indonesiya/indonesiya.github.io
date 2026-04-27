@@ -2,8 +2,8 @@
 layout: post
 title: "Rekomendasi Tempat Wisata Air Panas Alami"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXdemZRPTpHaQ2KAHpOLp5Q_KxznPJfbie_sWJ6M_QtnUByYMfVVcqwhAQG9NvkqPe4XTFSbkTWwKaYQH_MQAMrfEtkk8XjjHAW5sLJj_G8eAC0xqVl-nWOtP3a3IOFDKydrr7F6bw?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/rekomendasi-tempat-wisata-air-panas-alami.jpg
 ---
 
 Rekomendasi Tempat Wisata Air Panas Alami Terbaik di Indonesia untuk Relaksasi dan LiburanIndonesia dikenal sebagai negara yang kaya akan keindahan alam, mulai dari pantai, gunung, hingga sumber air panas alami yang tersebar di berbagai daerah. Banyak wisatawan lokal maupun mancanegara yang mencari tempat wisata air panas alami untuk berendam dan merasakan manfaat kesehatan dari air yang mengandung mineral alami. Berendam di pemandian air panas tidak hanya memberikan rasa rileks, tetapi juga dipercaya dapat membantu meredakan stres, melancarkan peredaran darah, serta mengurangi rasa pegal pada tubuh. Oleh karena itu, tidak heran jika wisata pemandian air panas alami menjadi salah satu destinasi favorit bagi keluarga, pasangan, hingga para traveler yang ingin menikmati liburan yang menenangkan.

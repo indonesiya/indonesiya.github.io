@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata yang Cocok untuk Liburan Singkat Weekend"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXeT1-E1T-G1Wk_8u0CHcPqpKvzGcwntPR88yZrHLEBwRrfFOJ98s6_hHcqyDfbcCJtVfQYe99P9Ay2FbmnDfsUY3IrmbDidlDv96_aDB5T032pnoQK2y0BgHWYb1cRZSDv0S1YAog?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-yang-cocok-untuk-liburan-singkat-weekend.jpg
 ---
 
 Tempat Wisata yang Cocok untuk Liburan Singkat WeekendRekomendasi Destinasi Seru untuk Melepas PenatPentingnya Liburan Singkat di Akhir PekanLiburan singkat atau weekend getaway menjadi pilihan banyak orang yang ingin melepas penat tanpa harus mengambil cuti panjang dari pekerjaan. Dalam kehidupan modern yang serba cepat, kebutuhan untuk menyegarkan pikiran menjadi semakin penting. Oleh karena itu, mencari tempat wisata yang cocok untuk liburan singkat weekend adalah solusi terbaik bagi mereka yang ingin tetap produktif namun tetap menikmati waktu istirahat yang berkualitas.

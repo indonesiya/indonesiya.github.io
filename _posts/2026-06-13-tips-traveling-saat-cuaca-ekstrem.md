@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Traveling Saat Cuaca Ekstrem"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXfll0Sr3TGSROsqtNnVvypQ96DfDNPrUM-XWp-yL8CR-aN_xt01k_J_4IqTOxntZM3ebKiSWnHOPzuhEl6IuhWuF1662Sf4XhxNHmp614sIn6DQKgxxPYrZfUywhBxbX70ySe25Mw?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-traveling-saat-cuaca-ekstrem.jpg
 ---
 
 Tips Traveling Saat Cuaca EkstremPanduan Lengkap Agar Perjalanan Tetap Aman dan NyamanTraveling merupakan aktivitas yang menyenangkan dan memberikan pengalaman baru bagi banyak orang. Namun, tidak semua perjalanan berjalan sesuai rencana, terutama ketika Anda harus menghadapi cuaca ekstrem saat traveling. Perubahan iklim global membuat kondisi cuaca semakin sulit diprediksi. Mulai dari hujan lebat, badai, gelombang panas, hingga suhu dingin ekstrem dapat terjadi secara tiba-tiba dan mempengaruhi perjalanan Anda.

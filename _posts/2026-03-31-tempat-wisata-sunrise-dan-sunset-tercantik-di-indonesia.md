@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata Sunrise dan Sunset Tercantik di Indonesia"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXdvil2lFYvUPzChsDgl2EYYX_aBxnipQH3uEEpKd-Yp4mTHgNJSGrI07Wosw1L6Hm9xy_-cHUUdI4QBAfhrsLLZ-1vZWSg8dzMKqKO90bNDaO43lJct97a1hrx-THRXg2YjtEF3RQ?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-sunrise-dan-sunset-tercantik-di-indonesia.jpg
 ---
 
 Tempat Wisata Sunrise dan Sunset Tercantik di IndonesiaMenikmati Keindahan Sunrise dan Sunset di IndonesiaIndonesia dikenal sebagai negara kepulauan dengan keindahan alam yang luar biasa. Dari Sabang hingga Merauke, wisatawan dapat menemukan berbagai tempat wisata sunrise dan sunset tercantik di Indonesia yang menawarkan panorama spektakuler. Keindahan matahari terbit dan matahari terbenam selalu menjadi daya tarik tersendiri bagi para traveler, fotografer, hingga pecinta alam. Tidak hanya menghadirkan warna langit yang dramatis, momen sunrise dan sunset juga memberikan suasana yang tenang, romantis, dan menenangkan jiwa.

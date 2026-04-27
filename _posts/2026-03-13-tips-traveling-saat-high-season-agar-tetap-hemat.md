@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Traveling Saat High Season agar Tetap Hemat"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXcmaW6mYCk1stQuj9B7CGEKdA2Y10aOdgjtWpHl06jNkDSR-MGANa31ddjrl4xzMIIWABuiMJdMryKGnzG13HX-0XK0YbSPeW0AeIWktVbfWP2izbrZiEByuwWSkl60AZyIUkSO?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-traveling-saat-high-season-agar-tetap-hemat.jpg
 ---
 
 Tips Traveling Saat High Season agar Tetap HematTraveling saat high season sering dianggap sebagai mimpi buruk bagi banyak orang. Harga tiket melonjak, hotel penuh, tempat wisata padat, dan biaya liburan bisa membengkak tanpa terasa. Namun, dengan perencanaan yang matang dan strategi yang tepat, traveling saat musim liburan tetap bisa dilakukan dengan hemat, nyaman, dan menyenangkan. Artikel ini akan membahas tips traveling saat high season agar tetap hemat, lengkap dengan strategi praktis yang ramah di kantong dan optimal untuk pengalaman liburan Anda.

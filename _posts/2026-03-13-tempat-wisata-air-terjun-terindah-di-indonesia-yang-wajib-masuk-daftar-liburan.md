@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata Air Terjun Terindah di Indonesia yang Wajib Masuk Daftar Liburan"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXcYL7qUxXo0ibPuqTGx0EgbCV0CAmQheL5FuS9hIPn0HMpPlxZERh2Vfy2rAuIPHWmh133iBi10cmAV42rNpqOFhHsThUM4sUYW7DS3pET5IdFIdkRWETv3MYvv-tIt1U2l0PZRkQ?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-air-terjun-terindah-di-indonesia.jpg
 ---
 
 Tempat Wisata Air Terjun Terindah di Indonesia yang Wajib Masuk Daftar LiburanIndonesia dikenal sebagai negara kepulauan dengan kekayaan alam yang luar biasa. Dari pantai hingga pegunungan, dari danau hingga hutan tropis, semuanya tersaji dengan keindahan yang memukau. Salah satu daya tarik alam yang tidak pernah kehilangan pesonanya adalah tempat wisata air terjun terindah di Indonesia. Air terjun tidak hanya menawarkan pemandangan menawan, tetapi juga suasana sejuk, suara gemericik air yang menenangkan, serta pengalaman petualangan yang tak terlupakan bagi para wisatawan.

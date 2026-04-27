@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata Laut Terbaik untuk Snorkeling"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXekR9B0OqwfuqxtXwphKQKMbbFjzUIN-sbn420N2fkCpAUfrUPwpjaFIgu5gRfnq4iLCr1x9_bjPk1pt9QHZ4PU4pRVxZXjc8YNYKDlp-dyJ5yp6z4iLgZEtUR9_oUDY7KCTrzvxA?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-laut-terbaik-untuk-snorkeling.jpg
 ---
 
 Tempat Wisata Laut Terbaik untuk Snorkeling di Indonesia yang Wajib Masuk Daftar LiburanIndonesia dikenal sebagai negara kepulauan dengan kekayaan laut yang luar biasa. Tidak mengherankan jika banyak wisatawan lokal maupun mancanegara datang untuk menikmati tempat wisata laut terbaik untuk snorkeling. Dengan air yang jernih, terumbu karang yang indah, serta ribuan spesies ikan tropis, aktivitas snorkeling menjadi salah satu pengalaman wisata bahari yang paling diminati. Snorkeling memungkinkan wisatawan melihat langsung kehidupan bawah laut tanpa perlu kemampuan menyelam profesional seperti diving. Cukup menggunakan masker, snorkel, dan fin, siapa saja sudah bisa menikmati panorama bawah laut yang menakjubkan.

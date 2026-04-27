@@ -2,8 +2,8 @@
 layout: post
 title: "Rekomendasi Pantai Terindah di Indonesia"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXfrN1enFvNocpsT1tEqxGeC7cu4f_RQVP6ojTbyYAL9NZn_pBWG2CGjYQB-BZl5eVhOba8udkn2djAn9xyqmv3vAD-GVhRbvmmU1aCXZezYWl2d3Hajx8dHRpyE-s0QOvClVdYUqg?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/rekomendasi-pantai-terindah-di-indonesia.jpg
 ---
 
 Rekomendasi Pantai Terindah di IndonesiaIndonesia dikenal sebagai negara kepulauan terbesar di dunia dengan ribuan pantai yang mempesona, dan banyak di antaranya diakui sebagai pantai terindah di dunia. Tidak heran jika wisata pantai di Indonesia selalu menjadi daya tarik utama, baik bagi wisatawan lokal maupun wisatawan mancanegara. Laut biru jernih, pasir putih lembut, pemandangan alam tropis yang eksotis, serta kekayaan bawah laut yang menakjubkan membuat pantai Indonesia selalu menjadi destinasi favorit untuk liburan, refreshing, hingga kegiatan petualangan. Dalam artikel rekomendasi pantai terindah di Indonesia ini, kita akan membahas berbagai pantai terbaik dari berbagai daerah, lengkap dengan keunikan, pesona, dan alasan mengapa kamu wajib mengunjunginya. Dengan informasi yang lengkap dan kata kunci yang relevan, artikel ini diharapkan membantu kamu menemukan referensi liburan sekaligus menjadi panduan wisata pantai terbaik di Indonesia.

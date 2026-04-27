@@ -2,8 +2,8 @@
 layout: post
 title: "Traveling Ala Minimalis: Bawa Barang Secukupnya"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXfX_Ae5OpAMwKR2UEsf3mNH4fcPAFazfafu46cWuhqxrRVRS_eSDg3Nnuaj2u5uyJwraQGPL9a0BUMzqy_C8PYh-h9H9RULTGH05XVkdaQzmctm2DX5CGoGpXJ2tsCzO6FmsrhAgQ?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/traveling-ala-minimalis.jpg
 ---
 
 Traveling Ala Minimalis

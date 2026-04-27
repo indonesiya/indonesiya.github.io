@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Traveling Tanpa Ribet untuk Lansia"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXeV7Z9OpOxuHx73ghaahEsqymx1jaSGqTGOVaL2C5NfwsC3NbORBWCyQ4Jh5TgNudC5p4RbIz3wztOWPNqsBiJ_DVUVE28qFygPragbsNSawOWPfB5O0OHRJXX79_2JGqwxDKN3?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-traveling-tanpa-ribet-untuk-lansia.jpg
 ---
 
 Tips Traveling Tanpa Ribet untuk LansiaPanduan Nyaman, Aman, dan MenyenangkanTraveling atau bepergian kini bukan lagi aktivitas yang hanya identik dengan anak muda. Banyak lansia yang tetap ingin menjelajah tempat baru, menikmati pemandangan alam, mengunjungi tempat wisata, atau sekadar berlibur bersama keluarga. Namun, traveling untuk lansia tentu memerlukan persiapan yang lebih matang agar perjalanan tetap nyaman, aman, dan tidak melelahkan. Dengan perencanaan yang tepat, perjalanan wisata bagi lansia bisa menjadi pengalaman yang menyenangkan tanpa ribet.

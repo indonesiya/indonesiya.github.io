@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata Murah Meriah tapi Memorable"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXdhxXtmp5EOlh9CLDqV5k9bwLGQHTu0sgJJ4Cbgu-BQTLZklc9OFrkzcay4Sth6R5289VqiDQwwkmZ4PvNuNtTp9met1RvNqi6ZqkMy1z39zDljnGXU9A_k-sFcYl-n2df_1SLKjw?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-murah-meriah-tapi-memorable.jpg
 ---
 
 Tempat Wisata Murah Meriah tapi MemorableLiburan Hemat yang Tetap BerkesanLiburan sering dianggap sebagai kegiatan yang membutuhkan biaya besar. Banyak orang berpikir bahwa untuk mendapatkan pengalaman wisata yang berkesan harus mengeluarkan uang yang banyak. Padahal kenyataannya tidak selalu demikian. Di Indonesia, ada banyak tempat wisata murah meriah tapi memorable yang bisa memberikan pengalaman liburan yang tak terlupakan tanpa harus menguras dompet. Dengan perencanaan yang tepat, wisata hemat justru bisa memberikan pengalaman yang lebih autentik, dekat dengan alam, dan penuh cerita menarik.

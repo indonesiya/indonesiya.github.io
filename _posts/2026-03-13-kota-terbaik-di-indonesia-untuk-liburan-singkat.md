@@ -2,8 +2,8 @@
 layout: post
 title: "Kota Terbaik di Indonesia untuk Liburan Singkat"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXfw5rUy1RFmMlt8vfl5nipYVAsMGTEP6_SCd59D5mcvybxPxKhxsy0M6G2AEuLdzxa60Q7raMggYx2DJUCvtfDSPwsPMG1L4GeLco6z4VUp_n1H0OBKp1V1PdqF5tUbGsmSN0Mn5Q?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/kota-terbaik-di-indonesia-untuk-liburan-singkat.jpg
 ---
 
 Kota Terbaik di Indonesia untuk Liburan SingkatLiburan singkat kini menjadi solusi ideal bagi banyak orang yang memiliki keterbatasan waktu namun tetap ingin melepas penat. Indonesia sebagai negara kepulauan memiliki banyak kota yang cocok untuk liburan singkat, baik untuk akhir pekan maupun cuti singkat 2–3 hari. Kota-kota ini menawarkan akses mudah, destinasi wisata beragam, kuliner khas, serta fasilitas yang mendukung wisatawan. Dalam artikel ini, kita akan membahas kota terbaik di Indonesia untuk liburan singkat yang ramah waktu, biaya, dan pengalaman.

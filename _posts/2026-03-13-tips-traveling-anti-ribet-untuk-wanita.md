@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Traveling Anti Ribet untuk Wanita"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXeePJRZ9ZUyAYtfb4_xY1rO8hHglxL-t8OHGWFuCbPipbC3FQvf2Rq0bZrhXymsk4e39BQ8DRXRs282Sp6iHvo76IS0nFGb5B3acuFq68-XqoYZeKrTUrYU2JX9wFYzE41FR_FucQ?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-traveling-anti-ribet-untuk-wanita.jpg
 ---
 
 Panduan Lengkap Aman, Nyaman, dan HematTravelling bagi wanita sering kali identik dengan banyak persiapan, banyak bawaan, dan banyak kekhawatiran. Mulai dari urusan keamanan, kenyamanan, perlengkapan, hingga masalah biaya, semua harus dipikirkan dengan matang. Karena itulah, banyak wanita yang ingin liburan santai tapi tetap aman dan tidak ribet. Artikel ini membahas secara lengkap tentang tips traveling anti ribet untuk wanita, mulai dari persiapan sebelum berangkat, packing yang efisien, tips keamanan, hingga cara menikmati liburan tanpa stres. Dengan panduan perjalanan wanita yang tepat, liburan tidak hanya menyenangkan tetapi juga lebih aman, terencana, dan bebas drama.

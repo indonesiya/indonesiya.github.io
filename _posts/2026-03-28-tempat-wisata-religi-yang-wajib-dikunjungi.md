@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata Religi yang Wajib Dikunjungi"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXciBVf32IokBNer-0Mqvgx6Fu8L36fU5QO7qK5am-cFvdjRYJKS5OLypcz6erorKaYFlRrxDRGgO_b4LdAR8hObIjF26ZWfQgAUNDX3j7FjEeNu6-efABu6BeSTIQ2DPC_CEDk9vg?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-religi-yang-wajib-dikunjungi.jpg
 ---
 
 Tempat Wisata Religi yang Wajib Dikunjungi di IndonesiaWisata religi menjadi salah satu jenis perjalanan yang semakin diminati masyarakat Indonesia. Selain memberikan pengalaman spiritual yang mendalam, perjalanan ke tempat wisata religi juga menawarkan kesempatan untuk mengenal sejarah, budaya, serta tradisi keagamaan yang telah berkembang selama ratusan bahkan ribuan tahun. Banyak orang melakukan wisata religi bukan hanya untuk berdoa, tetapi juga untuk mencari ketenangan batin, memperdalam keimanan, serta memahami nilai-nilai spiritual yang terkandung dalam setiap tempat ibadah yang dikunjungi.

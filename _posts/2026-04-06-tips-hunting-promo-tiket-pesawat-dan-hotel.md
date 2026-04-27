@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Hunting Promo Tiket Pesawat dan Hotel"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXfeJJAjr3nxMm0kGIKAfF7o7gg0EfJssoJzboFCxg_V2FLv_xBH-SxORSOmPAHeHv_mrbvWtcHp9Qbpz3Bzo1Rss7LsllkmnSGpjyBy98MqU3Ex-Xpw2cLoqyXp0ruTp1VmLBxa0A?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-hunting-promo-tiket-pesawat-dan-hotel.jpg
 ---
 
 Tips Hunting Promo Tiket Pesawat dan Hotel

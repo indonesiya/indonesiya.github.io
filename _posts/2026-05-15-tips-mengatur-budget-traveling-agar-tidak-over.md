@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Mengatur Budget Traveling agar Tidak Over"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXcYh6iS7D8zeWnMpvmK_VFWYl6ibriFZSej1bzptI7ePNZfaP9ESu02gMNcBy7xNKwk4wgG34xeFl8fdBlA1ePJJ540So1iXBITaphaj3OkSk7wnLmJHL94ugGt7nLP-pZOeh1g?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-mengatur-budget-traveling-agar-tidak-over.jpg
 ---
 
 Tips Mengatur Budget Traveling agar Tidak OverTraveling adalah impian banyak orang. Mulai dari menjelajahi kota baru, menikmati keindahan alam, hingga mencicipi kuliner khas daerah, semua memberikan pengalaman berharga yang sulit dilupakan. Namun, salah satu tantangan terbesar dalam traveling adalah mengatur budget perjalanan agar tidak over budget. Banyak traveler yang awalnya berniat liburan hemat, justru pulang dengan kondisi keuangan yang berantakan. Oleh karena itu, memahami cara mengatur budget traveling dengan baik menjadi hal yang sangat penting, terutama bagi traveler pemula maupun backpacker.

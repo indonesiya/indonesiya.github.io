@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Traveling Ala Digital Nomad"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXeeycAv-f4IwwZFcl8lcb-ZmF2jZKs4nRZJdk_d_Cqc2dzjcTMsOX3RkYXv4th9p22SEj5Mr77DsiidLSbrlsGPYEQCgo6VmgpIfbMmhpHbSGIXEzgHFWSJuwOtfi-I__CeMfQoNw?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-traveling-ala-digital-nomad.jpg
 ---
 
 Tips Traveling Ala Digital NomadPanduan Lengkap Bekerja Sambil Menjelajah DuniaGaya Hidup Digital Nomad yang Semakin PopulerGaya hidup digital nomad semakin populer di era digital saat ini. Banyak orang mulai meninggalkan konsep kerja konvensional di kantor dan memilih bekerja secara remote sambil menjelajahi berbagai tempat menarik di dunia. Traveling sambil bekerja memberikan kebebasan lokasi, fleksibilitas waktu, serta kesempatan menikmati pengalaman budaya yang berbeda di setiap destinasi. Namun, menjalani kehidupan sebagai digital nomad juga membutuhkan persiapan yang matang agar perjalanan tetap produktif dan menyenangkan.

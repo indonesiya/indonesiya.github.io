@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Traveling Sambil Kerja"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXdHcgp-KSfduDhui4N9hSBdHXMiL2VALs2xuU-6jHc31Zh9q7k7rzl7WLKj7ITv2MLW6v-9phvnSEXdIWmzv6TsJazsxoYrgPJyNlVqXEZAFio0drEOI7VNQkoByDjr5aqWlW1yZA?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-traveling-sambil-kerja.jpg
 ---
 
 Tips Traveling Sambil Kerja (Workcation)Panduan Lengkap Work From Anywhere untuk Traveler ProduktifTraveling sambil kerja kini bukan lagi sekadar impian bagi banyak orang. Dengan berkembangnya teknologi internet, pekerjaan jarak jauh, dan budaya remote working, semakin banyak pekerja yang mencoba gaya hidup work from anywhere. Konsep ini memungkinkan seseorang untuk tetap produktif bekerja sambil menikmati pengalaman menjelajah tempat baru. Bagi freelancer, digital nomad, pekerja remote, hingga karyawan yang memiliki sistem kerja fleksibel, traveling sambil kerja menjadi cara menarik untuk menjaga keseimbangan antara kehidupan pribadi dan profesional.

@@ -2,8 +2,8 @@
 layout: post
 title: "Wisata Alam dengan Spot Foto Keren"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXe4J2qYAUl_FiWR0dbh7A80XnY_xseOPKfV9pLfyRr0BmwwTgKbb_SjWFo1FROqurN53bjQuu_XJrmzcV6_Rpj9iWUU5Q2Xz-wL5FxARnnTITD7VG8V-6pCT2jyZ4MkRISDEdWsxg?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/wisata-alam-dengan-spot-foto-keren.jpg
 ---
 
 Wisata Alam dengan Spot Foto KerenSurga Tersembunyi untuk Pecinta Traveling dan FotografiWisata alam dengan spot foto keren semakin menjadi pilihan utama bagi para traveler yang ingin menikmati keindahan alam sekaligus mengabadikan momen dalam foto yang estetik. Di era media sosial seperti sekarang, destinasi wisata tidak hanya dinilai dari keindahan alamnya saja, tetapi juga dari banyaknya spot foto instagramable yang bisa diabadikan. Banyak wisatawan mencari tempat wisata alam terbaik yang menawarkan panorama menakjubkan, latar belakang alam yang unik, serta sudut-sudut foto yang menarik untuk menghasilkan gambar yang memukau.

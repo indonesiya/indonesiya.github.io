@@ -2,8 +2,8 @@
 layout: post
 title: "Kota Wisata yang Cocok untuk Belajar Sejarah"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXdV00wB0IDUCiXC1QZjIcxQrQtZ-V-cJt9x3HhPM8KQVK9fRUH55ELnC4rVo9qJhR3lRz6d_KRuo0MAV2_-QU9rBwQeIIlm4Bi8Ah3rEFpkTHqYdrrbhSPkerb7qtN3xiw7bg6PXg?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/kota-wisata-yang-cocok-untuk-belajar-sejarah.jpg
 ---
 
 Kota Wisata yang Cocok untuk Belajar SejarahIndonesia dikenal sebagai negara dengan kekayaan sejarah yang sangat panjang. Dari masa kerajaan kuno, era kolonial, hingga perjuangan kemerdekaan, semua jejak tersebut tersebar di berbagai kota wisata di Indonesia. Tidak hanya menawarkan keindahan alam, beberapa kota juga menjadi destinasi wisata sejarah yang sangat cocok bagi siapa saja yang ingin belajar sejarah secara langsung. Mengunjungi kota bersejarah memberikan pengalaman berbeda dibandingkan hanya membaca buku, karena wisatawan dapat melihat bangunan tua, museum, situs bersejarah, hingga kawasan kota lama yang masih terjaga dengan baik.

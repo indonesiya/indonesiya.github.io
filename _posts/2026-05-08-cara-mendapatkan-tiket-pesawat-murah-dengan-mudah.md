@@ -2,8 +2,8 @@
 layout: post
 title: "Cara Mendapatkan Tiket Pesawat Murah dengan Mudah"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXfXZP7UFf-JVKQzQWrjokIOw0Dm8AUOfToMlNRz7elhvbTk6CmK2IIrvTZtO5bXyry_vi4E6-d_ouqW0wWHEfG-Mef6WOdej9FfpnsFypRBFNPscq4EfdrGmWBLdVkCku3RBrUMYQ?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/cara-mendapatkan-tiket-pesawat-murah-dengan-mudah.jpg
 ---
 
 Cara Mendapatkan Tiket Pesawat Murah dengan MudahMendapatkan tiket pesawat murah adalah impian banyak orang, baik untuk keperluan liburan, perjalanan bisnis, maupun mudik. Harga tiket pesawat yang fluktuatif sering kali membuat calon penumpang bingung menentukan waktu terbaik untuk membeli. Namun, dengan strategi yang tepat dan pemahaman yang baik, Anda bisa mendapatkan tiket pesawat harga promo tanpa harus mengorbankan kenyamanan perjalanan.&nbsp;

@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata Instagramable yang Wajib Masuk Bucket List"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXdLUmpY3Cf27xTo7i3ExGnIJ7KiDcqWUBAfHOD68C5sLc-RIT9N0Q3RTxNCcyYtt-mcIh3DS3qcq4P1xbucelrv0In7FvMuH8p-DstwfWrLaD7b4Jr-f59tXNfIfZlSZe3ggCRl4Q?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-instagramable-yang-wajib-masuk-bucket-list.jpg
 ---
 
 Destinasi Hits untuk Liburan Tak TerlupakanJika kamu mencari tempat wisata instagramable yang wajib masuk bucket list, berarti kamu adalah tipe traveler yang tidak hanya ingin menikmati keindahan alam, tetapi juga ingin mengabadikan momen dalam foto yang aesthetic, unik, dan siap dipamerkan di media sosial. Saat ini, tren liburan bukan hanya sekadar datang, melihat, lalu pulang. Banyak orang menjadikan traveling sebagai bagian dari gaya hidup, ajang eksplorasi diri, sekaligus sarana untuk menciptakan konten yang menarik. Oleh karena itu, destinasi wisata instagramable semakin diminati karena menawarkan sudut-sudut foto menarik, pemandangan yang indah, serta pengalaman liburan yang berbeda. Mulai dari pegunungan, pantai, danau, kota modern, hingga desa wisata, semuanya kini berlomba menghadirkan spot yang ramah kamera untuk para wisatawan yang ingin tampil maksimal di Instagram atau platform media sosial lainnya.

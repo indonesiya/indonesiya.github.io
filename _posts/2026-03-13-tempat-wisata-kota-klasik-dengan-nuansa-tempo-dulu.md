@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata Kota Klasik dengan Nuansa Tempo Dulu"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXfx47BVIFIeLmerrklSTU5oq6iLqXgB4Sw2kPndwqjIE97fMloPqYXvsaxLTJd7-EacyrWytwzN9V2htdP5V90VBu69ufetLRJjUefPE1m4CEJ1XiWu6NQQcdIuFT7KsnsDMt1qXw?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-kota-klasik-dengan-nuansa-tempo-dulu.jpg
 ---
 
 Tempat Wisata Kota Klasik dengan Nuansa Tempo DuluMenjelajah Keindahan Masa Lampau yang Masih HidupPesona Kota Klasik yang Membawa Kita Kembali ke Masa LaluTempat wisata kota klasik dengan nuansa tempo dulu selalu memiliki daya tarik yang unik bagi para wisatawan. Tidak seperti destinasi modern yang dipenuhi gedung tinggi dan pusat perbelanjaan, kota klasik justru menghadirkan suasana nostalgia yang memikat. Jalanan berbatu, bangunan kolonial, pasar tradisional, serta kafe tua yang masih mempertahankan desain aslinya membuat pengunjung seolah kembali ke masa lampau. Banyak wisatawan yang sengaja mencari tempat wisata kota klasik untuk menikmati atmosfer yang berbeda, jauh dari hiruk pikuk kehidupan modern.

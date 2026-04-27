@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Traveling Sehat agar Tidak Mudah Sakit"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXda1QvcOhPIdtLONzKmTlJ_16DOU3JdbK5Ds4NasY0XbV5qTyxhwxiKhyZqJMVCw4TsAWKFRuFYvwenmtweJNSGN-V_TdExt9Jn7Tkv1tYFpJzAeRjq6yHZixhZOr6AALz-ZXZu?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-traveling-sehat-agar-tidak-mudah-sakit.jpg
 ---
 
 Tips Traveling Sehat agar Tidak Mudah SakitPentingnya Menjaga Kesehatan Saat TravelingTraveling adalah aktivitas yang menyenangkan dan dinantikan banyak orang, baik untuk liburan, urusan pekerjaan, maupun sekadar mencari pengalaman baru. Namun, perubahan lingkungan, cuaca, pola makan, hingga kelelahan sering kali membuat tubuh rentan sakit. Oleh karena itu, memahami tips traveling sehat agar tidak mudah sakit menjadi hal yang sangat penting. Dengan kondisi tubuh yang prima, perjalanan akan terasa lebih nyaman dan berkesan tanpa gangguan kesehatan.

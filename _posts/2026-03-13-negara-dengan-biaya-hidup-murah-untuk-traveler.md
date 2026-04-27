@@ -2,8 +2,8 @@
 layout: post
 title: "Negara dengan Biaya Hidup Murah untuk Traveler"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXc8kV0q1cNVAnMFkByvO8npHeK2IKqVobVsPdgaTSWZG45y7ESWoCJOp97PwK401azH6w1_RLVhsculv1oYzvAoU3AL5NknC7CUvqIhjb3cGl8Gh6BMXK_aus3-xtR8zwYLLcdnTg?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/negara-dengan-biaya-hidup-murah-untuk-traveler.jpg
 ---
 
 Negara dengan Biaya Hidup Murah untuk TravelerDestinasi Hemat yang Tetap Seru DijelajahiTraveling Hemat Bukan Lagi MimpiBanyak orang berpikir bahwa traveling ke luar negeri membutuhkan biaya yang sangat mahal. Padahal kenyataannya tidak selalu demikian. Saat ini semakin banyak traveler yang mencari negara dengan biaya hidup murah untuk traveler agar tetap bisa menikmati perjalanan panjang tanpa menguras tabungan. Dengan memilih destinasi yang tepat, seorang backpacker bahkan bisa hidup nyaman hanya dengan budget yang relatif kecil per hari. Inilah alasan mengapa topik biaya hidup murah di luar negeri semakin sering dicari di mesin pencari oleh para wisatawan.

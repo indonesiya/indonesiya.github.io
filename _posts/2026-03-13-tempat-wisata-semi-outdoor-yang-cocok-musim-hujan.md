@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata Semi-Outdoor yang Cocok Musim Hujan"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXcSNEX4usHLrAzvZon8qF8uezv1NAgcauAgvLzlE3UpVuufYjb0t0_R4_IsgFQaUHECSPNdI0JO1roec1Ust8Zbqi_X86piefwxC3RAuq1yjUiBKds7WTLlZnauF900GNfPSP8_?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-semi-outdoor-yang-cocok-musim-hujan.jpg
 ---
 
 Tempat Wisata Semi-Outdoor yang Cocok Musim HujanTetap Seru Meski Hujan TurunMusim hujan sering kali membuat banyak orang ragu untuk bepergian. Padahal, liburan tetap bisa dilakukan dengan memilih destinasi yang tepat. Salah satu pilihan terbaik adalah tempat wisata semi-outdoor. Konsep wisata semi-outdoor menawarkan pengalaman menikmati alam sekaligus tetap terlindung dari hujan. Dengan adanya atap, gazebo, kanopi, atau bangunan terbuka, pengunjung tetap bisa menikmati suasana tanpa khawatir kehujanan. Oleh karena itu, banyak orang mulai mencari tempat wisata semi outdoor yang cocok musim hujan untuk mengisi waktu liburan, akhir pekan, atau sekadar melepas penat setelah rutinitas sehari-hari.

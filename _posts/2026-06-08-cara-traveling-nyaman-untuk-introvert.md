@@ -2,8 +2,8 @@
 layout: post
 title: "Cara Traveling Nyaman untuk Introvert"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXfI17014Ury6SibEO_iH8vC-aJO4cwFxOvOYOew-0_804OuySPj5bj_mysvcRH6CFtTOVtLUw903jQe6eGDmeTH_Lz2I1m5GOQ2xArWRDUOg8571cprFfNXgTDGbgc94qTaXRvIxg?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/cara-traveling-nyaman-untuk-introvert.jpg
 ---
 
 Cara Traveling Nyaman untuk IntrovertPanduan Lengkap Menjelajah Dunia Tanpa Kehilangan EnergiTraveling sering kali identik dengan keramaian, aktivitas sosial, dan jadwal padat. Banyak orang membayangkan perjalanan sebagai kesempatan untuk bertemu banyak orang baru, mengikuti tur kelompok, atau menghadiri berbagai acara di tempat wisata. Namun bagi seorang introvert, konsep perjalanan seperti ini justru bisa terasa melelahkan. Introvert cenderung mendapatkan energi dari waktu sendiri, suasana tenang, serta aktivitas yang tidak terlalu ramai. Oleh karena itu, memahami cara traveling nyaman untuk introvert menjadi hal penting agar perjalanan tetap menyenangkan tanpa menguras energi mental.

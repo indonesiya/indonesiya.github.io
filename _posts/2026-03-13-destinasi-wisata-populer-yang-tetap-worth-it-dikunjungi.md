@@ -2,8 +2,8 @@
 layout: post
 title: "Destinasi Wisata Populer yang Tetap Worth It Dikunjungi"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXdQrih5XUpm7LSmMkpFxA2-KZMBD0yVekYtHqzNlLh8wPEL0wagYJ8WVCtszeQBMoE7z7aUFSrvAd9SBU2rdOtChtvikzRoFUlLmZR2GvPhmfG1tsS8IKFcNs9xPfPnejftS2xggg?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/destinasi-wisata-populer-yang-tetap-worth-it-dikunjungi.jpg
 ---
 
 Destinasi Wisata Populer yang Tetap Worth It DikunjungiMengapa Destinasi Wisata Populer Selalu Menarik WisatawanDalam dunia pariwisata, istilah destinasi wisata populer sering kali dianggap terlalu mainstream oleh sebagian traveler. Banyak orang mulai mencari tempat tersembunyi atau hidden gem demi pengalaman yang berbeda. Namun pada kenyataannya, banyak tempat wisata populer di Indonesia yang tetap layak dikunjungi karena keindahan, fasilitas, serta pengalaman yang ditawarkan. Bahkan beberapa di antaranya menjadi ikon pariwisata yang selalu menarik wisatawan lokal maupun mancanegara.

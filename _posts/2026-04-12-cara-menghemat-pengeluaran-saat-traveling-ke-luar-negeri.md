@@ -2,8 +2,8 @@
 layout: post
 title: "Cara Menghemat Pengeluaran Saat Traveling ke Luar Negeri"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXf7eoWnsWFv0rrVhdHXUpOH3mqmGc3RMwIaT6ChaeObPSGlsaTyb30qGF8gFc-KsuNCoo37Hzfo6jUaOgr7wTbNV4tRHQag3v9rDLz-RBk9Lt7ypprAdTilIGYYr3OAKdI6rmFt?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/cara-menghemat-pengeluaran-saat-traveling-ke-luar-negeri.jpg
 ---
 
 Cara Menghemat Pengeluaran Saat Traveling ke Luar NegeriTraveling ke luar negeri sering dianggap mahal oleh banyak orang. Padahal, dengan perencanaan yang tepat, siapa pun bisa melakukan perjalanan internasional tanpa harus menguras tabungan. Banyak traveler berpengalaman membuktikan bahwa cara menghemat pengeluaran saat traveling ke luar negeri bukanlah hal yang sulit jika mengetahui strategi yang tepat. Mulai dari memilih tiket pesawat murah, menentukan waktu perjalanan yang tepat, hingga memanfaatkan promo perjalanan dapat membantu menekan biaya secara signifikan.

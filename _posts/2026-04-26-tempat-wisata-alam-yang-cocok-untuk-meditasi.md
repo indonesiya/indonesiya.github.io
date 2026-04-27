@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata Alam yang Cocok untuk Meditasi"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXe9hoCkwnhz_BjYZPBPfQuAKnDw1eaq3IFEqoGUuYpfkvhSqBiMamKs1taeD2k6JQsdftBpEZBmZBSpMxGd8UWMAjuTllZuqQf4wbOAFfFR1UtTZbevoswSwRO43OpYghqhL1Wb5w?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-alam-yang-cocok-untuk-meditasi.jpg
 ---
 
 Tempat Wisata Alam yang Cocok untuk MeditasiMenemukan Ketenangan di Tengah Keindahan AlamMengapa Meditasi di Alam Terbuka Semakin PopulerDi tengah kehidupan modern yang penuh tekanan, banyak orang mulai mencari cara untuk menenangkan pikiran dan memulihkan energi mental. Salah satu cara yang semakin populer adalah melakukan meditasi di tempat wisata alam. Aktivitas ini tidak hanya membantu meredakan stres, tetapi juga memberikan kesempatan untuk lebih terhubung dengan alam dan diri sendiri. Suasana alam yang tenang, udara segar, serta suara alami seperti gemericik air atau hembusan angin membuat pengalaman meditasi menjadi lebih mendalam.

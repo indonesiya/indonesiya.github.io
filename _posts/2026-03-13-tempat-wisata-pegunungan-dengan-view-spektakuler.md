@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata Pegunungan dengan View Spektakuler"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXeZZTjH8pnRg5UODykVWn3NB54UXbNvO2tUD1A2UIobvZRsb4kGE3gRqHqDbM2ApQN0rETMyiM0eLbOD9WcDQxSGAznTv-OI3y3TX8SCCZ8Sd0E_TMok7fxTLT9fBO7mzqHnttdOQ?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-pegunungan-dengan-view-spektakuler.jpg
 ---
 
 Tempat Wisata Pegunungan dengan View SpektakulerIndonesia dikenal sebagai negara kepulauan yang memiliki kekayaan alam luar biasa, salah satunya adalah kawasan pegunungan dengan pemandangan alam yang spektakuler. Dari Sabang hingga Merauke, terdapat banyak tempat wisata pegunungan yang menawarkan panorama hijau, udara sejuk, serta keindahan alam yang memanjakan mata. Wisata pegunungan menjadi pilihan favorit bagi wisatawan yang ingin melepas penat dari hiruk-pikuk perkotaan dan mencari ketenangan di tengah alam. Artikel ini akan membahas berbagai tempat wisata pegunungan dengan view spektakuler yang layak dijadikan destinasi liburan, sekaligus memberikan gambaran lengkap bagi Anda yang sedang mencari referensi wisata alam terbaik di Indonesia.

@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Traveling Aman Saat Sendirian"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXfGP2ort7nTERZ1uptDoKxMv4_WO1qjyowE-_SkWc6t8NnqyvG-o71_fZn1rtfu_H-m_r4cuVVUAlFtNFnU4ZeHsf31nAChjYJ_Xx7fpCZr_b0hLVHj7Kr9p92q_A97gbJ5ZHyTMw?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-traveling-aman-saat-sendirian.jpg
 ---
 
 Tips Traveling Aman Saat SendirianPanduan Lengkap Agar Liburan Solo Tetap Nyaman dan AmanTraveling sendirian atau solo traveling semakin populer di kalangan wisatawan modern. Banyak orang memilih perjalanan sendiri untuk merasakan kebebasan, ketenangan, dan pengalaman yang lebih personal saat menjelajahi tempat baru. Namun, traveling sendirian juga memiliki tantangan tersendiri, terutama terkait keamanan dan keselamatan selama perjalanan. Oleh karena itu, memahami tips traveling aman saat sendirian menjadi hal yang sangat penting sebelum memulai petualangan solo.

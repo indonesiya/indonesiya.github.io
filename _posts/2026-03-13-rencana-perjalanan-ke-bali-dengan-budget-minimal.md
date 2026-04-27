@@ -2,8 +2,8 @@
 layout: post
 title: "Rencana Perjalanan ke Bali dengan Budget Minimal"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXd7o3D8Fl5H8_Xc-SisjzPMoEHzJ7Fzcnh51d7PFgc2hwT1wh4NeGuNMlySAMS8DZvpKhD6xmNzYddksuUUH0rOkahnBsqyUz2HmMfTPcFRTH68_1hklaPAG2aDCTdvhqsKrZUCgg?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/rencana-perjalanan-ke-bali-dengan-budget-minimal.jpg
 ---
 
 Rencana Perjalanan ke Bali dengan Budget MinimalLiburan ke Bali Tidak Harus MahalRencana perjalanan ke Bali dengan budget minimal menjadi topik yang banyak dicari oleh wisatawan lokal maupun backpacker pemula. Bali dikenal sebagai destinasi wisata favorit di Indonesia yang menawarkan keindahan alam, budaya yang kaya, serta berbagai pilihan hiburan. Namun, banyak orang menganggap liburan ke Bali selalu membutuhkan biaya besar. Padahal, dengan perencanaan yang tepat, liburan hemat ke Bali sangat mungkin dilakukan tanpa mengurangi kualitas pengalaman wisata.

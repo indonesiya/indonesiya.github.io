@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Traveling Tanpa Ribet Menggunakan Transportasi Umum"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXfm9f_QH6gKVGmzFFCTgEAiYSiEFH3wTjonN9ICivYLbK4c2pvEYT-dgVc40WoWYB8YxhrD_OhManEtN_MXjfnImPKodDU4IBsaqe9s9yxTKoAZojHksjGQXRd-ldt9m6qa6xfzCQ?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-traveling-tanpa-ribet-menggunakan-transportasi-umum.jpg
 ---
 
 Tips Traveling Tanpa Ribet Menggunakan Transportasi Umum

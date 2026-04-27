@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata Gratis di Luar Negeri yang Tetap Keren"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXepTuXRCX8Pqv7Urh56zwvChuFNJa5JZsyCBT9w2D2hxS8cjyPiaKZ3wuWBadcpas02NDmKyogl3PT58dUsCMWUuH6qWLD1Rit4QDupQqlk0kD4dhsGLPpnXndgjSVa502VSqRU?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-gratis-di-luar-negeri-yang-tetap-keren.jpg
 ---
 
 Tempat Wisata Gratis di Luar Negeri yang Tetap KerenBerlibur ke luar negeri sering dianggap identik dengan biaya mahal. Mulai dari tiket pesawat, penginapan, hingga tiket masuk objek wisata. Namun kenyataannya, ada banyak tempat wisata gratis di luar negeri yang tetap keren, populer, dan bahkan menjadi ikon dunia. Banyak negara menyediakan ruang publik, taman kota, bangunan bersejarah, hingga spot foto ikonik yang bisa dinikmati tanpa biaya sama sekali. Bagi para traveler dengan budget terbatas, mengetahui daftar destinasi wisata gratis di luar negeri bisa menjadi cara terbaik untuk tetap menikmati perjalanan tanpa harus menguras dompet.

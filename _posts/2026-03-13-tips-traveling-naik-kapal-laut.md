@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Traveling Naik Kapal Laut"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXde6tYrQZAaz8749k-d0su29fBZXADKMgMY600LkwYsiEs_GD93TfcFhLfsEdHkMlsUn1TGujEd0NiRdR2yUBHD_c6YW9aeaF_6ckNUe31icUfqwwzAgtqu9egiklt6N68LcGYd9w?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-traveling-naik-kapal-laut.jpg
 ---
 
 Panduan Lengkap Agar Perjalanan Nyaman, Aman, dan HematTraveling naik kapal laut menjadi salah satu pilihan transportasi favorit di Indonesia. Sebagai negara kepulauan dengan ribuan pulau yang tersebar dari Sabang sampai Merauke, perjalanan menggunakan kapal laut sering kali menjadi solusi terbaik untuk menjangkau berbagai destinasi yang tidak selalu terhubung dengan jalur udara atau darat. Selain itu, traveling naik kapal laut juga menawarkan pengalaman perjalanan yang berbeda, mulai dari menikmati pemandangan laut lepas, merasakan suasana santai selama perjalanan, hingga bertemu dengan berbagai jenis penumpang dari berbagai daerah.

@@ -2,8 +2,8 @@
 layout: post
 title: "Rekomendasi Destinasi Wisata Edukasi Anak"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXeTJeIgm95luoYw4_iSTyACWelLhInbBN2SUO5ETBDBAzDtpAJmMKoCUpebX_Kheg3xPWY6qRwviDhcgSErYfttyc0ZNdr12WCSLQyJ_fex5B2WonPY-cXuZKCd0-viGZe7Y_t8iw?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/rekomendasi-destinasi-wisata-edukasi-anak.jpg
 ---
 
 Rekomendasi Destinasi Wisata Edukasi Anak yang Seru dan BermanfaatWisata edukasi anak menjadi pilihan favorit bagi banyak orang tua yang ingin memberikan pengalaman belajar yang menyenangkan di luar kelas. Tidak hanya sekadar liburan, destinasi wisata edukasi mampu membantu anak memahami berbagai ilmu pengetahuan secara langsung melalui aktivitas interaktif. Dengan mengunjungi tempat-tempat edukatif, anak dapat belajar tentang sains, budaya, sejarah, lingkungan, hingga teknologi dengan cara yang lebih menarik. Oleh karena itu, mencari rekomendasi destinasi wisata edukasi anak yang tepat menjadi langkah penting agar liburan keluarga tetap bermanfaat sekaligus menghibur.

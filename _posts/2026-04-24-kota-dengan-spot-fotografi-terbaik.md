@@ -2,8 +2,8 @@
 layout: post
 title: "Kota dengan Spot Fotografi Terbaik"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXdi28RngCvnxn4bm5YNnlwjwf0a4zWopN-HkE0K9ydgu_guxfncghAc94ifNRn9macRb-eGx2am9U4hjKDPJyV8SN0kLIg6_DdYt2_FFoBNBkYzqlnstNTYr0clP7C3p4e5GTnUIw?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/kota-dengan-spot-fotografi-terbaik.jpg
 ---
 
 Surga Bagi Pecinta Kamera dan Konten KreatifMengapa Kota Fotogenik Selalu Menarik untuk DijelajahiIndonesia dikenal sebagai negara yang kaya akan keindahan alam, budaya, dan arsitektur yang unik. Tidak heran jika banyak kota di Indonesia menjadi destinasi favorit bagi para pecinta fotografi. Kota dengan spot fotografi terbaik biasanya memiliki kombinasi lanskap alam yang memukau, bangunan bersejarah, budaya lokal yang kuat, serta suasana kota yang menarik untuk diabadikan melalui kamera. Bagi fotografer profesional, konten kreator, maupun wisatawan yang gemar berburu foto Instagramable, memilih kota yang tepat sangat penting untuk mendapatkan hasil foto yang memukau.

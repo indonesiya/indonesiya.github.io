@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Menghindari Jet Lag Saat Traveling Jauh"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXduesagciwNrGvwDDXLgT9KBUwSKuFZv3ub3fmj7T_hbNaY7EFrdZ8zLow8xR1hw_zU75Qqdszunt1_WeKXQmnIVrWNKfmJiriP-oXlUsOWCGARkKqDoakasdcYQwYnZEyr_MIG?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-menghindari-jet-lag-saat-traveling-jauh.jpg
 ---
 
 Tips Menghindari Jet Lag Saat Traveling JauhTraveling jarak jauh menjadi pengalaman yang menyenangkan sekaligus menantang. Banyak orang bermimpi menjelajahi berbagai negara, menikmati budaya baru, serta merasakan petualangan yang berbeda dari kehidupan sehari-hari. Namun, perjalanan lintas zona waktu sering menimbulkan masalah yang dikenal sebagai jet lag. Kondisi ini dapat membuat tubuh terasa lelah, sulit tidur, sakit kepala, hingga menurunkan konsentrasi. Oleh karena itu, memahami tips menghindari jet lag saat traveling jauh menjadi hal penting agar perjalanan tetap nyaman dan menyenangkan.

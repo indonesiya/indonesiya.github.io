@@ -2,8 +2,8 @@
 layout: post
 title: "Traveling ke Yogyakarta ala Budget Traveler"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXedZTL1G9EZDSX-0r2H_ynwiiov8U6DhmMKHuq4Wz8cYFrq0VeLKVgF70rEz430gCErT1lb5wbh2qhsrW36E3f4CGBTUBcyEfCuGpFHQQdf1J8M5g-W5o8ROOFEDjzKuMPt36aY?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/traveling-ke-yogyakarta-ala-budget-traveler.jpg
 ---
 
 Traveling ke Yogyakarta ala Budget TravelerPanduan Lengkap Liburan Hemat tapi SeruYogyakarta selalu menjadi salah satu destinasi favorit wisatawan di Indonesia. Kota ini dikenal sebagai kota budaya, kota pelajar, sekaligus kota wisata yang memiliki banyak tempat menarik untuk dikunjungi. Menariknya lagi, traveling ke Yogyakarta tidak harus mahal. Banyak wisatawan yang memilih konsep budget traveler untuk menikmati keindahan kota ini tanpa harus menguras kantong. Dengan perencanaan yang tepat, Anda tetap bisa merasakan pengalaman liburan yang menyenangkan, penuh petualangan, dan tentunya ramah di dompet.

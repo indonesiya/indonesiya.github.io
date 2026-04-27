@@ -2,8 +2,8 @@
 layout: post
 title: "Rekomendasi Kota dengan Kuliner Travel Terbaik"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXdH8SbeKIq7pdIe5DarPoaUKqdBtUWKLJdjkBlNx1IHASwffWDssgFT23TbY4lWtfWlTS31zlgwNEIlYrPwRDYqIxkAkXCOWUyoZ6tQ4IhlFpkHLBDT8su_CpjQnmmZqlHMGxjBqQ?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/rekomendasi-kota-dengan-kuliner-travel-terbaik.jpg
 ---
 
 Rekomendasi Kota dengan Kuliner Travel TerbaikIndonesia dikenal sebagai surga wisata kuliner. Setiap kota memiliki cita rasa khas yang tidak hanya memanjakan lidah, tetapi juga mencerminkan sejarah, budaya, dan kearifan lokal. Tidak heran jika kuliner travel atau perjalanan wisata yang berfokus pada pengalaman makanan menjadi tren yang terus meningkat. Melalui artikel ini, kita akan membahas rekomendasi kota dengan kuliner travel terbaik di Indonesia yang wajib masuk dalam daftar perjalanan Anda.

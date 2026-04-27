@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Traveling Bersama Teman Agar Tetap Kompak"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXdfN0388WwDlW88VRw_KiOa5hpWE2SpCAEReBoE7CT1T3xK_3xWBgjs-tFVqTETg-724MBvxXJQ39xsWmXilYYT_ehpAJNFUXH1KPhOUIyZr8xg6nJKEZuOcwg71RF6_uI_RghG?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-traveling-bersama-teman-agar-tetap-kompak.jpg
 ---
 
 Tips Traveling Bersama Teman Agar Tetap Kompak dan MenyenangkanTraveling bersama teman menjadi salah satu pengalaman paling menyenangkan dalam hidup. Selain memberikan kesempatan untuk menjelajahi tempat baru, perjalanan bersama sahabat juga bisa mempererat hubungan dan menciptakan kenangan tak terlupakan. Namun, di balik keseruannya, traveling bersama teman juga bisa memicu konflik jika tidak direncanakan dengan baik. Perbedaan karakter, kebiasaan, dan preferensi sering kali menjadi tantangan tersendiri dalam perjalanan kelompok. Oleh karena itu, memahami tips traveling bersama teman agar tetap kompak menjadi hal yang sangat penting agar liburan tetap menyenangkan dari awal hingga akhir.

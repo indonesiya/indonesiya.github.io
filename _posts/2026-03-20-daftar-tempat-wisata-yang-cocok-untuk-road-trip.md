@@ -2,8 +2,8 @@
 layout: post
 title: "Daftar Tempat Wisata yang Cocok untuk Road Trip"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXfCZCEiTd3WOKobdOGk4CqflUy3ySefaepIJqe0urxJ1N41-dd69EW8N3Xp7ZMw3DXf33FHXlrklkwO8V8up3BC_sh7LWx8m1nHq45KbPpKtF5AkOMtMsGwIiGmuRApIxUUnGfM8w?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/daftar-tempat-wisata-yang-cocok-untuk-road-trip.jpg
 ---
 
 Daftar Tempat Wisata yang Cocok untuk Road TripRoad trip menjadi salah satu gaya traveling yang semakin populer di Indonesia. Banyak wisatawan memilih perjalanan darat karena memberikan kebebasan untuk berhenti di berbagai tempat menarik, menikmati pemandangan sepanjang perjalanan, dan merasakan pengalaman eksplorasi yang lebih mendalam. Dengan kondisi geografis Indonesia yang memiliki banyak jalur wisata indah, road trip menjadi cara yang menyenangkan untuk menjelajahi berbagai destinasi. Artikel ini akan membahas daftar tempat wisata yang cocok untuk road trip di Indonesia, lengkap dengan keunikan masing-masing destinasi serta alasan mengapa tempat tersebut ideal untuk perjalanan darat.

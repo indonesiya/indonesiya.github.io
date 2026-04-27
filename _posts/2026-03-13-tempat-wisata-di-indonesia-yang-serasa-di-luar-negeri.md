@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata di Indonesia yang Serasa di Luar Negeri"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXeRT1CL3a9uLdMWQN5V8H4jBIxy5IsCALhZT9F0OaGvM5hHNNF2cTstDzmqTBbOvPmY-kLLycTLeFZTpudUek7bR84uiMyRy5y0pnrCBu6SPZ4KMi-T2ZapUNqYAEJNZLOFyrWIEA?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-di-indonesia-yang-serasa-di-luar-negeri.jpg
 ---
 
 Tempat Wisata di Indonesia yang Serasa di Luar NegeriDestinasi Unik yang Wajib DikunjungiIndonesia dikenal sebagai negara kepulauan yang kaya akan keindahan alam, budaya, dan destinasi wisata yang luar biasa. Banyak wisatawan sering mengira bahwa untuk merasakan suasana luar negeri, mereka harus bepergian jauh ke Eropa, Jepang, atau Timur Tengah. Padahal, ada banyak tempat wisata di Indonesia yang serasa di luar negeri yang mampu memberikan pengalaman serupa tanpa harus meninggalkan tanah air. Dari arsitektur bergaya Eropa hingga pemandangan alam yang mirip dengan negara lain, berbagai destinasi ini menjadi pilihan menarik bagi para traveler yang ingin merasakan sensasi wisata internasional.

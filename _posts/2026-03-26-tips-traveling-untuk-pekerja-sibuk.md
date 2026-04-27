@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Traveling untuk Pekerja Sibuk"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXfItt1NI3dJPIPhkTvqij89w18tJiNP1lQBj8BnV7HEgQVUOYfZ7a9nU_tQw0EzarkVmhwsiQl9emsAH0VuCl5lxSxXmdsT19g3qm69UhkGBpdn_m1yRxMv42OYnLNOvRljX2-u0A?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-traveling-untuk-pekerja-sibuk.jpg
 ---
 
 Tips Traveling untuk Pekerja Sibuk

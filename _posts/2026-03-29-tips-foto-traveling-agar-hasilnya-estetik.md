@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Foto Traveling agar Hasilnya Estetik"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXeNLn2D-b_8glfJxpfHn8XzbaE1Efwprx7mDmVfQx1Sc64cxoY2P7pt0RKcOIGlJJAzXxCvwDeiJi0TyIRgIJiC8Jk7-yBKJZ1YKZxzrAYTVZFymbztMXwivgRWSlXo4Xmeq27QbQ?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-foto-traveling-agar-hasilnya-estetik.jpg
 ---
 
 Tips Foto Traveling agar Hasilnya Estetik

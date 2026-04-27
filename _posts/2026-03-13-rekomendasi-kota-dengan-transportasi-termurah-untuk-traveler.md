@@ -2,8 +2,8 @@
 layout: post
 title: "Rekomendasi Kota dengan Transportasi Termurah untuk Traveler"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXdGYicPd2RwRlateOuaKB7YwCeESWWjHD_2FnJ-0uAnWLfFW9tedihFfwHzBdPGNtoXZNchXeC0poTj1tD3Xc6n5U7fcU2-u5S51nm7eCn4pGaSa0Moblx2We_RIMFT2yYWjkQuzA?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/rekomendasi-kota-dengan-transportasi-termurah-untuk-traveler.jpg
 ---
 
 Rekomendasi Kota dengan Transportasi Termurah untuk TravelerTraveling tidak selalu harus mahal. Salah satu cara paling efektif untuk menekan biaya perjalanan adalah dengan memilih kota yang memiliki transportasi murah dan efisien. Banyak traveler pemula sering menghabiskan sebagian besar budget mereka hanya untuk berpindah tempat, padahal di beberapa kota biaya transportasi sangat terjangkau bahkan ramah untuk backpacker. Dengan memilih destinasi yang tepat, traveler bisa menjelajahi lebih banyak tempat wisata tanpa harus menguras tabungan.

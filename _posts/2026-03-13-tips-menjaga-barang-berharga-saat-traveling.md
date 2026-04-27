@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Menjaga Barang Berharga Saat Traveling"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXc4ulnxAyeHy1AtunbWsZjZSnytODXkfEI41xsaGtlXXQ8Ru6v4SSPZ5U8iw-QQ5ZX3gV9uSd-OCqu2adWYOZzUpD1vHdcbpFYKfHrF5iR3-KO_XgweDXZ2cRBSCkrNQkFyI6u6JA?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-menjaga-barang-berharga-saat-traveling.jpg
 ---
 
 Tips Menjaga Barang Berharga Saat Traveling agar Tetap Aman dan NyamanTraveling adalah aktivitas yang menyenangkan sekaligus memberikan pengalaman baru. Banyak orang melakukan perjalanan untuk berlibur, bekerja, ataupun sekadar melepas penat dari rutinitas sehari-hari. Namun di balik kesenangan tersebut, ada satu hal penting yang tidak boleh diabaikan, yaitu menjaga keamanan barang berharga saat traveling. Barang seperti smartphone, dompet, paspor, uang tunai, kartu ATM, hingga kamera adalah benda penting yang sering dibawa saat perjalanan. Kehilangan salah satu dari barang tersebut tentu bisa mengganggu perjalanan bahkan menimbulkan kerugian besar. Oleh karena itu, memahami tips menjaga barang berharga saat traveling menjadi hal yang sangat penting bagi setiap wisatawan.

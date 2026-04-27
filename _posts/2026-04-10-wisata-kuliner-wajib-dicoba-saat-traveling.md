@@ -2,8 +2,8 @@
 layout: post
 title: "Wisata Kuliner Wajib Dicoba Saat Traveling"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXemONav4g7Rl34ry591zqsmMrj6S_NvWInXQ6pfXZCl34WTsiiZj7ru1Cm5fJ3wddouhL1uuFjZfVMFCkiA0tr_2mx8M3tkwru6xzvK7uSXG01slQl24qDH5akU7kqpayDE94ubNg?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/wisata-kuliner-wajib-dicoba-saat-traveling.jpg
 ---
 
 Wisata Kuliner Wajib Dicoba Saat TravelingPanduan Menjelajah Rasa NusantaraTraveling bukan hanya soal mengunjungi tempat-tempat indah atau berfoto di destinasi populer. Salah satu pengalaman paling berkesan saat bepergian adalah menjelajahi wisata kuliner khas daerah. Setiap kota memiliki cita rasa unik yang mencerminkan budaya, sejarah, dan tradisi masyarakatnya. Oleh karena itu, wisata kuliner saat traveling menjadi aktivitas yang hampir selalu masuk dalam daftar wajib para wisatawan.

@@ -2,8 +2,8 @@
 layout: post
 title: "Rekomendasi Tempat Camping Terbaik di Indonesia"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXdftKPBZ8HMpyf7gbzbGAn8ybhm7DtlNI0Db1AZJbiT4w9QjuL9iBYTuZ0WHamsvb6n7lUpnfP7k_fImw-FoT7ABmi-mhOhswbuS-ZYmeCSqLwg2IAMbTmXE3xx0xn-riN2vvgK2g?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/rekomendasi-tempat-camping-terbaik-di-indonesia.jpg
 ---
 
 Rekomendasi Tempat Camping Terbaik di Indonesia

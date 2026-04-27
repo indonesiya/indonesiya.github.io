@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Liburan Hemat tapi Tetap Menyenangkan"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXd05nB3fXyIs55sJCZYRaLdNq0AzsYhgDBHxzEqxT2ntLpOjru3p-8Wty6maM4X-kQCMhgBXXXNBNRg2u6XA9W-mcgTZTFNERoW5CckpdGZPtjr7WFjTNsiCD1p8YasZRv7YVxB?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-liburan-hemat-tapi-tetap-menyenangkan.jpg
 ---
 
 Panduan Lengkap untuk Traveler PintarLiburan tidak selalu identik dengan biaya mahal. Banyak orang menunda liburan karena merasa budget tidak mencukupi, padahal sebenarnya ada banyak cara menikmati liburan hemat tapi tetap menyenangkan. Dengan perencanaan yang tepat, strategi penghematan yang cerdas, serta pemilihan destinasi dan kegiatan yang pas, kamu bisa menikmati pengalaman traveling seru tanpa harus menguras dompet. Pada artikel lengkap ini, kita akan membahas berbagai tips liburan hemat yang tetap nyaman, aman, dan penuh kenangan. Mulai dari perencanaan budget, memilih transportasi murah, mencari penginapan ramah kantong, hingga trik menikmati wisata kuliner dan destinasi menarik tanpa biaya besar. Semua akan disampaikan detail agar mudah dipahami dan optimal dalam SEO sehingga mudah ditemukan di mesin pencari.

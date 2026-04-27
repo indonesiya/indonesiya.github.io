@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Travelling Anti Overpacking"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXdjTa0xySOKjZ_I_w0WUzUzcON7rgW7Bi52SdAwPRqDQZpR30NXGmm75ur6fCks6YHKel7bS973vXdImah-nGTqNbQId14s0O1FbBImPnRnjGBj_Fh1V73VAS75JKBjuF-gG6dP9A?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-travelling-anti-overpacking.jpg
 ---
 
 Tips Travelling Anti Overpacking

@@ -2,8 +2,8 @@
 layout: post
 title: "Panduan Lengkap Traveling Pertama Kali ke Luar Negeri"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXfwKsrhhYwoOrc6PbhEKL0ELHqEnu7z018K3mN4Mnm14WlvaxMj62_ejAXlth1Gza43Avq-C23RJEdEWdlJKq4cHQK8-TRNz8Ae3u1PQZleMC8Zp_APEaSxGqCB-JJFQ5XAzMF8?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/panduan-lengkap-traveling-pertama-kali-ke-luar-negeri.jpg
 ---
 
 Tips, Persiapan, dan Strategi Agar Liburan Aman dan MenyenangkanMelakukan traveling pertama kali ke luar negeri adalah pengalaman yang mendebarkan, penuh rasa penasaran, sekaligus sedikit menegangkan. Banyak orang memimpikan liburan internasional untuk merasakan budaya baru, melihat tempat-tempat terkenal dunia, mencicipi kuliner khas negara lain, hingga merasakan sensasi berada di negara dengan bahasa yang berbeda. Namun, tanpa persiapan yang tepat, traveling ke luar negeri pertama kali bisa berubah menjadi pengalaman yang penuh masalah, mulai dari kebingungan di bandara, kesulitan komunikasi, hingga kendala administrasi seperti visa dan paspor. Karena itu, panduan lengkap traveling ke luar negeri ini disusun untuk membantu kamu memahami langkah-langkah yang harus dilakukan sebelum berangkat, saat perjalanan, hingga ketika sudah sampai di negara tujuan, agar perjalanan internasional pertama kamu berjalan lancar, aman, nyaman, dan tentunya menyenangkan.

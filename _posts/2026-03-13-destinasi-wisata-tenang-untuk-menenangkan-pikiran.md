@@ -2,8 +2,8 @@
 layout: post
 title: "Destinasi Wisata Tenang untuk Menenangkan Pikiran"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXdzvAXKwb52ucfQ10PCwJRERO49ry9TJimkhrlTekpUQsqs6yHWiz_ZL1QMRAar9Hu36Ngr361TKjmlfPNvals2vVca99ZsYvuLd9D4vumygQIb5BnYqaB5x_Ppu7E2O8Sfn4Na?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/destinasi-wisata-tenang-untuk-menenangkan-pikiran.jpg
 ---
 
 Destinasi Wisata Tenang untuk Menenangkan PikiranMengapa Kita Membutuhkan Destinasi Wisata yang TenangDalam kehidupan modern yang serba cepat, banyak orang merasa kelelahan secara mental. Rutinitas pekerjaan, tekanan sosial, dan aktivitas digital yang tidak pernah berhenti sering kali membuat pikiran terasa penuh. Oleh karena itu, mencari destinasi wisata tenang untuk menenangkan pikiran menjadi kebutuhan penting bagi banyak orang. Wisata tidak selalu identik dengan keramaian atau tempat yang penuh hiburan. Sebaliknya, banyak orang kini mulai mencari tempat yang sunyi, alami, dan memberikan ketenangan batin.

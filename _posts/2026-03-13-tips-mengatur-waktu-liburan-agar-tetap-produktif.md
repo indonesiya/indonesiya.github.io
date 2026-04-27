@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Mengatur Waktu Liburan agar Tetap Produktif"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXcecU3LYBbDFrDoETWkrFS5-LpYl6hcbItkhXpsY-ktLC1YqC8ZUXsDutP_cpdEAfc8guJRGQucyz73nhhPMMZ5qnk5tcnhnkX8RIkyYXRcscEjC_-Vm5HdcKSYhiKaG9O2zKwxiw?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-mengatur-waktu-liburan-agar-tetap-produktif.jpg
 ---
 
 Tips Mengatur Waktu Liburan agar Tetap ProduktifLiburan Tidak Harus Menghentikan ProduktivitasLiburan sering dianggap sebagai waktu untuk benar-benar berhenti dari rutinitas. Banyak orang memilih untuk tidak memikirkan pekerjaan, tugas, maupun aktivitas produktif lainnya. Padahal, jika dikelola dengan baik, waktu liburan justru bisa menjadi kesempatan emas untuk meningkatkan kualitas diri tanpa mengorbankan waktu istirahat. Oleh karena itu, memahami tips mengatur waktu liburan agar tetap produktif sangat penting bagi siapa pun yang ingin menikmati liburan sekaligus tetap berkembang.

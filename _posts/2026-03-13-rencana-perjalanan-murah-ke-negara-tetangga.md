@@ -2,8 +2,8 @@
 layout: post
 title: "Rencana Perjalanan Murah ke Negara Tetangga"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXfPng3sIiBCPfkXc7IHB0iNHjTfe7kHNk3VisgczAYSapESDQW941pbHuTGl9fsrkqapIEsCQPTuejezt3WGymBXod9XhggireMR6aZHeNPWomTp6nWvUSq4nZtophhzxW1BkRMuQ?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/rencana-perjalanan-murah-ke-negara-tetangga.jpg
 ---
 
 Rencana Perjalanan Murah ke Negara TetanggaPanduan Lengkap Traveling Hemat dari IndonesiaRencana perjalanan murah ke negara tetangga menjadi pilihan populer bagi banyak traveler Indonesia yang ingin merasakan pengalaman luar negeri tanpa harus mengeluarkan biaya besar. Dengan jarak yang relatif dekat, banyak negara di Asia Tenggara menawarkan akses transportasi murah, budaya yang menarik, kuliner unik, serta berbagai destinasi wisata yang memikat. Negara seperti Malaysia, Singapura, Thailand, dan Vietnam sering menjadi pilihan utama karena biaya perjalanan yang relatif terjangkau dan kemudahan akses bagi wisatawan Indonesia.

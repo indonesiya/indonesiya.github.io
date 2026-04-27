@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata Petualangan untuk Pecinta Adrenalin"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXd_5R5k0Teh3-d7YilbyhDyqzjYEsevq3uFpWtnw-WMparN_wJ47vtDgtQQ5qCk6f_mlaRT2h--yRj80AVQK494Ir-nD3ug2wIwRX6hx9LuNfKt2wn1nLXye4A-H6wS3V_jW6Onsg?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-petualangan-untuk-pecinta-adrenalin.jpg
 ---
 
 Tempat Wisata Petualangan untuk Pecinta Adrenalin di IndonesiaIndonesia dikenal sebagai negara dengan kekayaan alam yang luar biasa. Dari pegunungan tinggi, hutan tropis yang lebat, hingga lautan yang luas, semuanya menawarkan pengalaman wisata yang tidak hanya indah tetapi juga menantang. Bagi para pencinta tantangan, tempat wisata petualangan untuk pecinta adrenalin menjadi pilihan utama untuk merasakan sensasi yang berbeda dari liburan biasa. Aktivitas seperti pendakian gunung, arung jeram, paralayang, hingga diving di laut dalam memberikan pengalaman yang memacu jantung sekaligus menghadirkan keindahan alam yang memukau.

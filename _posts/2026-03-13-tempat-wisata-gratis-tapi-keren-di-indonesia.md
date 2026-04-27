@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata Gratis tapi Keren di Indonesia"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXc0cKLGqjxoTRs64yr2kPf_FAoaO1Iom_QW9GA13ikr9IIaZzPDZvbaQhmVzmdOw1Fe_ys6bsWZW5QmbFNcPWDlHgzPasZEidqX48LyfoZsOmVRDbZ88G9Cn4mVIYUM_ouAdIpY?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-gratis-tapi-keren-di-indonesia.jpg
 ---
 
 Tempat Wisata Gratis tapi Keren di IndonesiaPilihan Liburan Hemat yang Tetap InstagramableIndonesia dikenal sebagai negara dengan kekayaan alam dan budaya yang luar biasa. Dari Sabang sampai Merauke, ada begitu banyak destinasi wisata menarik yang bisa dikunjungi tanpa harus mengeluarkan biaya tiket masuk. Tempat wisata gratis di Indonesia bukan hanya sekadar alternatif liburan hemat, tetapi juga menawarkan pengalaman yang unik, indah, dan tak kalah keren dibandingkan destinasi berbayar. Artikel ini akan membahas berbagai ide dan rekomendasi tempat wisata gratis tapi keren di Indonesia yang cocok untuk traveler, backpacker, maupun keluarga.

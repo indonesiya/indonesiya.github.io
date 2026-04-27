@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Aman Traveling di Negara Asing"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXe1toEX67oplqIjw1DYdl3gBodLZw0H2kSBH8n6Nr1-SFZ1uzAinl6_px-odYl5jb4KONO1MlNP3gCaucejlgyo4adGMsY-cLGUrdX2IJoTUxvuRoWU7chle6iEMNzqqFzVCptlyA?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-aman-traveling-di-negara-asing.jpg
 ---
 
 Tips Aman Traveling di Negara Asing

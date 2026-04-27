@@ -2,8 +2,8 @@
 layout: post
 title: "Panduan Traveling Sendirian untuk Wanita"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXerkl0EoyUPVuXl36APn6YW0R_sJ8PVyI_IYoF3T7b8uCZ0VLMUKfbiTVOovSEWM3pRuo6eCZ75EAIlIijEKZ6fgAWB-O_34smH946-x3CiOXY-5fNYJGXoPQwyh7_glf-qqNsb?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/panduan-traveling-sendirian-untuk-wanita.jpg
 ---
 
 Panduan Traveling Sendirian untuk WanitaAman, Nyaman, dan Penuh Percaya DiriTren Traveling Sendirian untuk Wanita yang Semakin PopulerTraveling sendirian untuk wanita kini bukan lagi hal yang jarang ditemui. Semakin banyak perempuan memilih solo traveling sebagai cara untuk mengenal diri sendiri, memperluas wawasan, dan menikmati kebebasan penuh dalam menentukan perjalanan. Panduan traveling sendirian untuk wanita menjadi topik yang banyak dicari karena memberikan rasa aman dan kepercayaan diri bagi perempuan yang ingin menjelajah tanpa bergantung pada orang lain.

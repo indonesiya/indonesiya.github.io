@@ -2,8 +2,8 @@
 layout: post
 title: "Kota Kecil di Indonesia dengan Pesona Besar"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXck7zpnpScgwFru5ylJd3vhIk2GO5D6mwzKrYsKmRda1f3ZWie2ZMCgc_niY-52XDfn1L9oNyiE7ttAIkU-oZAbfQjETbB6-s1eKB6o1nnbZ0i5ge8nqu4vJimgmQ4JYbOKt2eW?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/kota-kecil-di-indonesia-dengan-pesona-besar.jpg
 ---
 
 Kota Kecil di Indonesia dengan Pesona BesarDestinasi Tersembunyi yang Wajib DikunjungiIndonesia dikenal sebagai negara kepulauan dengan ribuan destinasi wisata yang memikat. Ketika berbicara tentang wisata Indonesia, banyak orang langsung membayangkan kota besar atau destinasi populer seperti Bali, Jakarta, atau Yogyakarta. Namun di balik gemerlap kota-kota besar tersebut, terdapat banyak kota kecil di Indonesia dengan pesona besar yang justru menawarkan pengalaman wisata lebih autentik, tenang, dan memikat. Kota-kota kecil ini sering kali menyimpan keindahan alam, budaya lokal yang kuat, serta kuliner khas yang tidak kalah menarik dibandingkan destinasi wisata populer lainnya. Inilah alasan mengapa semakin banyak wisatawan mulai mencari destinasi alternatif berupa kota kecil yang unik di Indonesia.

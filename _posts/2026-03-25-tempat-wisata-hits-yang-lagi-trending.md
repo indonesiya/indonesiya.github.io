@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata Hits yang Lagi Trending"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXefuSmwfVnkG7lXJEZqFF2NLeBdIYwR2fzYbZsp0f8zIgSUfjv7xT_y0K3KPdym9VZoHEEvMna7t8n42HqpoQBAu0HiihYpB6yq3tr99CJF6HBA4vDoHGXOmbk7KYQWgUJsmYsb?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-hits-yang-lagi-trending.jpg
 ---
 
 Tempat Wisata Hits yang Lagi Trending

@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata Unik dengan Konsep Instagramable"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXfgzEpdmK4SNug81N1D7pNz8Y7TCpN_QSMa5Aei-JqxqDUc6lmG9I8MWZfs0Xe528FCytlOUlGKmyVUvtZUJtzdEDIFBORKO4f7TKf-CJscH2u_ZZpGFyL4xAQjnKSt7z-9WusO6Q?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-unik-dengan-konsep-instagramable.jpg
 ---
 
 Tempat Wisata Unik dengan Konsep Instagramable di Indonesia yang Wajib DikunjungiMengapa Tempat Wisata Instagramable Semakin PopulerDalam beberapa tahun terakhir, tempat wisata unik dengan konsep instagramable menjadi salah satu tren pariwisata yang berkembang pesat di Indonesia. Banyak wisatawan, terutama generasi muda, memilih destinasi wisata bukan hanya karena keindahan alamnya, tetapi juga karena memiliki spot foto menarik yang cocok untuk dibagikan di media sosial. Kehadiran platform seperti Instagram, TikTok, dan Pinterest membuat masyarakat semakin tertarik mengunjungi lokasi wisata yang memiliki desain kreatif, warna mencolok, dan latar belakang foto yang estetik. Oleh karena itu, tidak mengherankan jika banyak pengelola wisata kini mengembangkan konsep tempat wisata instagramable agar dapat menarik lebih banyak pengunjung.

@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Traveling ke Kota yang Tidak Pernah Tidur"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXfxIuylEEi3ea-GW-H9W3aw0OUJujfUhBtHWiJz6KN14ClDq7B3UdpP6rSo4oD2VBGrvrfA8-fzFQan5B2Eo3eWBoMGDbxmRKHkX9ueFl-1FBP7KWQZFCm5kGhzds8D9GpxiIMK_g?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-traveling-ke-kota-yang-tidak-pernah-tidur.jpg
 ---
 
 Tips Traveling ke Kota yang Tidak Pernah TidurPanduan Lengkap untuk Wisata Seru Tanpa Batas WaktuMengenal Konsep Kota yang Tidak Pernah TidurIstilah kota yang tidak pernah tidur sering digunakan untuk menggambarkan kota besar yang memiliki aktivitas selama 24 jam penuh. Kota seperti ini biasanya memiliki kehidupan malam yang sangat aktif, transportasi yang tetap berjalan hingga larut malam, serta berbagai pilihan hiburan, kuliner, dan destinasi wisata yang selalu ramai. Contoh kota yang terkenal dengan julukan ini antara lain New York, Tokyo, Bangkok, dan beberapa kota metropolitan lainnya di dunia. Traveling ke kota yang tidak pernah tidur menawarkan pengalaman unik karena wisatawan bisa menjelajahi berbagai tempat tanpa harus terbatas oleh waktu operasional yang ketat.

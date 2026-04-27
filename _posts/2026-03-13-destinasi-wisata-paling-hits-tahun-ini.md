@@ -2,8 +2,8 @@
 layout: post
 title: "Destinasi Wisata Paling Hits Tahun Ini"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXcUpbtFNgany7FPE82YDiPIpnUCQhgEvB0GmdOHN8-uMfj4mjP6snqJyw0nzjsMkJJJ9rBNvm_CeqKzlvV00Rq0uD21pxBrBDQzuxADVAJCYcgkO0nZcpHFaMkRsz6EeyHHFVQeow?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/destinasi-wisata-paling-hits-tahun-ini.jpg
 ---
 
 Destinasi Wisata Paling Hits Tahun IniRekomendasi Tempat Liburan Populer yang Wajib DikunjungiIndustri pariwisata terus berkembang setiap tahun. Munculnya berbagai destinasi wisata paling hits tahun ini membuat banyak traveler semakin antusias untuk menjelajahi tempat-tempat baru yang unik, estetik, dan tentunya instagramable. Dari wisata alam yang menakjubkan hingga tempat rekreasi modern yang viral di media sosial, semuanya menjadi daya tarik tersendiri bagi wisatawan lokal maupun mancanegara.

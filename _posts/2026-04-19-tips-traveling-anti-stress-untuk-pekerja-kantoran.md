@@ -2,8 +2,8 @@
 layout: post
 title: "Tips Traveling Anti Stress untuk Pekerja Kantoran"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXf4TH7Fy4Ew4uL4yv5AmRnPqoItBJCPuFT5sp9cTTZDlKIkdtf9Hgtoyuo_NHDblj4GUV81DszZiKDchBBt80KBEmUFjILdAvop0e3KchnpbdEvRzIu05O3S4DAWnu8s79j_RDi9w?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tips-traveling-anti-stress-untuk-pekerja-kantoran.jpg
 ---
 
 Tips Traveling Anti Stress untuk Pekerja KantoranBagi banyak orang, rutinitas kerja di kantor sering kali menjadi sumber tekanan yang tidak disadari. Target pekerjaan, deadline yang menumpuk, meeting yang padat, serta tuntutan produktivitas membuat banyak pekerja kantor mengalami kelelahan mental. Dalam kondisi seperti ini, traveling bisa menjadi solusi efektif untuk menyegarkan pikiran. Namun, jika tidak direncanakan dengan baik, perjalanan justru dapat menambah stres baru. Oleh karena itu, penting memahami tips traveling anti stress untuk pekerja kantoran agar liburan benar-benar menjadi waktu pemulihan mental.

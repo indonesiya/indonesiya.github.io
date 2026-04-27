@@ -2,8 +2,8 @@
 layout: post
 title: "Cara Menghadapi Culture Shock Saat Traveling"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXeEVqrjTRC2jOWNdgU6JXEE_ktzEIi9K0JzrWXSUuAIM5JXOG_TiWknuUPYgxfgeOMNm-CyEEqxolYRzKfBAPE1hMX7ns07Aab_Ff703S86iHL-VvGlXW522EAIs5DvfShDTSTCRQ?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/cara-menghadapi-culture-shock-saat-traveling.jpg
 ---
 
 Cara Menghadapi Culture Shock Saat TravelingPanduan Lengkap untuk WisatawanTraveling ke tempat baru selalu memberikan pengalaman yang seru dan berkesan. Namun, tidak jarang wisatawan mengalami culture shock saat traveling ketika berhadapan dengan budaya, kebiasaan, dan gaya hidup yang sangat berbeda dari tempat asal. Culture shock adalah kondisi psikologis ketika seseorang merasa canggung, bingung, bahkan stres saat berada di lingkungan budaya yang baru. Hal ini sangat umum terjadi terutama ketika traveling ke negara atau daerah dengan budaya yang sangat berbeda. Oleh karena itu, memahami cara menghadapi culture shock saat traveling menjadi hal penting agar perjalanan tetap menyenangkan dan berkesan.

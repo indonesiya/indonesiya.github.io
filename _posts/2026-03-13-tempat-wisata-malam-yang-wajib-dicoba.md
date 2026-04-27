@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata Malam yang Wajib Dicoba"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXdFZHIXgYeXspj2ieL6WvUNp5e49jENBMej6ZPd4aP8EOv30GkeJcbAhJ4LI9pS3TdsJIP6aFkniHlSlD_zDKCQdlnEMtgP27EuZmHvwYoUDwD2boELY8Ztfrv0y9wwNrdwIkcDkg?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-malam-yang-wajib-dicoba.jpg
 ---
 
 Tempat Wisata Malam yang Wajib DicobaPesona Wisata Malam yang Semakin Populer di IndonesiaWisata malam kini menjadi salah satu tren favorit bagi wisatawan lokal maupun mancanegara. Tidak hanya menawarkan suasana yang berbeda dari wisata siang hari, tempat wisata malam juga menghadirkan keindahan cahaya, kuliner khas, hiburan, serta pengalaman unik yang sulit ditemukan pada waktu lainnya. Di Indonesia, wisata malam berkembang pesat seiring meningkatnya minat masyarakat untuk menikmati kota dan alam dalam suasana yang lebih santai dan romantis. Tidak heran jika pencarian terkait tempat wisata malam yang wajib dicoba semakin meningkat di mesin pencari.

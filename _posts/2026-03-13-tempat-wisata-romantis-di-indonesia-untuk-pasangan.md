@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata Romantis di Indonesia untuk Pasangan"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXc1UUa1cGurlB0Dy8Ft1sNnF-aH4B20x_WovpXU9V3pCYvIeMeze0cF9E69AgKJj8EdrsMUC3vYVPQ-oXl_gad4uYKk1rqFoaojp18fh-BW-3krvEnN_SwLoVQJ-mAHNimr9vsfJA?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-romantis-di-indonesia-untuk-pasangan.jpg
 ---
 
 Tempat Wisata Romantis di Indonesia untuk PasanganDestinasi Impian untuk Liburan Berdua

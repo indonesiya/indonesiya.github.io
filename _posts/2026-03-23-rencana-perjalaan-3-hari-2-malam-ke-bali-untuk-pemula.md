@@ -2,8 +2,8 @@
 layout: post
 title: "Rencana Perjalaan 3 Hari 2 Malam ke Bali untuk Pemula"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXcxe-3tbDRUDvlBtgua4W36p9pZhsNVc1W3VMDbEI-XyzK-cR3oocVWh5I03IeUrNP2itCNlWmtEd_NAtDFp_YGoHhz_luaVnN3CceHCSGh6PZPzwsPsThzx94BX_3sIZ_ufiioTA?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/rencana-perjalanan-3-hari-2-malam-ke-bali-untuk-pemula.jpg
 ---
 
 Rencana Perjalaan 3 Hari 2 Malam ke Bali untuk Pemula

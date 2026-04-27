@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata dengan View Gunung dan Laut Sekaligus"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXesk9tFqpJfmH2DLtCZpydBKvmA5XZHKy-VJPfTptZV7hUAJDcGfv1la_pvL7Ko-kzJAX1ajrP2jiBwZFNJY5J6jWHGxoKC21a3JH2YSeXG51XqXSrMDLLk4rpxiRY-1V0SCps_?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-dengan-view-gunung-dan-laut-sekaligus.jpg
 ---
 
 Tempat Wisata dengan View Gunung dan Laut SekaligusDestinasi Unik dengan Panorama Lengkap di IndonesiaIndonesia dikenal sebagai negara kepulauan dengan kekayaan alam yang luar biasa. Tidak hanya memiliki pantai yang indah dan gunung yang megah, tetapi ada juga beberapa tempat wisata dengan view gunung dan laut sekaligus yang menawarkan panorama langka dan menakjubkan. Kombinasi antara birunya laut dan hijaunya pegunungan menciptakan pemandangan yang sangat memukau serta menjadi daya tarik tersendiri bagi para wisatawan, fotografer, hingga pecinta alam.

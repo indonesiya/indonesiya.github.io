@@ -2,8 +2,8 @@
 layout: post
 title: "Destinasi Wisata Budget di Asia Tenggara"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXc2daXZO_LuTT93Yri4qv47Z70Bf8eAxjeBeyyuSBarR73-gGFc5LrXZsw_UQT4wVCRzWoy2S8R9O8SMYFw___t5BKONPrcnfHCeBhhnSTxduJiESZ_ms3yDJg8ZTDB8nkUsB_Hmw?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/destinasi-wisata-budget-di-asia-tenggara.jpg
 ---
 
 Destinasi Wisata Budget di Asia Tenggara

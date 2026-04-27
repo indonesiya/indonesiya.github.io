@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat Wisata Pegunungan yang Cocok untuk Camping"
 author: dina
-categories: [ ]
-image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXeV3m9fN6wqPTmM3AMM88h0ZzQudQHLHOMA1kC-fSx0bzJ3MdE8_pHenrqk6yTOWpwMCaarYC5DtpEufiSgtZDlCPKZBKLmll4FSJah69z60S6fA7r0WsjzV7o339Oycw8ErEPE-A?key=rcvuT26tSvQeN_T41GuuLg
+categories: [ wisata, liburan ]
+image: assets/images/wisata/tempat-wisata-pegunungan-yang-cocok-untuk-camping.jpg
 ---
 
 Tempat Wisata Pegunungan yang Cocok untuk CampingRekomendasi Alam Terbaik untuk Liburan OutdoorMenikmati Wisata Pegunungan yang Cocok untuk Camping di IndonesiaIndonesia dikenal sebagai negara dengan kekayaan alam yang luar biasa. Salah satu jenis wisata alam yang semakin populer adalah wisata pegunungan yang cocok untuk camping. Aktivitas berkemah di pegunungan menawarkan pengalaman yang berbeda dibandingkan liburan biasa. Udara yang sejuk, pemandangan alam yang indah, serta suasana tenang jauh dari hiruk pikuk kota menjadikan camping di pegunungan sebagai pilihan favorit bagi para pecinta alam dan traveler.
