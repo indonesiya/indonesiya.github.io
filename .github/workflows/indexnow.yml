@@ -1,0 +1,25 @@
+name: IndexNow Full Auto
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  indexnow:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Get Sitemap URLs & Submit
+        run: |
+          curl -s https://indonesiya.com/sitemap.xml -o sitemap.xml
+
+          urls=$(grep -oP '(?<=<loc>)[^<]+' sitemap.xml | tr '\n' ',' | sed 's/,$//')
+
+          curl -X POST "https://api.indexnow.org/indexnow" \
+          -H "Content-Type: application/json" \
+          -d "{
+            \"host\": \"indonesiya.com\",
+            \"key\": \"c2392ba235b34446a5a505591c848031\",
+            \"urlList\": [\"$urls\"]
+          }"
