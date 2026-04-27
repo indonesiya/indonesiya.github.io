@@ -6,9 +6,11 @@ categories: [ wisata, tips, liburan ]
 image: assets/images/wisata/cara-traveling-santai-tanpa-banyak-biaya.jpg
 ---
 
-Panduan Lengkap Hemat Namun Tetap Menikmati LiburanTraveling santai tanpa banyak biaya adalah impian banyak orang, terutama bagi mereka yang ingin menikmati liburan tanpa harus khawatir dengan dompet yang menipis. 
+Traveling santai tanpa banyak biaya adalah impian banyak orang, terutama bagi mereka yang ingin menikmati liburan tanpa harus khawatir dengan dompet yang menipis. 
 
 Di era sekarang, liburan bukan lagi sesuatu yang mewah, karena dengan perencanaan yang tepat, strategi yang matang, serta pemilihan destinasi yang sesuai, traveling hemat bisa dilakukan oleh siapa saja. Artikel ini akan membahas cara traveling santai dengan budget minim, namun tetap nyaman, aman, dan penuh pengalaman berkesan. 
+
+# Panduan Lengkap Hemat Namun Tetap Menikmati Liburan
 
 ## Cara Traveling Santai Tanpa Banyak Biaya
 
