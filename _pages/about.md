@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 permalink: /about
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">
@@ -97,7 +97,6 @@ comments: true
 
 <p>Kami mengundang Anda untuk menjadi bagian dari perjalanan ini—menjelajah, belajar, dan menemukan hal baru bersama Indonesiya.</p>
 
-
 </div>
 
 <div class="col-md-4">
@@ -105,9 +104,9 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h5>Buy me a coffee</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="http://tiny.cc/adulthappy">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="/">Indonesiya <i class="fab fa-github"></i></a>.</p>
 
-<a target="_blank" href="http://tiny.cc/adulthappy" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="http://tiny.cc/adulthappy" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="http://tiny.cc/adulthappy" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="/sitemap/" class="btn btn-warning">Documentation</a>
 
 </div>
 </div>
