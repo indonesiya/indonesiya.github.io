@@ -8,15 +8,15 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Indonesiya.com adalah platform digital yang hadir untuk menyediakan informasi berkualitas, inspiratif, dan relevan bagi pembaca Indonesia maupun global. Di tengah pesatnya perkembangan dunia digital, kebutuhan akan konten yang akurat, mudah dipahami, dan bernilai semakin tinggi. Oleh karena itu, Indonesiya.com berkomitmen untuk menjadi salah satu sumber informasi terpercaya yang mampu memenuhi kebutuhan tersebut.</p>
+<p>Indonesiya adalah platform digital yang hadir untuk menyediakan informasi berkualitas, inspiratif, dan relevan bagi pembaca Indonesia maupun global. Di tengah pesatnya perkembangan dunia digital, kebutuhan akan konten yang akurat, mudah dipahami, dan bernilai semakin tinggi. Oleh karena itu, Indonesiya berkomitmen untuk menjadi salah satu sumber informasi terpercaya yang mampu memenuhi kebutuhan tersebut.</p>
 
-<p>Kami percaya bahwa informasi bukan sekadar kumpulan kata, tetapi juga sarana untuk membuka wawasan, memperluas perspektif, dan memberikan inspirasi. Melalui berbagai artikel yang kami sajikan, Indonesiya.com berusaha menghadirkan konten yang tidak hanya informatif, tetapi juga menarik untuk dibaca dan mudah dipahami oleh berbagai kalangan.</p>
+<p>Kami percaya bahwa informasi bukan sekadar kumpulan kata, tetapi juga sarana untuk membuka wawasan, memperluas perspektif, dan memberikan inspirasi. Melalui berbagai artikel yang kami sajikan, Indonesiya berusaha menghadirkan konten yang tidak hanya informatif, tetapi juga menarik untuk dibaca dan mudah dipahami oleh berbagai kalangan.</p>
 
-<p>Sebagai website yang terus berkembang, Indonesiya.com mengangkat berbagai topik populer yang dekat dengan kehidupan sehari-hari. Mulai dari travel, gaya hidup, teknologi, tips dan trik, hingga berbagai informasi menarik lainnya yang sedang tren di dunia digital. Kami memahami bahwa setiap pembaca memiliki kebutuhan dan minat yang berbeda, sehingga kami berupaya menghadirkan variasi konten yang luas dan relevan.</p>
+<p>Sebagai website yang terus berkembang, Indonesiya mengangkat berbagai topik populer yang dekat dengan kehidupan sehari-hari. Mulai dari travel, gaya hidup, teknologi, tips dan trik, hingga berbagai informasi menarik lainnya yang sedang tren di dunia digital. Kami memahami bahwa setiap pembaca memiliki kebutuhan dan minat yang berbeda, sehingga kami berupaya menghadirkan variasi konten yang luas dan relevan.</p>
 
 <h4>Fokus Konten Kami</h4>
 
-<p>Indonesiya.com memiliki fokus utama dalam menghadirkan konten yang tidak hanya menarik, tetapi juga memiliki nilai praktis bagi pembaca. Beberapa kategori utama yang kami angkat antara lain:</p>
+<p>Indonesiya memiliki fokus utama dalam menghadirkan konten yang tidak hanya menarik, tetapi juga memiliki nilai praktis bagi pembaca. Beberapa kategori utama yang kami angkat antara lain:</p>
 
 <ol>
 <li>
@@ -26,7 +26,7 @@ comments: true
 
 <li>
 <strong>Gaya Hidup Modern</strong>
-<p>Perkembangan gaya hidup modern yang dinamis menjadi salah satu fokus utama kami. Indonesiya.com menyajikan berbagai konten seputar tren, kebiasaan, dan inspirasi hidup.</p>
+<p>Perkembangan gaya hidup modern yang dinamis menjadi salah satu fokus utama kami. Indonesiya menyajikan berbagai konten seputar tren, kebiasaan, dan inspirasi hidup.</p>
 </li>
 
 <li>
@@ -42,7 +42,7 @@ comments: true
 
 <h4>Komitmen Kami</h4>
 
-<p>Indonesiya.com dibangun dengan komitmen untuk menghadirkan konten yang berkualitas dan bermanfaat. Kami memahami bahwa kepercayaan pembaca adalah hal yang sangat penting, sehingga setiap artikel dipublikasikan melalui proses yang matang.</p>
+<p>Indonesiya dibangun dengan komitmen untuk menghadirkan konten yang berkualitas dan bermanfaat. Kami memahami bahwa kepercayaan pembaca adalah hal yang sangat penting, sehingga setiap artikel dipublikasikan melalui proses yang matang.</p>
 
 <ul>
 <li>Menyajikan informasi yang jelas dan mudah dipahami</li>
@@ -77,9 +77,9 @@ comments: true
 <li><strong>Inspirasi</strong> – Memberikan dampak positif bagi pembaca</li>
 </ol>
 
-<h4>Kenapa Memilih Indonesiya.com?</h4>
+<h4>Kenapa Memilih Indonesiya?</h4>
 
-<p>Di tengah banyaknya platform digital, Indonesiya.com hadir dengan pendekatan yang mengutamakan kualitas dan relevansi.</p>
+<p>Di tengah banyaknya platform digital, Indonesiya hadir dengan pendekatan yang mengutamakan kualitas dan relevansi.</p>
 
 <ul>
 <li>Konten selalu diperbarui</li>
@@ -93,9 +93,9 @@ comments: true
 
 <h4>Penutup</h4>
 
-<p>Indonesiya.com bukan hanya sekadar website, tetapi juga ruang untuk berbagi informasi, inspirasi, dan ide. Kami percaya setiap tulisan memiliki potensi untuk memberikan dampak positif.</p>
+<p>Indonesiya bukan hanya sekadar website, tetapi juga ruang untuk berbagi informasi, inspirasi, dan ide. Kami percaya setiap tulisan memiliki potensi untuk memberikan dampak positif.</p>
 
-<p>Kami mengundang Anda untuk menjadi bagian dari perjalanan ini—menjelajah, belajar, dan menemukan hal baru bersama Indonesiya.com.</p>
+<p>Kami mengundang Anda untuk menjadi bagian dari perjalanan ini—menjelajah, belajar, dan menemukan hal baru bersama Indonesiya.</p>
 
 
 </div>
