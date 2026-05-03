@@ -4,7 +4,7 @@ author: "admin"
 categories: ["wisata"]
 date: "2026-05-03"
 publish_at: "2026-05-03 08:51:37"
-image: "https://docs.google.com/docs-images-rt/ABaEjg39k-gb3iA7sK6PzJzKDKRZxALY2ucdZWDHqJGCnGPturqfHZsm6IAiJ7Pzvi2Pnb-AwLIaq0LyXgdPB2XhWYd_tFcNUofYNWJQqihPIOErGqaegtNeQ9et_n85m0oC4nSRq__HQcvSWLYH--lo830OU93O3QYuKnxHyFlF"
+image: "assets/images/wisata/10-destinasi-wisata-alam-terindah-di-indonesia-yang-wajib-masuk-bucket-list.jpg"
 ---
 
 Indonesia dikenal sebagai surga wisata alam dengan keindahan yang tak tertandingi. Dari Sabang hingga Merauke, setiap daerah memiliki destinasi wisata yang unik dan memukau. Artikel ini akan membahas berbagai destinasi wisata alam terbaik di Indonesia yang cocok untuk liburan, healing, hingga petualangan. Jika kamu sedang mencari referensi wisata Indonesia yang populer dan instagramable, maka artikel ini sangat tepat untuk kamu baca hingga selesai.
