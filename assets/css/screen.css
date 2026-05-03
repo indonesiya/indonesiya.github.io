@@ -781,6 +781,12 @@ span.navigation {
     display: block;
 }
 
+.pagination a{
+    padding: 0 5px;
+    border: 1px solid rgba(0,0,0,.125)
+}
+
+
 iframe {
     max-width: 100%;
 }
