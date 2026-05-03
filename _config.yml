@@ -58,6 +58,16 @@ authors:
     twitter: https://twitter.com/indonesiya
     description: "Kreator yang menuangkan ide melalui tulisan yang inspiratif dan menarik. Berkomitmen untuk terus menghadirkan konten berkualitas setiap waktu."
 
+  admin:
+    name: Vania Raissa
+    display_name: Admin
+    avatar: 'assets/images/avatar5.jpg'
+    email: admin@indonesiya.com
+    web: https://indonesiya.com
+    twitter: https://twitter.com/indonesiya
+    description: "Penulis yang menggabungkan kreativitas dan informasi dalam setiap karya tulisnya. Berusaha memberikan pengalaman membaca yang menyenangkan dan bermanfaat."
+
+
 # Plugins
 plugins:
   - jekyll-paginate
