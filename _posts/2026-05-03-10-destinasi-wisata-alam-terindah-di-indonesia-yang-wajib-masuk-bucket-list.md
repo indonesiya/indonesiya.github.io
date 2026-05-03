@@ -3,7 +3,7 @@ title: "10 Destinasi Wisata Alam Terindah di Indonesia yang Wajib Masuk Bucket L
 author: "admin"
 categories: ["wisata"]
 date: "2026-05-03"
-publish_at: "2026-05-03 08:51:37"
+publish_at: "2026-05-03 17:17:33"
 image: "assets/images/wisata/10-destinasi-wisata-alam-terindah-di-indonesia-yang-wajib-masuk-bucket-list.jpg"
 ---
 
@@ -91,3 +91,4 @@ Indonesia memiliki banyak destinasi wisata alam yang indah dan menakjubkan. Dari
 Semoga artikel ini dapat menjadi referensi bagi kamu yang sedang mencari inspirasi liburan. Jangan ragu untuk menjelajahi keindahan wisata Indonesia dan temukan pengalaman terbaikmu.
 
 Label: wisata, alam, travel
+
