@@ -155,9 +155,9 @@ layout: default
                 {{ post.date | date: "%b %-d, %Y" }}
               </span>
 
-              {% if page.author %}
+              {% if post.author %}
               <span class="small text-capitalize text-muted" itemprop="author">
-                • {{ page.author }}
+                • {{ post.author }}
               </span>
               {% endif %}
 
