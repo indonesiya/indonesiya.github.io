@@ -787,7 +787,7 @@ span.navigation {
     padding: 10px;
 }
 
-iframe {
+iframe,ins {
     width: 100%;
     max-width: 100%;
 }
