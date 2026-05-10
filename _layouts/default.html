@@ -113,25 +113,27 @@
     <!-- End Navigation
 ================================================== -->
 
-    <div class="site-content container">
+    <div class="site-content">
 
-        <!-- Site Title
+        <div class="container">
+
+            <!-- Site Title
 ================================================== -->
-        <div class="mainheading">
-            <h1 class="sitetitle"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="lead">
-                {{ site.description }}
-            </p>
-        </div>
+            <div class="mainheading">
+                <h1 class="sitetitle"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+                <p class="lead">
+                    {{ site.description }}
+                </p>
+            </div>
 
-        <!-- Content
+            <!-- Content
 ================================================== -->
-        <div class="main-content">
-            {{ content }}
-        </div>
+            <div class="main-content">
+                {{ content }}
+            </div>
 
-        {% if site.mailchimp-list %}
-        <!-- Bottom Alert Bar
+            {% if site.mailchimp-list %}
+            <!-- Bottom Alert Bar
 ================================================== 
             <div class="alertbar">
                 <div class="container text-center">
@@ -147,57 +149,58 @@
                     </form>
                 </div>
             </div>-->
-        {% endif %}
+            {% endif %}
 
 
-        <!-- Categories Jumbotron
+            <!-- Categories Jumbotron
 ================================================== -->
-        <div class="jumbotron fortags">
-            <div class="d-md-flex h-100">
-                <div class="col-md-4 transpdark align-self-center text-center h-100">
-                    <div class="d-md-flex align-items-center justify-content-center h-100">
-                        <h2 class="d-md-block align-self-center py-1 font-weight-light">Explore <span
-                                class="d-none d-md-inline">→</span></h2>
+            <div class="jumbotron fortags">
+                <div class="d-md-flex h-100">
+                    <div class="col-md-4 transpdark align-self-center text-center h-100">
+                        <div class="d-md-flex align-items-center justify-content-center h-100">
+                            <h2 class="d-md-block align-self-center py-1 font-weight-light">Explore <span
+                                    class="d-none d-md-inline">→</span></h2>
+                        </div>
+                    </div>
+                    <div class="col-md-8 p-5 align-self-center text-center">
+                        {% assign categories_list = site.categories %}
+                        {% if categories_list.first[0] == null %}
+                        {% for category in categories_list %}
+                        <a class="mt-1 mb-1"
+                            href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }}
+                            ({{ site.tags[category].size }})</a>
+                        {% endfor %}
+                        {% else %}
+                        {% for category in categories_list %}
+                        <a class="mt-1 mb-1"
+                            href="{{site.baseurl}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }}
+                            ({{ category[1].size }})</a>
+                        {% endfor %}
+                        {% endif %}
+                        {% assign categories_list = nil %}
                     </div>
                 </div>
-                <div class="col-md-8 p-5 align-self-center text-center">
-                    {% assign categories_list = site.categories %}
-                    {% if categories_list.first[0] == null %}
-                    {% for category in categories_list %}
-                    <a class="mt-1 mb-1"
-                        href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }}
-                        ({{ site.tags[category].size }})</a>
-                    {% endfor %}
-                    {% else %}
-                    {% for category in categories_list %}
-                    <a class="mt-1 mb-1"
-                        href="{{site.baseurl}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }}
-                        ({{ category[1].size }})</a>
-                    {% endfor %}
-                    {% endif %}
-                    {% assign categories_list = nil %}
-                </div>
             </div>
+
+            <!-- Begin Footer
+================================================== -->
+            <footer class="footer">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-6 text-center text-lg-left">
+                            Copyright © {{ site.time | date: "%Y" }} {{ site.name }}
+                        </div>
+                        <div class="col-md-6 col-sm-6 text-center text-lg-right">
+                            Supported by <a target="_blank" href="https://aridjaya.com">
+                                Aridjaya</a>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+            <!-- End Footer
+================================================== -->
         </div>
-
-        <!-- Begin Footer
-================================================== -->
-        <footer class="footer">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6 col-sm-6 text-center text-lg-left">
-                        Copyright © {{ site.time | date: "%Y" }} {{ site.name }}
-                    </div>
-                    <div class="col-md-6 col-sm-6 text-center text-lg-right">
-                        Supported by <a target="_blank" href="https://aridjaya.com">
-                            Aridjaya</a>
-                    </div>
-                </div>
-            </div>
-        </footer>
-        <!-- End Footer
-================================================== -->
-
+        
     </div> <!-- /.site-content -->
 
     <!-- Scripts
