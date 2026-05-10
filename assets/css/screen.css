@@ -1129,7 +1129,8 @@ iframe {
 /* Jika input berada di dalam container tertentu */
 .google-auto-placed,
 .google-auto-place,
-.google-autocomplete {
+.google-autocomplete,
+.adsbygoogle {
   width: 100%;
   max-width: 100%;
   box-sizing: border-box;
