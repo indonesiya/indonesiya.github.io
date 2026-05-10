@@ -114,7 +114,7 @@ Open trip memberikan pengalaman sosial yang menyenangkan.
 Agar perjalanan lebih nyaman, ada beberapa hal yang perlu diperhatikan saat berwisata ke Bandung.
 
 - Hindari akhir pekan jika ingin menghindari macet
-- Rencanakan itinerary dengan baik
+- Rencanakan rencana perjalanan dengan baik
 - Siapkan pakaian hangat
 - Gunakan transportasi yang efisien
 Dengan tips ini, perjalanan akan lebih lancar.

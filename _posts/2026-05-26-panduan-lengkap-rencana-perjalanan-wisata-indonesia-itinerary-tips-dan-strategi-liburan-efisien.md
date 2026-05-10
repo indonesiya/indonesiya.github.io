@@ -1,10 +1,10 @@
 ---
-title: "Panduan Lengkap Rencana Perjalanan Wisata Indonesia: Itinerary, Tips, dan Strategi Liburan Efisien"
+title: "Panduan Lengkap Rencana Perjalanan Wisata Indonesia: rencana perjalanan, Tips, dan Strategi Liburan Efisien"
 author: "admin"
 categories: ["traveling"]
 date: "2026-05-26"
 publish_at: "2026-05-26 19:14:45"
-image: "assets/images/wisata/panduan-lengkap-rencana-perjalanan-wisata-indonesia-itinerary-tips-dan-strategi-liburan-efisien.jpg"
+image: "assets/images/wisata/panduan-lengkap-rencana-perjalanan-wisata-indonesia-rencana perjalanan-tips-dan-strategi-liburan-efisien.jpg"
 ---
 
 Rencana perjalanan menjadi salah satu faktor terpenting dalam keberhasilan sebuah liburan. Dengan perencanaan yang matang, wisatawan dapat menikmati perjalanan dengan lebih nyaman, efisien, dan menyenangkan. Indonesia sebagai negara dengan banyak destinasi wisata membutuhkan perencanaan yang baik agar perjalanan dapat berjalan lancar.
@@ -15,7 +15,7 @@ Selanjutnya, menentukan transportasi yang akan digunakan menjadi hal penting. In
 
 Akomodasi juga harus dipilih dengan cermat sesuai kebutuhan dan budget.
 
-Menyusun itinerary harian akan membantu mengatur waktu.
+Menyusun rencana perjalanan harian akan membantu mengatur waktu.
 
 Liburan hemat dapat dilakukan dengan perencanaan yang baik.
 

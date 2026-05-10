@@ -9,9 +9,9 @@ image: "assets/images/wisata/panduan-lengkap-wisata-bandung-4-hari-3-malam-tempa
 
 Wisata Bandung merupakan salah satu destinasi favorit di Indonesia yang menawarkan berbagai pilihan tempat wisata menarik mulai dari wisata alam, wisata keluarga, hingga wisata kuliner yang sangat terkenal. Kota Bandung dikenal dengan julukan Kota Kembang dan memiliki udara sejuk yang menjadi daya tarik utama bagi wisatawan dari berbagai daerah. Dengan berbagai tempat wisata hits seperti Lembang, Dago, hingga Ciwidey, Bandung selalu menjadi pilihan tepat untuk liburan singkat maupun panjang bersama keluarga, pasangan, maupun teman.
 
-Selain itu, wisata Bandung juga dikenal dengan harga yang relatif terjangkau dibandingkan kota wisata lainnya. Banyak pilihan penginapan mulai dari hotel budget hingga resort mewah yang bisa disesuaikan dengan kebutuhan. Artikel ini akan membahas panduan lengkap wisata Bandung mulai dari itinerary 4 hari 3 malam, rekomendasi tempat wisata terbaik, kuliner khas Bandung, hingga tips hemat agar liburan Anda tetap maksimal.
+Selain itu, wisata Bandung juga dikenal dengan harga yang relatif terjangkau dibandingkan kota wisata lainnya. Banyak pilihan penginapan mulai dari hotel budget hingga resort mewah yang bisa disesuaikan dengan kebutuhan. Artikel ini akan membahas panduan lengkap wisata Bandung mulai dari rencana perjalanan 4 hari 3 malam, rekomendasi tempat wisata terbaik, kuliner khas Bandung, hingga tips hemat agar liburan Anda tetap maksimal.
 
-## Itinerary Wisata Bandung
+## rencana perjalanan Wisata Bandung
 
 ### Hari 1: Kota Bandung dan Dago
 

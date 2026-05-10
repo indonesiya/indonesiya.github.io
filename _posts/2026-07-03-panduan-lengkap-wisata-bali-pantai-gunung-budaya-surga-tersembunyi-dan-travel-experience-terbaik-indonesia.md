@@ -112,7 +112,7 @@ Ini cocok untuk solo traveler yang ingin perjalanan praktis.
 Agar perjalanan lebih nyaman, ada beberapa hal penting yang perlu diperhatikan saat berwisata di Bali.
 
 - Hindari musim liburan panjang
-- Rencanakan itinerary dengan baik
+- Rencanakan rencana perjalanan dengan baik
 - Gunakan transportasi lokal
 - Hormati budaya setempat
 Dengan tips ini, perjalanan akan lebih lancar.

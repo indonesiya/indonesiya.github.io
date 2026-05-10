@@ -52,7 +52,7 @@ Selain itu, banyak restoran yang menyediakan menu khusus anak-anak sehingga lebi
 
 ## Paket Wisata Keluarga
 
-Bagi keluarga yang ingin liburan tanpa repot, paket wisata menjadi solusi terbaik. Paket wisata biasanya sudah mencakup transportasi, penginapan, dan itinerary yang disesuaikan untuk keluarga.
+Bagi keluarga yang ingin liburan tanpa repot, paket wisata menjadi solusi terbaik. Paket wisata biasanya sudah mencakup transportasi, penginapan, dan rencana perjalanan yang disesuaikan untuk keluarga.
 
 Dengan menggunakan paket wisata, kamu bisa lebih fokus menikmati waktu bersama keluarga tanpa harus memikirkan detail perjalanan.
 
@@ -76,5 +76,4 @@ Wisata keluarga di Indonesia menawarkan berbagai pilihan menarik yang cocok untu
 
 Dengan memilih destinasi yang tepat dan melakukan persiapan yang baik, liburan keluarga akan menjadi momen yang tak terlupakan.
 
-Label: keluarga, wisata, liburan
-
+**Label:** keluarga, wisata, liburan

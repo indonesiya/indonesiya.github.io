@@ -13,14 +13,14 @@ Dengan banyaknya destinasi wisata Indonesia seperti wisata alam, wisata kota, wi
 
 ## Paket Wisata di Indonesia: Solusi Praktis Liburan
 
-Paket wisata merupakan pilihan ideal bagi wisatawan yang ingin menikmati perjalanan tanpa harus repot mengatur transportasi, penginapan, dan itinerary. Banyak agen travel Indonesia menawarkan paket wisata ke berbagai destinasi populer seperti Bali, Lombok, Labuan Bajo, hingga Yogyakarta.
+Paket wisata merupakan pilihan ideal bagi wisatawan yang ingin menikmati perjalanan tanpa harus repot mengatur transportasi, penginapan, dan rencana perjalanan. Banyak agen travel Indonesia menawarkan paket wisata ke berbagai destinasi populer seperti Bali, Lombok, Labuan Bajo, hingga Yogyakarta.
 
 Keuntungan utama dari paket wisata adalah kemudahan dan efisiensi waktu. Semua kebutuhan perjalanan sudah diatur sehingga kamu bisa fokus menikmati liburan. Selain itu, paket wisata sering kali menawarkan harga yang lebih terjangkau dibandingkan jika kamu mengatur semuanya sendiri.
 
 ### Keuntungan Menggunakan Paket Wisata
 
 - Praktis dan tidak ribet
-- Itinerary sudah terencana dengan baik
+- rencana perjalanan sudah terencana dengan baik
 - Harga lebih hemat dalam paket
 - Dapat guide berpengalaman
 Dengan berbagai keuntungan tersebut, paket wisata menjadi pilihan populer bagi wisatawan keluarga maupun pemula.
@@ -35,7 +35,7 @@ Selain lebih hemat, open trip juga memberikan kesempatan untuk bertemu orang bar
 
 - Biaya lebih murah karena sharing
 - Kesempatan bertemu teman baru
-- Sudah termasuk itinerary dan guide
+- Sudah termasuk rencana perjalanan dan guide
 Open trip cocok untuk kamu yang ingin traveling tanpa harus mengeluarkan biaya besar.
 
 ## Liburan Hemat di Indonesia
@@ -54,7 +54,7 @@ Dengan tips ini, kamu bisa menghemat pengeluaran selama perjalanan.
 
 ## Perencanaan Rencana Perjalanan
 
-Rencana perjalanan atau itinerary sangat penting dalam traveling. Dengan perencanaan yang baik, kamu bisa mengatur waktu, biaya, dan destinasi wisata dengan lebih efektif.
+Rencana perjalanan atau rencana perjalanan sangat penting dalam traveling. Dengan perencanaan yang baik, kamu bisa mengatur waktu, biaya, dan destinasi wisata dengan lebih efektif.
 
 Travel guide juga sangat membantu dalam menentukan tempat wisata yang ingin dikunjungi. Banyak sumber informasi yang bisa kamu gunakan untuk merencanakan perjalanan.
 

@@ -51,5 +51,5 @@ Dengan mengikuti tips ini, pengalaman wisata kamu akan lebih menyenangkan.
 
 Wisata hits di Indonesia terus berkembang dan menawarkan pengalaman baru. Dari wisata alam hingga modern, semuanya memiliki daya tarik tersendiri.
 
-Label: wisata, viral, travel
+**Label:** wisata, viral, travel
 

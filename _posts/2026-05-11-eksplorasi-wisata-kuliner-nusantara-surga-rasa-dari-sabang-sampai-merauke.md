@@ -1,5 +1,5 @@
 ---
-title: "Eksplorasi Wisata Kuliner Nusantara: Surga Rasa dari Sabang sampai Merauke"
+title: "Eksplorasi Wisata Kuliner Nusantara "
 author: "admin"
 categories: ["wisata","kuliner"]
 date: "2026-05-11"
@@ -14,6 +14,8 @@ Mulai dari rendang di Sumatera Barat hingga papeda di Papua, setiap makanan memi
 Banyak wisatawan yang menjadikan kuliner sebagai alasan utama untuk berkunjung ke suatu daerah. Hal ini menunjukkan betapa pentingnya peran kuliner dalam dunia pariwisata.
 
 Selain makanan berat, Indonesia juga memiliki berbagai jajanan tradisional yang lezat. Dari kue basah hingga makanan ringan, semuanya memiliki cita rasa yang khas.
+
+## Surga Rasa dari Sabang sampai Merauke
 
 Wisata kuliner juga bisa menjadi pengalaman edukatif. Anda bisa belajar tentang bahan-bahan lokal, cara memasak, dan sejarah makanan tersebut.
 

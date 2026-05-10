@@ -20,7 +20,7 @@ Di Indonesia, banyak jalur yang dikenal sebagai rute road trip terbaik karena pe
 
 Sebelum memulai perjalanan road trip, ada beberapa hal yang perlu dipersiapkan agar perjalanan berjalan lancar. Pertama adalah memastikan kendaraan dalam kondisi prima. Pemeriksaan mesin, rem, ban, serta bahan bakar sangat penting untuk menghindari masalah di tengah perjalanan. Selain itu, membawa perlengkapan darurat seperti ban cadangan, alat navigasi, dan kotak P3K juga sangat disarankan.
 
-Perencanaan rute juga menjadi faktor penting dalam perjalanan road trip. Dengan menentukan destinasi wisata yang ingin dikunjungi, wisatawan dapat membuat Rencana perjalanan perjalanan yang lebih efisien. Penggunaan aplikasi navigasi juga dapat membantu menemukan rute terbaik dan menghindari kemacetan. Hal lain yang tidak kalah penting adalah menyiapkan bekal makanan ringan serta air minum agar perjalanan tetap nyaman.
+Perencanaan rute juga menjadi faktor penting dalam perjalanan road trip. Dengan menentukan destinasi wisata yang ingin dikunjungi, wisatawan dapat membuat rencana perjalanan yang lebih efisien. Penggunaan aplikasi navigasi juga dapat membantu menemukan rute terbaik dan menghindari kemacetan. Hal lain yang tidak kalah penting adalah menyiapkan bekal makanan ringan serta air minum agar perjalanan tetap nyaman.
 
 ### 1. Jalur Pantai Selatan Jawa
 

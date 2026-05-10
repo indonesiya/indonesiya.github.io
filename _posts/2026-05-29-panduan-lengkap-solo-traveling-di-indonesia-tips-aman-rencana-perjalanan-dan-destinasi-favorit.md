@@ -13,7 +13,7 @@ Namun, solo traveling juga membutuhkan persiapan yang matang terutama dari segi 
 
 ## Keuntungan Solo Traveling
 
-Salah satu keuntungan utama adalah kebebasan dalam menentukan itinerary. Anda bisa mengatur waktu dan destinasi sesuai keinginan tanpa harus menyesuaikan dengan orang lain.
+Salah satu keuntungan utama adalah kebebasan dalam menentukan rencana perjalanan. Anda bisa mengatur waktu dan destinasi sesuai keinginan tanpa harus menyesuaikan dengan orang lain.
 
 Selain itu, solo traveling juga membantu meningkatkan kepercayaan diri.
 
@@ -27,7 +27,7 @@ Keamanan adalah hal utama dalam perjalanan.
 
 ### Rencana Perjalanan
 
-Membuat itinerary yang jelas sangat penting agar perjalanan lebih terarah. Tentukan destinasi, transportasi, dan penginapan sebelum berangkat.
+Membuat rencana perjalanan yang jelas sangat penting agar perjalanan lebih terarah. Tentukan destinasi, transportasi, dan penginapan sebelum berangkat.
 
 Dengan perencanaan yang baik, perjalanan akan lebih lancar.
 

@@ -40,6 +40,6 @@ Wisata sejarah menambah wawasan wisatawan.
 
 - Hormati adat dan budaya lokal
 - Gunakan pakaian sopan
-- Siapkan itinerary perjalanan
+- Siapkan rencana perjalanan
 Tips ini membantu perjalanan lebih nyaman dan aman.
 

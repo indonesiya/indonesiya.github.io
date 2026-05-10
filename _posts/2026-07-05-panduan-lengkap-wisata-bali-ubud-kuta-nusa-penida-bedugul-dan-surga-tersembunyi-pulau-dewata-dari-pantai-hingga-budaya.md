@@ -153,7 +153,7 @@ Agar perjalanan lebih nyaman, ada beberapa hal penting yang perlu diperhatikan s
 - Hindari musim liburan padat
 - Gunakan transportasi lokal
 - Hormati budaya adat
-- Rencanakan itinerary pulau
+- Rencanakan rencana perjalanan pulau
 Dengan tips ini, perjalanan akan lebih lancar.
 
 Label: bali, ubud, penida

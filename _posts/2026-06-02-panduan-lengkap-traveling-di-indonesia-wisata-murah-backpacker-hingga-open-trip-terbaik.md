@@ -15,7 +15,7 @@ Indonesia memiliki keunggulan dalam hal keberagaman destinasi wisata. Dari wisat
 
 Traveling bukan hanya sekadar liburan, tetapi juga cara untuk mengenal budaya, alam, dan kehidupan masyarakat di berbagai daerah. Banyak traveler memilih gaya perjalanan yang berbeda sesuai dengan kebutuhan dan budget. Ada yang memilih wisata murah dengan konsep backpacker, ada juga yang memilih kenyamanan dengan paket wisata.
 
-Selain itu, tren open trip semakin populer karena memberikan kesempatan untuk traveling bersama orang baru dengan biaya yang lebih hemat. Open trip biasanya sudah mencakup transportasi, penginapan, dan itinerary sehingga lebih praktis.
+Selain itu, tren open trip semakin populer karena memberikan kesempatan untuk traveling bersama orang baru dengan biaya yang lebih hemat. Open trip biasanya sudah mencakup transportasi, penginapan, dan rencana perjalanan sehingga lebih praktis.
 
 ## Wisata Murah di Indonesia untuk Backpacker
 
@@ -39,7 +39,7 @@ Namun, solo traveling juga membutuhkan persiapan yang matang, terutama dalam hal
 
 ## Rencana Perjalanan dan Travel Guide
 
-Membuat rencana perjalanan adalah langkah penting dalam traveling. Dengan itinerary yang jelas, kamu bisa mengatur waktu dan budget dengan lebih efisien. Travel guide juga sangat membantu dalam menentukan tempat wisata, kuliner, dan aktivitas yang bisa dilakukan.
+Membuat rencana perjalanan adalah langkah penting dalam traveling. Dengan rencana perjalanan yang jelas, kamu bisa mengatur waktu dan budget dengan lebih efisien. Travel guide juga sangat membantu dalam menentukan tempat wisata, kuliner, dan aktivitas yang bisa dilakukan.
 
 Selain itu, kamu juga bisa menggunakan aplikasi traveling untuk mempermudah perjalanan. Banyak aplikasi yang menyediakan informasi lengkap tentang destinasi wisata di Indonesia.
 

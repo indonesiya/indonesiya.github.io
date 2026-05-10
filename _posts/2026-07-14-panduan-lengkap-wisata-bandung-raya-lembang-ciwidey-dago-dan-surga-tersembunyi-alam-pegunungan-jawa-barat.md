@@ -128,7 +128,7 @@ Agar perjalanan lebih nyaman, ada beberapa hal penting yang perlu diperhatikan s
 
 - Hindari akhir pekan jika tidak ingin macet
 - Siapkan pakaian hangat
-- Rencanakan itinerary dengan baik
+- Rencanakan rencana perjalanan dengan baik
 - Gunakan kendaraan pribadi atau sewa
 Dengan tips ini, perjalanan akan lebih lancar.
 

@@ -33,9 +33,9 @@ Dengan tips ini, kamu bisa menikmati perjalanan tanpa menguras kantong.
 
 ## Rencana Perjalanan untuk Solo Traveling
 
-Membuat rencana perjalanan sangat penting dalam solo traveling. Dengan itinerary yang jelas, kamu bisa mengatur waktu dan biaya dengan lebih efisien. Rencana perjalanan juga membantu kamu menghindari kebingungan selama perjalanan.
+Membuat rencana perjalanan sangat penting dalam solo traveling. Dengan rencana perjalanan yang jelas, kamu bisa mengatur waktu dan biaya dengan lebih efisien. Rencana perjalanan juga membantu kamu menghindari kebingungan selama perjalanan.
 
-Travel guide dan aplikasi traveling bisa menjadi alat yang sangat membantu dalam menyusun itinerary.
+Travel guide dan aplikasi traveling bisa menjadi alat yang sangat membantu dalam menyusun rencana perjalanan.
 
 ## Destinasi Wisata Terbaik untuk Solo Traveler
 
@@ -63,7 +63,7 @@ Dengan menjaga keamanan, perjalanan kamu akan menjadi lebih nyaman.
 
 Open trip menjadi solusi bagi solo traveler yang ingin tetap memiliki teman selama perjalanan. Dengan bergabung dalam open trip, kamu bisa berbagi biaya dan mendapatkan pengalaman sosial yang menarik.
 
-Open trip juga biasanya sudah memiliki itinerary yang jelas sehingga lebih praktis.
+Open trip juga biasanya sudah memiliki rencana perjalanan yang jelas sehingga lebih praktis.
 
 ## Wisata Alam untuk Backpacker
 

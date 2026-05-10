@@ -44,7 +44,7 @@ Banyak orang tidak menduga bahwa Jepang dan Korea kini termasuk dalam destinasi 
 
 ## Tips Merencanakan Wisata Halal Agar Lebih Nyaman
 
-Agar pengalaman traveling halal lebih maksimal, muslim traveler sebaiknya merencanakan perjalanan dengan matang. Cari informasi destinasi wisata halal terlebih dahulu, cek panduan makanan halal, siapkan aplikasi pencari restoran halal dan masjid, serta pilih hotel yang ramah muslim. Pastikan dokumen perjalanan lengkap, jaga adab, serta tetap menghormati budaya lokal meski berbeda dengan budaya islam. Rencanakan itinerary yang tidak mengganggu jadwal ibadah, dan selalu utamakan kenyamanan serta keamanan selama berada di negara tujuan.
+Agar pengalaman traveling halal lebih maksimal, muslim traveler sebaiknya merencanakan perjalanan dengan matang. Cari informasi destinasi wisata halal terlebih dahulu, cek panduan makanan halal, siapkan aplikasi pencari restoran halal dan masjid, serta pilih hotel yang ramah muslim. Pastikan dokumen perjalanan lengkap, jaga adab, serta tetap menghormati budaya lokal meski berbeda dengan budaya islam. Rencanakan rencana perjalanan yang tidak mengganggu jadwal ibadah, dan selalu utamakan kenyamanan serta keamanan selama berada di negara tujuan.
 
 ## Manfaat Memilih Wisata Halal untuk Muslim Traveler
 

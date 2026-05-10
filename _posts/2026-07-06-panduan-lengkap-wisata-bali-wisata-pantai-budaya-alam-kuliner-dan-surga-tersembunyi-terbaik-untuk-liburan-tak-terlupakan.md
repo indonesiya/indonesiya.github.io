@@ -107,7 +107,7 @@ Agar perjalanan lebih nyaman, ada beberapa tips yang perlu diperhatikan saat tra
 - Hormati budaya lokal
 - Gunakan pakaian sopan di tempat ibadah
 - Jaga kebersihan lingkungan
-- Rencanakan itinerary dengan baik
+- Rencanakan rencana perjalanan dengan baik
 Dengan mengikuti tips ini, perjalanan kamu akan lebih menyenangkan.
 
 ## Kesimpulan

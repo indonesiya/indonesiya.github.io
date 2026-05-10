@@ -27,7 +27,7 @@ Tips ini membantu perjalanan lebih lancar.
 
 ### Strategi Liburan
 
-Menyusun strategi liburan yang baik akan membuat perjalanan lebih efisien. Tentukan destinasi utama, atur itinerary, dan siapkan budget yang cukup.
+Menyusun strategi liburan yang baik akan membuat perjalanan lebih efisien. Tentukan destinasi utama, atur rencana perjalanan, dan siapkan budget yang cukup.
 
 Dengan strategi yang tepat, Anda bisa menikmati perjalanan tanpa kendala.
 

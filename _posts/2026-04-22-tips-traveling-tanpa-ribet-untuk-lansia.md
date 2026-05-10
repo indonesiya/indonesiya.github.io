@@ -8,9 +8,9 @@ image: assets/images/wisata/tips-traveling-tanpa-ribet-untuk-lansia.jpg
 
 Traveling atau bepergian kini bukan lagi aktivitas yang hanya identik dengan anak muda. Banyak lansia yang tetap ingin menjelajah tempat baru, menikmati pemandangan alam, mengunjungi tempat wisata, atau sekadar berlibur bersama keluarga. Namun, traveling untuk lansia tentu memerlukan persiapan yang lebih matang agar perjalanan tetap nyaman, aman, dan tidak melelahkan. Dengan perencanaan yang tepat, perjalanan wisata bagi lansia bisa menjadi pengalaman yang menyenangkan tanpa ribet.
 
-Artikel ini membahas berbagai tips traveling tanpa ribet untuk lansia, mulai dari persiapan sebelum perjalanan, memilih destinasi wisata yang ramah lansia, hingga cara menjaga kesehatan selama perjalanan. Dengan mengikuti panduan ini, lansia dapat menikmati liburan dengan lebih santai tanpa khawatir menghadapi kendala yang mengganggu perjalanan.
-
 ## Panduan Nyaman, Aman, dan Menyenangkan
+
+Artikel ini membahas berbagai tips traveling tanpa ribet untuk lansia, mulai dari persiapan sebelum perjalanan, memilih destinasi wisata yang ramah lansia, hingga cara menjaga kesehatan selama perjalanan. Dengan mengikuti panduan ini, lansia dapat menikmati liburan dengan lebih santai tanpa khawatir menghadapi kendala yang mengganggu perjalanan.
 
 ### 1. Pentingnya Perencanaan Traveling untuk Lansia
 

@@ -54,7 +54,7 @@ Anda juga bisa memanfaatkan promo tiket pesawat atau paket wisata yang sering di
 
 ## Rekomendasi Tempat Wisata Populer di Bali
 
-Selain destinasi yang sudah disebutkan sebelumnya, masih banyak tempat wisata di Bali yang bisa dimasukkan dalam rencana perjalanan perjalanan. Beberapa di antaranya adalah Pura Uluwatu yang terkenal dengan pertunjukan tari kecak saat matahari terbenam, Pantai Pandawa yang memiliki tebing batu kapur yang megah, serta Garuda Wisnu Kencana yang memiliki patung raksasa yang menjadi ikon budaya Bali.
+Selain destinasi yang sudah disebutkan sebelumnya, masih banyak tempat wisata di Bali yang bisa dimasukkan dalam rencana perjalanan. Beberapa di antaranya adalah Pura Uluwatu yang terkenal dengan pertunjukan tari kecak saat matahari terbenam, Pantai Pandawa yang memiliki tebing batu kapur yang megah, serta Garuda Wisnu Kencana yang memiliki patung raksasa yang menjadi ikon budaya Bali.
 
 Jika memiliki waktu lebih lama, Anda juga bisa menjelajahi kawasan Nusa Penida yang terkenal dengan pantai eksotis seperti Kelingking Beach. Namun bagi wisatawan pemula dengan waktu terbatas, fokus pada destinasi utama di Bali sudah cukup untuk mendapatkan pengalaman liburan yang berkesan.
 

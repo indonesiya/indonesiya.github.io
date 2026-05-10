@@ -8,9 +8,9 @@ image: assets/images/wisata/tempat-wisata-romantis-di-indonesia-untuk-pasangan.j
 
 Indonesia dikenal sebagai negara yang kaya akan destinasi wisata romantis yang cocok untuk pasangan yang ingin menikmati momen spesial bersama. Dengan keindahan alamnya yang memukau, budaya yang unik, serta fasilitas wisata yang semakin lengkap, berlibur ke tempat wisata romantis di Indonesia menjadi pilihan tepat bagi pasangan yang ingin berbulan madu, merayakan anniversary, atau sekadar melepas penat bersama orang tercinta. Mulai dari pantai eksotis, pegunungan yang sejuk, hingga kota-kota penuh nuansa romantis, semua bisa ditemukan tanpa harus keluar negeri. 
 
-Artikel ini akan membahas rekomendasi tempat wisata romantis di Indonesia untuk pasangan yang ingin mendapatkan pengalaman liburan tak terlupakan, lengkap dengan suasana intim, pemandangan indah, serta aktivitas yang cocok dilakukan berdua.
-
 ## Destinasi Impian untuk Liburan Berdua
+
+Artikel ini akan membahas rekomendasi tempat wisata romantis di Indonesia untuk pasangan yang ingin mendapatkan pengalaman liburan tak terlupakan, lengkap dengan suasana intim, pemandangan indah, serta aktivitas yang cocok dilakukan berdua.
 
 ### 1. Keindahan Bali sebagai Destinasi Romantis Paling Populer di Indonesia
 

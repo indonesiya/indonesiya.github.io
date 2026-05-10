@@ -72,5 +72,4 @@ Wisata alam Indonesia menawarkan berbagai pengalaman yang tidak bisa ditemukan d
 
 Jadi, jika kamu sedang merencanakan liburan, pertimbangkan untuk menjelajahi wisata alam Indonesia dan rasakan pengalaman yang tak terlupakan.
 
-Label: alam, camping, trekking
-
+**Label:** alam, camping, trekking

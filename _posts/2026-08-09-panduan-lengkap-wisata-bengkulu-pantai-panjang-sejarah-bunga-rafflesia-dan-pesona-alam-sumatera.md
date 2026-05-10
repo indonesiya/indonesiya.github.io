@@ -34,7 +34,7 @@ Wisata ini memberikan pengalaman edukatif.
 
 - Pilih musim kemarau
 - Gunakan transportasi lokal
-- Siapkan itinerary
+- Siapkan rencana perjalanan
 Tips ini membantu perjalanan lebih nyaman.
 
 KesimpulanWisata Bengkulu menawarkan keindahan alam dan sejarah yang menarik. Destinasi ini cocok untuk liburan santai dan edukatif.

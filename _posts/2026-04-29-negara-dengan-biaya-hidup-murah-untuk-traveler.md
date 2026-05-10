@@ -6,7 +6,9 @@ categories: [ wisata, liburan ]
 image: assets/images/wisata/negara-dengan-biaya-hidup-murah-untuk-traveler.jpg
 ---
 
-Traveling Hemat Bukan Lagi MimpiBanyak orang berpikir bahwa traveling ke luar negeri membutuhkan biaya yang sangat mahal. Padahal kenyataannya tidak selalu demikian. Saat ini semakin banyak traveler yang mencari negara dengan biaya hidup murah untuk traveler agar tetap bisa menikmati perjalanan panjang tanpa menguras tabungan. 
+Banyak orang berpikir bahwa traveling ke luar negeri membutuhkan biaya yang sangat mahal. Padahal kenyataannya tidak selalu demikian. Saat ini semakin banyak traveler yang mencari negara dengan biaya hidup murah untuk traveler agar tetap bisa menikmati perjalanan panjang tanpa menguras tabungan. 
+
+## Traveling Hemat Bukan Lagi Mimpi
 
 Dengan memilih destinasi yang tepat, seorang backpacker bahkan bisa hidup nyaman hanya dengan budget yang relatif kecil per hari. Inilah alasan mengapa topik biaya hidup murah di luar negeri semakin sering dicari di mesin pencari oleh para wisatawan.
 

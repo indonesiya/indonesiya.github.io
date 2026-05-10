@@ -1,10 +1,10 @@
 ---
-title: "Panduan Lengkap Wisata Bromo Malang: Itinerary, Spot Foto Terbaik, Harga, dan Tips Liburan Maksimal"
+title: "Panduan Lengkap Wisata Bromo Malang: rencana perjalanan, Spot Foto Terbaik, Harga, dan Tips Liburan Maksimal"
 author: "admin"
 categories: ["wisata","alam"]
 date: "2026-08-17"
 publish_at: "2026-08-17 08:26:34"
-image: "assets/images/wisata/panduan-lengkap-wisata-bromo-malang-itinerary-spot-foto-terbaik-harga-dan-tips-liburan-maksimal.jpg"
+image: "assets/images/wisata/panduan-lengkap-wisata-bromo-malang-rencana perjalanan-spot-foto-terbaik-harga-dan-tips-liburan-maksimal.jpg"
 ---
 
 Wisata Bromo Malang merupakan salah satu destinasi wisata alam terbaik di Indonesia yang selalu berhasil menarik perhatian wisatawan dari berbagai daerah. Gunung Bromo yang terletak di kawasan Taman Nasional Bromo Tengger Semeru menawarkan panorama alam yang sangat spektakuler mulai dari sunrise yang memukau, lautan pasir yang luas, hingga kawah aktif yang menjadi ikon utama. Wisata Bromo Malang tidak hanya menawarkan keindahan visual, tetapi juga pengalaman petualangan yang sangat berkesan bagi siapa saja yang mengunjunginya.

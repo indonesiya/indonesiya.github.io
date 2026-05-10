@@ -30,11 +30,11 @@ Destinasi alam sering kali menjadi favorit bagi banyak introvert. Selain memberi
 
 Selain itu, introvert juga bisa mempertimbangkan destinasi wisata budaya yang tidak terlalu padat. Mengunjungi museum, galeri seni, atau situs sejarah biasanya memberikan pengalaman yang lebih tenang dibandingkan taman hiburan atau pasar wisata yang ramai. Dengan memilih destinasi yang tepat, pengalaman traveling bisa terasa jauh lebih nyaman dan bermakna.
 
-### Rencanakan Itinerary yang FleksibelP
+### Rencanakan rencana perjalanan yang FleksibelP
 
-erencanaan perjalanan adalah bagian penting dari tips traveling untuk introvert. Namun, berbeda dengan gaya traveling yang sangat padat, introvert sebaiknya membuat itinerary yang fleksibel. Jadwal yang terlalu penuh dapat menyebabkan kelelahan mental karena harus terus berpindah tempat dan berinteraksi dengan banyak orang.
+erencanaan perjalanan adalah bagian penting dari tips traveling untuk introvert. Namun, berbeda dengan gaya traveling yang sangat padat, introvert sebaiknya membuat rencana perjalanan yang fleksibel. Jadwal yang terlalu penuh dapat menyebabkan kelelahan mental karena harus terus berpindah tempat dan berinteraksi dengan banyak orang.
 
-Itinerary yang baik untuk introvert biasanya memiliki jeda waktu yang cukup panjang di antara aktivitas. Misalnya, setelah mengunjungi satu tempat wisata di pagi hari, luangkan waktu untuk beristirahat di kafe yang tenang atau kembali ke penginapan untuk bersantai. Cara ini membantu menjaga energi agar tetap stabil selama perjalanan.
+rencana perjalanan yang baik untuk introvert biasanya memiliki jeda waktu yang cukup panjang di antara aktivitas. Misalnya, setelah mengunjungi satu tempat wisata di pagi hari, luangkan waktu untuk beristirahat di kafe yang tenang atau kembali ke penginapan untuk bersantai. Cara ini membantu menjaga energi agar tetap stabil selama perjalanan.
 
 Selain itu, penting juga untuk memberikan ruang spontanitas dalam perjalanan. Introvert sering kali menikmati momen sederhana seperti duduk di taman kota, membaca buku di kafe lokal, atau berjalan santai di sekitar penginapan. Aktivitas sederhana seperti ini justru sering kali menjadi pengalaman traveling yang paling berkesan.
 

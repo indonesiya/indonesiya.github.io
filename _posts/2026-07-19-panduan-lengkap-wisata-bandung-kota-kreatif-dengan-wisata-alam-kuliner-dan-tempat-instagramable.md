@@ -40,6 +40,6 @@ Belanja menjadi aktivitas favorit wisatawan.
 
 - Datang saat weekday untuk menghindari macet
 - Gunakan kendaraan pribadi
-- Siapkan itinerary
+- Siapkan rencana perjalanan
 Tips ini membantu perjalanan lebih nyaman.
 

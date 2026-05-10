@@ -27,7 +27,7 @@ Tips ini membantu perjalanan lebih efisien.
 
 ### Keuntungan Backpacker
 
-Backpacker memberikan kebebasan dalam menentukan itinerary serta fleksibilitas dalam perjalanan. Selain itu, Anda juga bisa bertemu dengan traveler lain dan berbagi pengalaman.
+Backpacker memberikan kebebasan dalam menentukan rencana perjalanan serta fleksibilitas dalam perjalanan. Selain itu, Anda juga bisa bertemu dengan traveler lain dan berbagi pengalaman.
 
 Hal ini membuat perjalanan menjadi lebih seru dan berkesan.
 

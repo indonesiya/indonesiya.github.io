@@ -18,7 +18,7 @@ Selain itu, bebas visa juga berarti penghematan biaya perjalanan. Pengurusan vis
 
 Keuntungan lainnya adalah fleksibilitas dalam merencanakan perjalanan. Banyak traveler yang menyukai konsep spontaneous traveling atau perjalanan mendadak. Negara bebas visa memungkinkan Anda untuk merencanakan liburan dalam waktu singkat tanpa harus menunggu proses persetujuan visa.
 
-Tidak heran jika banyak orang mencari informasi tentang daftar negara bebas visa untuk WNI sebelum menentukan tujuan liburan mereka. Dengan memahami pilihan negara yang tersedia, traveler bisa menyusun itinerary perjalanan yang lebih efektif dan efisien.
+Tidak heran jika banyak orang mencari informasi tentang daftar negara bebas visa untuk WNI sebelum menentukan tujuan liburan mereka. Dengan memahami pilihan negara yang tersedia, traveler bisa menyusun rencana perjalanan yang lebih efektif dan efisien.
 
 Daftar Negara Bebas Visa untuk WNI di AsiaAsia merupakan kawasan dengan jumlah negara bebas visa terbanyak bagi WNI. Banyak negara di kawasan ini memiliki hubungan diplomatik yang baik dengan Indonesia sehingga memberikan kemudahan bagi wisatawan Indonesia.
 
@@ -70,7 +70,7 @@ Pertama, pilih waktu perjalanan di luar musim liburan atau low season. Pada peri
 
 Kedua, manfaatkan promo maskapai dan aplikasi travel. Banyak maskapai yang memberikan diskon tiket internasional jika dipesan jauh-jauh hari.
 
-Ketiga, buat itinerary perjalanan yang jelas. Dengan perencanaan yang baik, Anda dapat menghindari pengeluaran yang tidak perlu selama perjalanan.
+Ketiga, buat rencana perjalanan yang jelas. Dengan perencanaan yang baik, Anda dapat menghindari pengeluaran yang tidak perlu selama perjalanan.
 
 Dengan strategi ini, traveling ke luar negeri tidak harus mahal. Bahkan dengan budget terbatas, Anda tetap bisa menikmati pengalaman liburan internasional yang seru.
 

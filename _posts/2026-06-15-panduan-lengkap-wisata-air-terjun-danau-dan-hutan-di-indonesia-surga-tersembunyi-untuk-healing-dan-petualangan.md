@@ -79,7 +79,7 @@ Backpacker Indonesia sering memilih jenis wisata ini karena lebih ekonomis namun
 
 ## Paket Wisata dan Open Trip
 
-Bagi kamu yang ingin lebih praktis, paket wisata bisa menjadi pilihan. Paket ini biasanya mencakup transportasi, penginapan, dan itinerary.
+Bagi kamu yang ingin lebih praktis, paket wisata bisa menjadi pilihan. Paket ini biasanya mencakup transportasi, penginapan, dan rencana perjalanan.
 
 Open trip juga menjadi alternatif menarik karena memungkinkan kamu untuk berbagi biaya dengan peserta lain. Selain itu, kamu juga bisa mendapatkan pengalaman sosial yang menyenangkan.
 

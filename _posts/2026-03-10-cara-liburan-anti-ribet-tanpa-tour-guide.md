@@ -32,7 +32,7 @@ Riset ini juga membantu Anda menemukan tempat-tempat menarik yang mungkin tidak 
 
 ### Buat Rencana Perjalanan Sederhana Tapi Fleksibel
 
-Walaupun tujuan utama traveling mandiri adalah kebebasan, tetap penting untuk membuat Rencana Perjalanan perjalanan agar liburan tidak terasa berantakan. Rencana Perjalanan tidak harus terlalu detail, cukup berisi daftar tempat yang ingin dikunjungi serta perkiraan waktu perjalanan.
+Walaupun tujuan utama traveling mandiri adalah kebebasan, tetap penting untuk membuat rencana perjalanan agar liburan tidak terasa berantakan. Rencana Perjalanan tidak harus terlalu detail, cukup berisi daftar tempat yang ingin dikunjungi serta perkiraan waktu perjalanan.
 
 Misalnya, Anda bisa membagi rencana perjalanan menjadi beberapa bagian seperti destinasi utama, tempat makan yang ingin dicoba, serta aktivitas wisata yang menarik. Dengan cara ini, Anda memiliki panduan selama liburan tetapi tetap bisa menyesuaikan rencana jika menemukan hal baru di perjalanan.
 

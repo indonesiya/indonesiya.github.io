@@ -1,17 +1,17 @@
 ---
-title: "Panduan Lengkap Wisata Bali 5 Hari 4 Malam: Itinerary, Tempat Hits, Kuliner, dan Tips Hemat"
+title: "Panduan Lengkap Wisata Bali 5 Hari 4 Malam: rencana perjalanan, Tempat Hits, Kuliner, dan Tips Hemat"
 author: "admin"
 categories: ["wisata","populer"]
 date: "2026-06-29"
 publish_at: "2026-06-29 09:18:04"
-image: "assets/images/wisata/panduan-lengkap-wisata-bali-5-hari-4-malam-itinerary-tempat-hits-kuliner-dan-tips-hemat.jpg"
+image: "assets/images/wisata/panduan-lengkap-wisata-bali-5-hari-4-malam-rencana perjalanan-tempat-hits-kuliner-dan-tips-hemat.jpg"
 ---
 
-Wisata Bali merupakan salah satu destinasi wisata paling populer di dunia yang menawarkan berbagai pilihan tempat menarik mulai dari pantai, budaya, hingga wisata alam. Pulau Dewata ini selalu menjadi favorit bagi wisatawan karena keindahannya yang luar biasa serta fasilitas wisata yang lengkap. Dengan itinerary 5 hari 4 malam, Anda bisa menjelajahi berbagai destinasi populer di Bali tanpa terburu-buru dan tetap menikmati setiap momen perjalanan.
+Wisata Bali merupakan salah satu destinasi wisata paling populer di dunia yang menawarkan berbagai pilihan tempat menarik mulai dari pantai, budaya, hingga wisata alam. Pulau Dewata ini selalu menjadi favorit bagi wisatawan karena keindahannya yang luar biasa serta fasilitas wisata yang lengkap. Dengan rencana perjalanan 5 hari 4 malam, Anda bisa menjelajahi berbagai destinasi populer di Bali tanpa terburu-buru dan tetap menikmati setiap momen perjalanan.
 
 Bali tidak hanya terkenal dengan pantainya seperti Kuta dan Seminyak, tetapi juga memiliki banyak destinasi lain seperti Ubud yang terkenal dengan sawah terasering dan budaya tradisional. Selain itu, Bali juga memiliki berbagai pura yang indah seperti Tanah Lot dan Uluwatu yang menjadi ikon wisata budaya.
 
-## Itinerary Wisata Bali
+## rencana perjalanan Wisata Bali
 
 ### Hari 1
 

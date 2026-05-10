@@ -6,7 +6,7 @@ categories: [ wisata, liburan ]
 image: assets/images/wisata/tips-backpacker-keliling-indonesia-dengan-budget-minim.jpg
 ---
 
-Menjelajah Indonesia Tanpa Harus KayaIndonesia dikenal sebagai negara kepulauan dengan ribuan destinasi wisata yang menakjubkan. Dari pantai tropis, pegunungan, hutan hujan, hingga desa budaya yang unik, semuanya bisa menjadi tujuan perjalanan yang luar biasa. Banyak orang berpikir bahwa keliling Indonesia membutuhkan biaya besar, padahal kenyataannya tidak selalu demikian. Dengan strategi yang tepat, siapa pun bisa melakukan perjalanan hemat ala backpacker tanpa harus menguras tabungan.
+Indonesia dikenal sebagai negara kepulauan dengan ribuan destinasi wisata yang menakjubkan. Dari pantai tropis, pegunungan, hutan hujan, hingga desa budaya yang unik, semuanya bisa menjadi tujuan perjalanan yang luar biasa. Banyak orang berpikir bahwa keliling Indonesia membutuhkan biaya besar, padahal kenyataannya tidak selalu demikian. Dengan strategi yang tepat, siapa pun bisa melakukan perjalanan hemat ala backpacker tanpa harus menguras tabungan.
 
 ## Panduan Lengkap untuk Traveler Hemat
 
