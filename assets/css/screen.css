@@ -1125,6 +1125,15 @@ iframe {
   border-radius: 8px !important;
 }
 
+/* Jika input berada di dalam container tertentu */
+.google-auto-placed,
+.google-auto-place,
+.google-autocomplete {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
 /* Setiap item hasil pencarian */
 .pac-item {
   max-width: 100% !important;
