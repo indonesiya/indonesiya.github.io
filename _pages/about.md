@@ -118,6 +118,4 @@ comments: false
 
     <p>Kami mengundang Anda untuk menjadi bagian dari perjalanan ini—menjelajah, belajar, dan menemukan hal baru
         bersama Indonesiya.</p>
-
-    </div>
 </section>

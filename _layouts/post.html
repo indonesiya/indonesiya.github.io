@@ -113,16 +113,16 @@ layout: default
       <ul class="pagination justify-content-between">
 
         {% if page.previous.url %}
-        <li class="page-item fw-bold">
-          <a class="page-link fw-bold" href="{{ page.previous.url | relative_url }}">
+        <li class="page-item">
+          <a class="page-link text-primary link-danger fw-bold" href="{{ page.previous.url | relative_url }}">
             &laquo; {{ page.previous.title | truncate: 40 }}
           </a>
         </li>
         {% endif %}
 
         {% if page.next.url %}
-        <li class="page-item ms-auto fw-bold">
-          <a class="page-link fw-bold" href="{{ page.next.url | relative_url }}">
+        <li class="page-item">
+          <a class="page-link text-primary link-danger fw-bold" href="{{ page.next.url | relative_url }}">
             {{ page.next.title | truncate: 40 }} &raquo;
           </a>
         </li>
