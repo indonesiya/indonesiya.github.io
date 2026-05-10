@@ -1107,3 +1107,69 @@ iframe {
     border: 1px solid #eee;
     padding: 15px;
 }
+
+/* ==========================================
+   GOOGLE AUTO PLACE / GOOGLE PLACES AUTOCOMPLETE
+   AGAR TIDAK MERUSAK LAYOUT TEMPLATE
+   ========================================== */
+
+/* Container utama autocomplete Google */
+.pac-container {
+  max-width: 100% !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+  overflow: hidden !important;
+  word-wrap: break-word !important;
+  white-space: normal !important;
+  z-index: 999999 !important;
+  border-radius: 8px !important;
+}
+
+/* Setiap item hasil pencarian */
+.pac-item {
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+  white-space: normal !important;
+  overflow-wrap: break-word !important;
+  word-break: break-word !important;
+  padding: 10px 12px !important;
+}
+
+/* Teks utama alamat */
+.pac-item-query {
+  display: inline !important;
+  white-space: normal !important;
+  word-break: break-word !important;
+  font-weight: 600;
+}
+
+/* Secondary text */
+.pac-matched,
+.pac-icon,
+.pac-item span {
+  white-space: normal !important;
+  overflow-wrap: break-word !important;
+  word-break: break-word !important;
+}
+
+/* Agar dropdown mengikuti lebar input */
+.location-search {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+/* Jika menggunakan Bootstrap */
+.form-control {
+  max-width: 100%;
+}
+
+/* Responsive untuk layar kecil */
+@media (max-width: 768px) {
+  .pac-container {
+    width: calc(100% - 20px) !important;
+    left: 10px !important;
+    right: 10px !important;
+    max-width: none !important;
+  }
+}
