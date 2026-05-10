@@ -787,6 +787,7 @@ span.navigation {
 }
 
 iframe {
+    width: 100%;
     max-width: 100%;
 }
 
@@ -1104,7 +1105,7 @@ iframe {
 
 /* Box Style */
 .ad-box {
-    background: #fafafa;
+    background: #eee;
     border: 1px solid #eee;
     padding: 15px;
 }
