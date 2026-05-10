@@ -151,15 +151,9 @@ layout: default
               </h4>
 
               <!-- DATE -->
-              <span class="small text-muted d-block mb-1">
+              <span class="text-muted d-block mb-1">
                 {{ post.date | date: "%b %-d, %Y" }}
               </span>
-
-              {% if post.author %}
-              <span class="small text-capitalize text-muted" itemprop="author">
-                • {{ post.author }}
-              </span>
-              {% endif %}
 
               <!-- EXCERPT -->
               <p class="small text-muted mb-0">
