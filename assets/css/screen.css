@@ -62,6 +62,7 @@ pre {
     margin-top: 57px;
     transition: all 0.4s;
     width: 100%;
+    max-width: 100%;
 }
 
 section {
