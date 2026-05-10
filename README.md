@@ -1,75 +1,47 @@
-# Aridjaya Wallpaper Website
+# 🌴 Indonesiya.com - Portal Wisata Indonesia
 
-A curated collection of high-quality **HD, Full HD, and 4K wallpapers** designed to enhance your screen with beautiful and modern visuals.
+Selamat datang di **Indonesiya.com**, portal informasi wisata Indonesia yang menyajikan berbagai destinasi terbaik, rekomendasi liburan, budaya lokal, kuliner khas, hingga tips traveling.
 
-🌐 Live Site: [Aridjaya](https://aridjaya.com/wallpaper) 
-
----
-
-## 📌 About
-
-This website provides a wide range of wallpapers including:
-- Nature landscapes
-- Mountains and forests
-- Beaches and sunsets
-- Waterfalls and rivers
-- City skylines
-- Minimal and aesthetic designs
-
-All wallpapers are carefully selected to ensure high resolution, clarity, and visual appeal across all devices.
+🔗 Website: https://indonesiya.com
 
 ---
 
-## ✨ Features
+## ✨ Fitur
 
-- High-quality HD / Full HD / 4K wallpapers  
-- Responsive design for all devices  
-- Easy browsing by categories  
-- Free download for all wallpapers  
-- Regularly updated content  
-
----
-
-## 📱 Compatibility
-
-Optimized for:
-- Desktop computers
-- Laptops
-- Tablets
-- Mobile devices (Android & iOS)
+- 🏝️ Artikel destinasi wisata Indonesia
+- 📍 Kategori wisata berdasarkan daerah
+- 🔎 SEO Friendly Structure
+- ⚡ Fast Loading & Responsive Design
+- 🖼️ Featured Image pada setiap artikel
+- 📱 Mobile Friendly
+- 📰 Related Posts otomatis
+- 🔗 Internal Linking untuk optimasi SEO
+- 📊 Sitemap & Structured Data Support
 
 ---
 
-## 🚀 How to Use
+## 🧭 Kategori Wisata
 
-1. Visit the website  
-2. Browse wallpaper collections  
-3. Click on your favorite wallpaper  
-4. Download and set as background  
-
----
-
-## 🔄 Updates
-
-New wallpapers are added regularly to keep the collection fresh and trending.
+- Wisata Alam
+- Pantai
+- Gunung
+- Air Terjun
+- Wisata Kuliner
+- Wisata Sejarah
+- Wisata Religi
+- Hidden Gem Indonesia
 
 ---
 
-## 📧 Contact
+## 🌐 Website
 
-For suggestions, feedback, or inquiries:
+Open : https://indonesiya.com
 
-- 📧 Email: [support@aridjaya.com](https://aridjaya.com/wallpaper) 
-- 🌐 Website: [Aridjaya](https://aridjaya.com/wallpaper) 
+--- 
 
----
+## 🚀 Supported
 
-## 📄 License
-
-All wallpapers are provided for personal use only. Please respect original creators where applicable.
-
----
-
-## ⭐ Support
-
-If you like this project, feel free to share it and help others discover beautiful wallpapers.
+- https://aridjaya.com
+- https://hanapha.com
+- https://maginve.com
+- https://asninfo.id
