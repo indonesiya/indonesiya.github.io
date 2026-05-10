@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sitemap
+title: Daftar Isi
 permalink: /sitemap/
 comments: false
 ---
@@ -15,7 +15,7 @@ comments: false
   <ul>
     {% for post in site.posts limit:50 %}
       <li>
-        <a class="text-capitalize text-decoration-none" href="{{ post.url | relative_url }}">
+        <a class="text-primary link-danger text-capitalize text-decoration-none" href="{{ post.url | relative_url }}">
         {{ post.title }}
         </a>
       </li>
@@ -30,7 +30,7 @@ comments: false
     {% for page in site.pages %}
       {% if page.title and page.url != '/404.html' %}
       <li>
-        <a class="text-capitalize text-decoration-none" href="{{ page.url | relative_url }}">
+        <a class="text-primary link-danger text-capitalize text-decoration-none" href="{{ page.url | relative_url }}">
         {{ page.title }}
         </a>
       </li>
@@ -45,7 +45,7 @@ comments: false
   <ul>
     {% for category in site.categories %}
       <li>
-        <a class="text-capitalize text-decoration-none" href="/categories/#{{ category[0] | slugify }}/">
+        <a class="text-primary link-danger text-capitalize text-decoration-none" href="/categories/#{{ category[0] | slugify }}/">
           {{ category[0] }}
         </a>
       </li>
